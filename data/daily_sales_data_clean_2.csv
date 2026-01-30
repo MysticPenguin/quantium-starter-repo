@@ -1,1961 +1,1961 @@
-,product,sold,date,region
-0,pink morsel,"$1,578.00",2020-10-13,north
-1,pink morsel,"$1,638.00",2020-10-13,south
-2,pink morsel,"$1,515.00",2020-10-13,east
-3,pink morsel,"$1,683.00",2020-10-13,west
-4,pink morsel,"$1,680.00",2020-10-14,north
-5,pink morsel,"$1,755.00",2020-10-14,south
-6,pink morsel,"$1,584.00",2020-10-14,east
-7,pink morsel,"$1,590.00",2020-10-14,west
-8,pink morsel,"$1,518.00",2020-10-15,north
-9,pink morsel,"$1,701.00",2020-10-15,south
-10,pink morsel,"$1,716.00",2020-10-15,east
-11,pink morsel,"$1,563.00",2020-10-15,west
-12,pink morsel,"$1,638.00",2020-10-16,north
-13,pink morsel,"$1,689.00",2020-10-16,south
-14,pink morsel,"$1,515.00",2020-10-16,east
-15,pink morsel,"$1,632.00",2020-10-16,west
-16,pink morsel,"$1,509.00",2020-10-17,north
-17,pink morsel,"$1,791.00",2020-10-17,south
-18,pink morsel,"$1,509.00",2020-10-17,east
-19,pink morsel,"$1,776.00",2020-10-17,west
-20,pink morsel,"$1,524.00",2020-10-18,north
-21,pink morsel,"$1,716.00",2020-10-18,south
-22,pink morsel,"$1,578.00",2020-10-18,east
-23,pink morsel,"$1,713.00",2020-10-18,west
-24,pink morsel,"$1,656.00",2020-10-19,north
-25,pink morsel,"$1,725.00",2020-10-19,south
-26,pink morsel,"$1,554.00",2020-10-19,east
-27,pink morsel,"$1,524.00",2020-10-19,west
-28,pink morsel,"$1,569.00",2020-10-20,north
-29,pink morsel,"$1,758.00",2020-10-20,south
-30,pink morsel,"$1,758.00",2020-10-20,east
-31,pink morsel,"$1,614.00",2020-10-20,west
-32,pink morsel,"$1,740.00",2020-10-21,north
-33,pink morsel,"$1,521.00",2020-10-21,south
-34,pink morsel,"$1,722.00",2020-10-21,east
-35,pink morsel,"$1,605.00",2020-10-21,west
-36,pink morsel,"$1,749.00",2020-10-22,north
-37,pink morsel,"$1,638.00",2020-10-22,south
-38,pink morsel,"$1,710.00",2020-10-22,east
-39,pink morsel,"$1,668.00",2020-10-22,west
-40,pink morsel,"$1,635.00",2020-10-23,north
-41,pink morsel,"$1,533.00",2020-10-23,south
-42,pink morsel,"$1,635.00",2020-10-23,east
-43,pink morsel,"$1,575.00",2020-10-23,west
-44,pink morsel,"$1,737.00",2020-10-24,north
-45,pink morsel,"$1,593.00",2020-10-24,south
-46,pink morsel,"$1,707.00",2020-10-24,east
-47,pink morsel,"$1,536.00",2020-10-24,west
-48,pink morsel,"$1,689.00",2020-10-25,north
-49,pink morsel,"$1,680.00",2020-10-25,south
-50,pink morsel,"$1,605.00",2020-10-25,east
-51,pink morsel,"$1,617.00",2020-10-25,west
-52,pink morsel,"$1,746.00",2020-10-26,north
-53,pink morsel,"$1,518.00",2020-10-26,south
-54,pink morsel,"$1,656.00",2020-10-26,east
-55,pink morsel,"$1,542.00",2020-10-26,west
-56,pink morsel,"$1,581.00",2020-10-27,north
-57,pink morsel,"$1,716.00",2020-10-27,south
-58,pink morsel,"$1,683.00",2020-10-27,east
-59,pink morsel,"$1,518.00",2020-10-27,west
-60,pink morsel,"$1,746.00",2020-10-28,north
-61,pink morsel,"$1,587.00",2020-10-28,south
-62,pink morsel,"$1,644.00",2020-10-28,east
-63,pink morsel,"$1,731.00",2020-10-28,west
-64,pink morsel,"$1,770.00",2020-10-29,north
-65,pink morsel,"$1,692.00",2020-10-29,south
-66,pink morsel,"$1,557.00",2020-10-29,east
-67,pink morsel,"$1,524.00",2020-10-29,west
-68,pink morsel,"$1,773.00",2020-10-30,north
-69,pink morsel,"$1,689.00",2020-10-30,south
-70,pink morsel,"$1,776.00",2020-10-30,east
-71,pink morsel,"$1,686.00",2020-10-30,west
-72,pink morsel,"$1,581.00",2020-10-31,north
-73,pink morsel,"$1,758.00",2020-10-31,south
-74,pink morsel,"$1,755.00",2020-10-31,east
-75,pink morsel,"$1,668.00",2020-10-31,west
-76,pink morsel,"$1,665.00",2020-11-01,north
-77,pink morsel,"$1,551.00",2020-11-01,south
-78,pink morsel,"$1,770.00",2020-11-01,east
-79,pink morsel,"$1,593.00",2020-11-01,west
-80,pink morsel,"$1,734.00",2020-11-02,north
-81,pink morsel,"$1,500.00",2020-11-02,south
-82,pink morsel,"$1,740.00",2020-11-02,east
-83,pink morsel,"$1,686.00",2020-11-02,west
-84,pink morsel,"$1,551.00",2020-11-03,north
-85,pink morsel,"$1,752.00",2020-11-03,south
-86,pink morsel,"$1,746.00",2020-11-03,east
-87,pink morsel,"$1,581.00",2020-11-03,west
-88,pink morsel,"$1,773.00",2020-11-04,north
-89,pink morsel,"$1,788.00",2020-11-04,south
-90,pink morsel,"$1,545.00",2020-11-04,east
-91,pink morsel,"$1,506.00",2020-11-04,west
-92,pink morsel,"$1,644.00",2020-11-05,north
-93,pink morsel,"$1,605.00",2020-11-05,south
-94,pink morsel,"$1,686.00",2020-11-05,east
-95,pink morsel,"$1,539.00",2020-11-05,west
-96,pink morsel,"$1,725.00",2020-11-06,north
-97,pink morsel,"$1,599.00",2020-11-06,south
-98,pink morsel,"$1,659.00",2020-11-06,east
-99,pink morsel,"$1,575.00",2020-11-06,west
-100,pink morsel,"$1,653.00",2020-11-07,north
-101,pink morsel,"$1,641.00",2020-11-07,south
-102,pink morsel,"$1,587.00",2020-11-07,east
-103,pink morsel,"$1,758.00",2020-11-07,west
-104,pink morsel,"$1,785.00",2020-11-08,north
-105,pink morsel,"$1,695.00",2020-11-08,south
-106,pink morsel,"$1,581.00",2020-11-08,east
-107,pink morsel,"$1,734.00",2020-11-08,west
-108,pink morsel,"$1,788.00",2020-11-09,north
-109,pink morsel,"$1,593.00",2020-11-09,south
-110,pink morsel,"$1,593.00",2020-11-09,east
-111,pink morsel,"$1,512.00",2020-11-09,west
-112,pink morsel,"$1,638.00",2020-11-10,north
-113,pink morsel,"$1,734.00",2020-11-10,south
-114,pink morsel,"$1,695.00",2020-11-10,east
-115,pink morsel,"$1,638.00",2020-11-10,west
-116,pink morsel,"$1,695.00",2020-11-11,north
-117,pink morsel,"$1,533.00",2020-11-11,south
-118,pink morsel,"$1,731.00",2020-11-11,east
-119,pink morsel,"$1,689.00",2020-11-11,west
-120,pink morsel,"$1,713.00",2020-11-12,north
-121,pink morsel,"$1,596.00",2020-11-12,south
-122,pink morsel,"$1,686.00",2020-11-12,east
-123,pink morsel,"$1,515.00",2020-11-12,west
-124,pink morsel,"$1,581.00",2020-11-13,north
-125,pink morsel,"$1,521.00",2020-11-13,south
-126,pink morsel,"$1,677.00",2020-11-13,east
-127,pink morsel,"$1,635.00",2020-11-13,west
-128,pink morsel,"$1,749.00",2020-11-14,north
-129,pink morsel,"$1,542.00",2020-11-14,south
-130,pink morsel,"$1,602.00",2020-11-14,east
-131,pink morsel,"$1,557.00",2020-11-14,west
-132,pink morsel,"$1,686.00",2020-11-15,north
-133,pink morsel,"$1,638.00",2020-11-15,south
-134,pink morsel,"$1,794.00",2020-11-15,east
-135,pink morsel,"$1,659.00",2020-11-15,west
-136,pink morsel,"$1,773.00",2020-11-16,north
-137,pink morsel,"$1,671.00",2020-11-16,south
-138,pink morsel,"$1,626.00",2020-11-16,east
-139,pink morsel,"$1,725.00",2020-11-16,west
-140,pink morsel,"$1,686.00",2020-11-17,north
-141,pink morsel,"$1,521.00",2020-11-17,south
-142,pink morsel,"$1,734.00",2020-11-17,east
-143,pink morsel,"$1,530.00",2020-11-17,west
-144,pink morsel,"$1,698.00",2020-11-18,north
-145,pink morsel,"$1,770.00",2020-11-18,south
-146,pink morsel,"$1,752.00",2020-11-18,east
-147,pink morsel,"$1,662.00",2020-11-18,west
-148,pink morsel,"$1,566.00",2020-11-19,north
-149,pink morsel,"$1,590.00",2020-11-19,south
-150,pink morsel,"$1,635.00",2020-11-19,east
-151,pink morsel,"$1,698.00",2020-11-19,west
-152,pink morsel,"$1,683.00",2020-11-20,north
-153,pink morsel,"$1,653.00",2020-11-20,south
-154,pink morsel,"$1,527.00",2020-11-20,east
-155,pink morsel,"$1,524.00",2020-11-20,west
-156,pink morsel,"$1,593.00",2020-11-21,north
-157,pink morsel,"$1,656.00",2020-11-21,south
-158,pink morsel,"$1,623.00",2020-11-21,east
-159,pink morsel,"$1,638.00",2020-11-21,west
-160,pink morsel,"$1,596.00",2020-11-22,north
-161,pink morsel,"$1,575.00",2020-11-22,south
-162,pink morsel,"$1,656.00",2020-11-22,east
-163,pink morsel,"$1,725.00",2020-11-22,west
-164,pink morsel,"$1,767.00",2020-11-23,north
-165,pink morsel,"$1,650.00",2020-11-23,south
-166,pink morsel,"$1,641.00",2020-11-23,east
-167,pink morsel,"$1,632.00",2020-11-23,west
-168,pink morsel,"$1,602.00",2020-11-24,north
-169,pink morsel,"$1,632.00",2020-11-24,south
-170,pink morsel,"$1,743.00",2020-11-24,east
-171,pink morsel,"$1,617.00",2020-11-24,west
-172,pink morsel,"$1,725.00",2020-11-25,north
-173,pink morsel,"$1,761.00",2020-11-25,south
-174,pink morsel,"$1,791.00",2020-11-25,east
-175,pink morsel,"$1,620.00",2020-11-25,west
-176,pink morsel,"$1,770.00",2020-11-26,north
-177,pink morsel,"$1,791.00",2020-11-26,south
-178,pink morsel,"$1,665.00",2020-11-26,east
-179,pink morsel,"$1,743.00",2020-11-26,west
-180,pink morsel,"$1,632.00",2020-11-27,north
-181,pink morsel,"$1,587.00",2020-11-27,south
-182,pink morsel,"$1,680.00",2020-11-27,east
-183,pink morsel,"$1,656.00",2020-11-27,west
-184,pink morsel,"$1,746.00",2020-11-28,north
-185,pink morsel,"$1,599.00",2020-11-28,south
-186,pink morsel,"$1,719.00",2020-11-28,east
-187,pink morsel,"$1,794.00",2020-11-28,west
-188,pink morsel,"$1,758.00",2020-11-29,north
-189,pink morsel,"$1,557.00",2020-11-29,south
-190,pink morsel,"$1,647.00",2020-11-29,east
-191,pink morsel,"$1,740.00",2020-11-29,west
-192,pink morsel,"$1,635.00",2020-11-30,north
-193,pink morsel,"$1,584.00",2020-11-30,south
-194,pink morsel,"$1,614.00",2020-11-30,east
-195,pink morsel,"$1,749.00",2020-11-30,west
-196,pink morsel,"$1,587.00",2020-12-01,north
-197,pink morsel,"$1,719.00",2020-12-01,south
-198,pink morsel,"$1,620.00",2020-12-01,east
-199,pink morsel,"$1,656.00",2020-12-01,west
-200,pink morsel,"$1,554.00",2020-12-02,north
-201,pink morsel,"$1,755.00",2020-12-02,south
-202,pink morsel,"$1,737.00",2020-12-02,east
-203,pink morsel,"$1,548.00",2020-12-02,west
-204,pink morsel,"$1,572.00",2020-12-03,north
-205,pink morsel,"$1,560.00",2020-12-03,south
-206,pink morsel,"$1,746.00",2020-12-03,east
-207,pink morsel,"$1,788.00",2020-12-03,west
-208,pink morsel,"$1,638.00",2020-12-04,north
-209,pink morsel,"$1,626.00",2020-12-04,south
-210,pink morsel,"$1,518.00",2020-12-04,east
-211,pink morsel,"$1,773.00",2020-12-04,west
-212,pink morsel,"$1,707.00",2020-12-05,north
-213,pink morsel,"$1,614.00",2020-12-05,south
-214,pink morsel,"$1,722.00",2020-12-05,east
-215,pink morsel,"$1,524.00",2020-12-05,west
-216,pink morsel,"$1,560.00",2020-12-06,north
-217,pink morsel,"$1,617.00",2020-12-06,south
-218,pink morsel,"$1,566.00",2020-12-06,east
-219,pink morsel,"$1,515.00",2020-12-06,west
-220,pink morsel,"$1,509.00",2020-12-07,north
-221,pink morsel,"$1,545.00",2020-12-07,south
-222,pink morsel,"$1,596.00",2020-12-07,east
-223,pink morsel,"$1,671.00",2020-12-07,west
-224,pink morsel,"$1,686.00",2020-12-08,north
-225,pink morsel,"$1,785.00",2020-12-08,south
-226,pink morsel,"$1,800.00",2020-12-08,east
-227,pink morsel,"$1,590.00",2020-12-08,west
-228,pink morsel,"$1,788.00",2020-12-09,north
-229,pink morsel,"$1,788.00",2020-12-09,south
-230,pink morsel,"$1,584.00",2020-12-09,east
-231,pink morsel,"$1,665.00",2020-12-09,west
-232,pink morsel,"$1,620.00",2020-12-10,north
-233,pink morsel,"$1,725.00",2020-12-10,south
-234,pink morsel,"$1,569.00",2020-12-10,east
-235,pink morsel,"$1,533.00",2020-12-10,west
-236,pink morsel,"$1,503.00",2020-12-11,north
-237,pink morsel,"$1,713.00",2020-12-11,south
-238,pink morsel,"$1,650.00",2020-12-11,east
-239,pink morsel,"$1,776.00",2020-12-11,west
-240,pink morsel,"$1,629.00",2020-12-12,north
-241,pink morsel,"$1,662.00",2020-12-12,south
-242,pink morsel,"$1,623.00",2020-12-12,east
-243,pink morsel,"$1,590.00",2020-12-12,west
-244,pink morsel,"$1,650.00",2020-12-13,north
-245,pink morsel,"$1,647.00",2020-12-13,south
-246,pink morsel,"$1,683.00",2020-12-13,east
-247,pink morsel,"$1,530.00",2020-12-13,west
-248,pink morsel,"$1,746.00",2020-12-14,north
-249,pink morsel,"$1,551.00",2020-12-14,south
-250,pink morsel,"$1,548.00",2020-12-14,east
-251,pink morsel,"$1,767.00",2020-12-14,west
-252,pink morsel,"$1,785.00",2020-12-15,north
-253,pink morsel,"$1,734.00",2020-12-15,south
-254,pink morsel,"$1,578.00",2020-12-15,east
-255,pink morsel,"$1,596.00",2020-12-15,west
-256,pink morsel,"$1,779.00",2020-12-16,north
-257,pink morsel,"$1,770.00",2020-12-16,south
-258,pink morsel,"$1,581.00",2020-12-16,east
-259,pink morsel,"$1,614.00",2020-12-16,west
-260,pink morsel,"$1,506.00",2020-12-17,north
-261,pink morsel,"$1,533.00",2020-12-17,south
-262,pink morsel,"$1,677.00",2020-12-17,east
-263,pink morsel,"$1,737.00",2020-12-17,west
-264,pink morsel,"$1,635.00",2020-12-18,north
-265,pink morsel,"$1,800.00",2020-12-18,south
-266,pink morsel,"$1,794.00",2020-12-18,east
-267,pink morsel,"$1,653.00",2020-12-18,west
-268,pink morsel,"$1,719.00",2020-12-19,north
-269,pink morsel,"$1,674.00",2020-12-19,south
-270,pink morsel,"$1,575.00",2020-12-19,east
-271,pink morsel,"$1,650.00",2020-12-19,west
-272,pink morsel,"$1,707.00",2020-12-20,north
-273,pink morsel,"$1,692.00",2020-12-20,south
-274,pink morsel,"$1,614.00",2020-12-20,east
-275,pink morsel,"$1,563.00",2020-12-20,west
-276,pink morsel,"$1,575.00",2020-12-21,north
-277,pink morsel,"$1,506.00",2020-12-21,south
-278,pink morsel,"$1,599.00",2020-12-21,east
-279,pink morsel,"$1,686.00",2020-12-21,west
-280,pink morsel,"$1,518.00",2020-12-22,north
-281,pink morsel,"$1,677.00",2020-12-22,south
-282,pink morsel,"$1,722.00",2020-12-22,east
-283,pink morsel,"$1,566.00",2020-12-22,west
-284,pink morsel,"$1,677.00",2020-12-23,north
-285,pink morsel,"$1,542.00",2020-12-23,south
-286,pink morsel,"$1,785.00",2020-12-23,east
-287,pink morsel,"$1,671.00",2020-12-23,west
-288,pink morsel,"$1,725.00",2020-12-24,north
-289,pink morsel,"$1,506.00",2020-12-24,south
-290,pink morsel,"$1,563.00",2020-12-24,east
-291,pink morsel,"$1,668.00",2020-12-24,west
-292,pink morsel,"$1,782.00",2020-12-25,north
-293,pink morsel,"$1,557.00",2020-12-25,south
-294,pink morsel,"$1,797.00",2020-12-25,east
-295,pink morsel,"$1,563.00",2020-12-25,west
-296,pink morsel,"$1,554.00",2020-12-26,north
-297,pink morsel,"$1,650.00",2020-12-26,south
-298,pink morsel,"$1,698.00",2020-12-26,east
-299,pink morsel,"$1,737.00",2020-12-26,west
-300,pink morsel,"$1,770.00",2020-12-27,north
-301,pink morsel,"$1,734.00",2020-12-27,south
-302,pink morsel,"$1,770.00",2020-12-27,east
-303,pink morsel,"$1,524.00",2020-12-27,west
-304,pink morsel,"$1,725.00",2020-12-28,north
-305,pink morsel,"$1,536.00",2020-12-28,south
-306,pink morsel,"$1,758.00",2020-12-28,east
-307,pink morsel,"$1,683.00",2020-12-28,west
-308,pink morsel,"$1,518.00",2020-12-29,north
-309,pink morsel,"$1,677.00",2020-12-29,south
-310,pink morsel,"$1,614.00",2020-12-29,east
-311,pink morsel,"$1,767.00",2020-12-29,west
-312,pink morsel,"$1,524.00",2020-12-30,north
-313,pink morsel,"$1,530.00",2020-12-30,south
-314,pink morsel,"$1,584.00",2020-12-30,east
-315,pink morsel,"$1,791.00",2020-12-30,west
-316,pink morsel,"$1,740.00",2020-12-31,north
-317,pink morsel,"$1,698.00",2020-12-31,south
-318,pink morsel,"$1,770.00",2020-12-31,east
-319,pink morsel,"$1,650.00",2020-12-31,west
-320,pink morsel,"$1,536.00",2021-01-01,north
-321,pink morsel,"$1,542.00",2021-01-01,south
-322,pink morsel,"$1,671.00",2021-01-01,east
-323,pink morsel,"$1,752.00",2021-01-01,west
-324,pink morsel,"$1,794.00",2021-01-02,north
-325,pink morsel,"$1,620.00",2021-01-02,south
-326,pink morsel,"$1,584.00",2021-01-02,east
-327,pink morsel,"$1,503.00",2021-01-02,west
-328,pink morsel,"$1,758.00",2021-01-03,north
-329,pink morsel,"$1,578.00",2021-01-03,south
-330,pink morsel,"$1,677.00",2021-01-03,east
-331,pink morsel,"$1,722.00",2021-01-03,west
-332,pink morsel,"$1,590.00",2021-01-04,north
-333,pink morsel,"$1,785.00",2021-01-04,south
-334,pink morsel,"$1,731.00",2021-01-04,east
-335,pink morsel,"$1,686.00",2021-01-04,west
-336,pink morsel,"$1,536.00",2021-01-05,north
-337,pink morsel,"$1,578.00",2021-01-05,south
-338,pink morsel,"$1,683.00",2021-01-05,east
-339,pink morsel,"$1,608.00",2021-01-05,west
-340,pink morsel,"$1,743.00",2021-01-06,north
-341,pink morsel,"$1,743.00",2021-01-06,south
-342,pink morsel,"$1,638.00",2021-01-06,east
-343,pink morsel,"$1,788.00",2021-01-06,west
-344,pink morsel,"$1,716.00",2021-01-07,north
-345,pink morsel,"$1,602.00",2021-01-07,south
-346,pink morsel,"$1,596.00",2021-01-07,east
-347,pink morsel,"$1,797.00",2021-01-07,west
-348,pink morsel,"$1,662.00",2021-01-08,north
-349,pink morsel,"$1,668.00",2021-01-08,south
-350,pink morsel,"$1,662.00",2021-01-08,east
-351,pink morsel,"$1,521.00",2021-01-08,west
-352,pink morsel,"$1,563.00",2021-01-09,north
-353,pink morsel,"$1,647.00",2021-01-09,south
-354,pink morsel,"$1,743.00",2021-01-09,east
-355,pink morsel,"$1,653.00",2021-01-09,west
-356,pink morsel,"$1,731.00",2021-01-10,north
-357,pink morsel,"$1,608.00",2021-01-10,south
-358,pink morsel,"$1,512.00",2021-01-10,east
-359,pink morsel,"$1,545.00",2021-01-10,west
-360,pink morsel,"$1,740.00",2021-01-11,north
-361,pink morsel,"$1,611.00",2021-01-11,south
-362,pink morsel,"$1,536.00",2021-01-11,east
-363,pink morsel,"$1,626.00",2021-01-11,west
-364,pink morsel,"$1,614.00",2021-01-12,north
-365,pink morsel,"$1,572.00",2021-01-12,south
-366,pink morsel,"$1,539.00",2021-01-12,east
-367,pink morsel,"$1,605.00",2021-01-12,west
-368,pink morsel,"$1,545.00",2021-01-13,north
-369,pink morsel,"$1,542.00",2021-01-13,south
-370,pink morsel,"$1,779.00",2021-01-13,east
-371,pink morsel,"$1,680.00",2021-01-13,west
-372,pink morsel,"$1,701.00",2021-01-14,north
-373,pink morsel,"$1,677.00",2021-01-14,south
-374,pink morsel,"$1,614.00",2021-01-14,east
-375,pink morsel,"$1,590.00",2021-01-14,west
-376,pink morsel,"$2,025.00",2021-01-15,north
-377,pink morsel,"$2,195.00",2021-01-15,south
-378,pink morsel,"$2,180.00",2021-01-15,east
-379,pink morsel,"$2,395.00",2021-01-15,west
-380,pink morsel,"$2,110.00",2021-01-16,north
-381,pink morsel,"$2,145.00",2021-01-16,south
-382,pink morsel,"$2,340.00",2021-01-16,east
-383,pink morsel,"$2,390.00",2021-01-16,west
-384,pink morsel,"$2,475.00",2021-01-17,north
-385,pink morsel,"$2,320.00",2021-01-17,south
-386,pink morsel,"$2,105.00",2021-01-17,east
-387,pink morsel,"$2,090.00",2021-01-17,west
-388,pink morsel,"$2,050.00",2021-01-18,north
-389,pink morsel,"$2,410.00",2021-01-18,south
-390,pink morsel,"$2,125.00",2021-01-18,east
-391,pink morsel,"$2,325.00",2021-01-18,west
-392,pink morsel,"$2,335.00",2021-01-19,north
-393,pink morsel,"$2,105.00",2021-01-19,south
-394,pink morsel,"$2,340.00",2021-01-19,east
-395,pink morsel,"$2,420.00",2021-01-19,west
-396,pink morsel,"$2,415.00",2021-01-20,north
-397,pink morsel,"$2,495.00",2021-01-20,south
-398,pink morsel,"$2,070.00",2021-01-20,east
-399,pink morsel,"$2,405.00",2021-01-20,west
-400,pink morsel,"$2,090.00",2021-01-21,north
-401,pink morsel,"$2,145.00",2021-01-21,south
-402,pink morsel,"$2,245.00",2021-01-21,east
-403,pink morsel,"$2,330.00",2021-01-21,west
-404,pink morsel,"$2,460.00",2021-01-22,north
-405,pink morsel,"$2,230.00",2021-01-22,south
-406,pink morsel,"$2,010.00",2021-01-22,east
-407,pink morsel,"$2,380.00",2021-01-22,west
-408,pink morsel,"$2,025.00",2021-01-23,north
-409,pink morsel,"$2,085.00",2021-01-23,south
-410,pink morsel,"$2,420.00",2021-01-23,east
-411,pink morsel,"$2,175.00",2021-01-23,west
-412,pink morsel,"$2,015.00",2021-01-24,north
-413,pink morsel,"$2,445.00",2021-01-24,south
-414,pink morsel,"$2,255.00",2021-01-24,east
-415,pink morsel,"$2,085.00",2021-01-24,west
-416,pink morsel,"$2,210.00",2021-01-25,north
-417,pink morsel,"$2,145.00",2021-01-25,south
-418,pink morsel,"$2,200.00",2021-01-25,east
-419,pink morsel,"$2,160.00",2021-01-25,west
-420,pink morsel,"$2,050.00",2021-01-26,north
-421,pink morsel,"$2,280.00",2021-01-26,south
-422,pink morsel,"$2,165.00",2021-01-26,east
-423,pink morsel,"$2,345.00",2021-01-26,west
-424,pink morsel,"$2,000.00",2021-01-27,north
-425,pink morsel,"$2,010.00",2021-01-27,south
-426,pink morsel,"$2,060.00",2021-01-27,east
-427,pink morsel,"$2,020.00",2021-01-27,west
-428,pink morsel,"$2,140.00",2021-01-28,north
-429,pink morsel,"$2,310.00",2021-01-28,south
-430,pink morsel,"$2,285.00",2021-01-28,east
-431,pink morsel,"$2,005.00",2021-01-28,west
-432,pink morsel,"$2,295.00",2021-01-29,north
-433,pink morsel,"$2,195.00",2021-01-29,south
-434,pink morsel,"$2,465.00",2021-01-29,east
-435,pink morsel,"$2,095.00",2021-01-29,west
-436,pink morsel,"$2,400.00",2021-01-30,north
-437,pink morsel,"$2,290.00",2021-01-30,south
-438,pink morsel,"$2,370.00",2021-01-30,east
-439,pink morsel,"$2,165.00",2021-01-30,west
-440,pink morsel,"$2,430.00",2021-01-31,north
-441,pink morsel,"$2,260.00",2021-01-31,south
-442,pink morsel,"$2,215.00",2021-01-31,east
-443,pink morsel,"$2,145.00",2021-01-31,west
-444,pink morsel,"$2,350.00",2021-02-01,north
-445,pink morsel,"$2,180.00",2021-02-01,south
-446,pink morsel,"$2,290.00",2021-02-01,east
-447,pink morsel,"$2,115.00",2021-02-01,west
-448,pink morsel,"$2,315.00",2021-02-02,north
-449,pink morsel,"$2,100.00",2021-02-02,south
-450,pink morsel,"$2,430.00",2021-02-02,east
-451,pink morsel,"$2,215.00",2021-02-02,west
-452,pink morsel,"$2,000.00",2021-02-03,north
-453,pink morsel,"$2,355.00",2021-02-03,south
-454,pink morsel,"$2,110.00",2021-02-03,east
-455,pink morsel,"$2,240.00",2021-02-03,west
-456,pink morsel,"$2,380.00",2021-02-04,north
-457,pink morsel,"$2,305.00",2021-02-04,south
-458,pink morsel,"$2,300.00",2021-02-04,east
-459,pink morsel,"$2,120.00",2021-02-04,west
-460,pink morsel,"$2,185.00",2021-02-05,north
-461,pink morsel,"$2,295.00",2021-02-05,south
-462,pink morsel,"$2,215.00",2021-02-05,east
-463,pink morsel,"$2,050.00",2021-02-05,west
-464,pink morsel,"$2,225.00",2021-02-06,north
-465,pink morsel,"$2,405.00",2021-02-06,south
-466,pink morsel,"$2,095.00",2021-02-06,east
-467,pink morsel,"$2,200.00",2021-02-06,west
-468,pink morsel,"$2,070.00",2021-02-07,north
-469,pink morsel,"$2,065.00",2021-02-07,south
-470,pink morsel,"$2,080.00",2021-02-07,east
-471,pink morsel,"$2,010.00",2021-02-07,west
-472,pink morsel,"$2,395.00",2021-02-08,north
-473,pink morsel,"$2,345.00",2021-02-08,south
-474,pink morsel,"$2,085.00",2021-02-08,east
-475,pink morsel,"$2,250.00",2021-02-08,west
-476,pink morsel,"$2,045.00",2021-02-09,north
-477,pink morsel,"$2,345.00",2021-02-09,south
-478,pink morsel,"$2,455.00",2021-02-09,east
-479,pink morsel,"$2,260.00",2021-02-09,west
-480,pink morsel,"$2,130.00",2021-02-10,north
-481,pink morsel,"$2,035.00",2021-02-10,south
-482,pink morsel,"$2,045.00",2021-02-10,east
-483,pink morsel,"$2,145.00",2021-02-10,west
-484,pink morsel,"$2,320.00",2021-02-11,north
-485,pink morsel,"$2,350.00",2021-02-11,south
-486,pink morsel,"$2,085.00",2021-02-11,east
-487,pink morsel,"$2,160.00",2021-02-11,west
-488,pink morsel,"$2,375.00",2021-02-12,north
-489,pink morsel,"$2,230.00",2021-02-12,south
-490,pink morsel,"$2,230.00",2021-02-12,east
-491,pink morsel,"$2,130.00",2021-02-12,west
-492,pink morsel,"$2,425.00",2021-02-13,north
-493,pink morsel,"$2,465.00",2021-02-13,south
-494,pink morsel,"$2,105.00",2021-02-13,east
-495,pink morsel,"$2,485.00",2021-02-13,west
-496,pink morsel,"$2,340.00",2021-02-14,north
-497,pink morsel,"$2,240.00",2021-02-14,south
-498,pink morsel,"$2,285.00",2021-02-14,east
-499,pink morsel,"$2,375.00",2021-02-14,west
-500,pink morsel,"$2,110.00",2021-02-15,north
-501,pink morsel,"$2,325.00",2021-02-15,south
-502,pink morsel,"$2,265.00",2021-02-15,east
-503,pink morsel,"$2,175.00",2021-02-15,west
-504,pink morsel,"$2,295.00",2021-02-16,north
-505,pink morsel,"$2,250.00",2021-02-16,south
-506,pink morsel,"$2,180.00",2021-02-16,east
-507,pink morsel,"$2,465.00",2021-02-16,west
-508,pink morsel,"$2,380.00",2021-02-17,north
-509,pink morsel,"$2,130.00",2021-02-17,south
-510,pink morsel,"$2,350.00",2021-02-17,east
-511,pink morsel,"$2,470.00",2021-02-17,west
-512,pink morsel,"$2,005.00",2021-02-18,north
-513,pink morsel,"$2,125.00",2021-02-18,south
-514,pink morsel,"$2,480.00",2021-02-18,east
-515,pink morsel,"$2,240.00",2021-02-18,west
-516,pink morsel,"$2,125.00",2021-02-19,north
-517,pink morsel,"$2,425.00",2021-02-19,south
-518,pink morsel,"$2,050.00",2021-02-19,east
-519,pink morsel,"$2,045.00",2021-02-19,west
-520,pink morsel,"$2,260.00",2021-02-20,north
-521,pink morsel,"$2,105.00",2021-02-20,south
-522,pink morsel,"$2,420.00",2021-02-20,east
-523,pink morsel,"$2,400.00",2021-02-20,west
-524,pink morsel,"$2,345.00",2021-02-21,north
-525,pink morsel,"$2,040.00",2021-02-21,south
-526,pink morsel,"$2,170.00",2021-02-21,east
-527,pink morsel,"$2,445.00",2021-02-21,west
-528,pink morsel,"$2,145.00",2021-02-22,north
-529,pink morsel,"$2,050.00",2021-02-22,south
-530,pink morsel,"$2,200.00",2021-02-22,east
-531,pink morsel,"$2,140.00",2021-02-22,west
-532,pink morsel,"$2,490.00",2021-02-23,north
-533,pink morsel,"$2,370.00",2021-02-23,south
-534,pink morsel,"$2,055.00",2021-02-23,east
-535,pink morsel,"$2,380.00",2021-02-23,west
-536,pink morsel,"$2,330.00",2021-02-24,north
-537,pink morsel,"$2,420.00",2021-02-24,south
-538,pink morsel,"$2,235.00",2021-02-24,east
-539,pink morsel,"$2,045.00",2021-02-24,west
-540,pink morsel,"$2,205.00",2021-02-25,north
-541,pink morsel,"$2,065.00",2021-02-25,south
-542,pink morsel,"$2,300.00",2021-02-25,east
-543,pink morsel,"$2,035.00",2021-02-25,west
-544,pink morsel,"$2,455.00",2021-02-26,north
-545,pink morsel,"$2,350.00",2021-02-26,south
-546,pink morsel,"$2,270.00",2021-02-26,east
-547,pink morsel,"$2,315.00",2021-02-26,west
-548,pink morsel,"$2,000.00",2021-02-27,north
-549,pink morsel,"$2,305.00",2021-02-27,south
-550,pink morsel,"$2,150.00",2021-02-27,east
-551,pink morsel,"$2,305.00",2021-02-27,west
-552,pink morsel,"$2,145.00",2021-02-28,north
-553,pink morsel,"$2,155.00",2021-02-28,south
-554,pink morsel,"$2,290.00",2021-02-28,east
-555,pink morsel,"$2,155.00",2021-02-28,west
-556,pink morsel,"$2,360.00",2021-03-01,north
-557,pink morsel,"$2,430.00",2021-03-01,south
-558,pink morsel,"$2,185.00",2021-03-01,east
-559,pink morsel,"$2,245.00",2021-03-01,west
-560,pink morsel,"$2,370.00",2021-03-02,north
-561,pink morsel,"$2,300.00",2021-03-02,south
-562,pink morsel,"$2,215.00",2021-03-02,east
-563,pink morsel,"$2,225.00",2021-03-02,west
-564,pink morsel,"$2,405.00",2021-03-03,north
-565,pink morsel,"$2,000.00",2021-03-03,south
-566,pink morsel,"$2,025.00",2021-03-03,east
-567,pink morsel,"$2,380.00",2021-03-03,west
-568,pink morsel,"$2,390.00",2021-03-04,north
-569,pink morsel,"$2,335.00",2021-03-04,south
-570,pink morsel,"$2,205.00",2021-03-04,east
-571,pink morsel,"$2,035.00",2021-03-04,west
-572,pink morsel,"$2,080.00",2021-03-05,north
-573,pink morsel,"$2,340.00",2021-03-05,south
-574,pink morsel,"$2,045.00",2021-03-05,east
-575,pink morsel,"$2,005.00",2021-03-05,west
-576,pink morsel,"$2,075.00",2021-03-06,north
-577,pink morsel,"$2,190.00",2021-03-06,south
-578,pink morsel,"$2,305.00",2021-03-06,east
-579,pink morsel,"$2,190.00",2021-03-06,west
-580,pink morsel,"$2,220.00",2021-03-07,north
-581,pink morsel,"$2,025.00",2021-03-07,south
-582,pink morsel,"$2,350.00",2021-03-07,east
-583,pink morsel,"$2,425.00",2021-03-07,west
-584,pink morsel,"$2,170.00",2021-03-08,north
-585,pink morsel,"$2,095.00",2021-03-08,south
-586,pink morsel,"$2,475.00",2021-03-08,east
-587,pink morsel,"$2,395.00",2021-03-08,west
-588,pink morsel,"$2,380.00",2021-03-09,north
-589,pink morsel,"$2,000.00",2021-03-09,south
-590,pink morsel,"$2,180.00",2021-03-09,east
-591,pink morsel,"$2,365.00",2021-03-09,west
-592,pink morsel,"$2,380.00",2021-03-10,north
-593,pink morsel,"$2,320.00",2021-03-10,south
-594,pink morsel,"$2,005.00",2021-03-10,east
-595,pink morsel,"$2,270.00",2021-03-10,west
-596,pink morsel,"$2,005.00",2021-03-11,north
-597,pink morsel,"$2,410.00",2021-03-11,south
-598,pink morsel,"$2,065.00",2021-03-11,east
-599,pink morsel,"$2,170.00",2021-03-11,west
-600,pink morsel,"$2,175.00",2021-03-12,north
-601,pink morsel,"$2,310.00",2021-03-12,south
-602,pink morsel,"$2,490.00",2021-03-12,east
-603,pink morsel,"$2,400.00",2021-03-12,west
-604,pink morsel,"$2,065.00",2021-03-13,north
-605,pink morsel,"$2,165.00",2021-03-13,south
-606,pink morsel,"$2,305.00",2021-03-13,east
-607,pink morsel,"$2,100.00",2021-03-13,west
-608,pink morsel,"$2,245.00",2021-03-14,north
-609,pink morsel,"$2,365.00",2021-03-14,south
-610,pink morsel,"$2,300.00",2021-03-14,east
-611,pink morsel,"$2,340.00",2021-03-14,west
-612,pink morsel,"$2,330.00",2021-03-15,north
-613,pink morsel,"$2,445.00",2021-03-15,south
-614,pink morsel,"$2,390.00",2021-03-15,east
-615,pink morsel,"$2,210.00",2021-03-15,west
-616,pink morsel,"$2,365.00",2021-03-16,north
-617,pink morsel,"$2,500.00",2021-03-16,south
-618,pink morsel,"$2,235.00",2021-03-16,east
-619,pink morsel,"$2,480.00",2021-03-16,west
-620,pink morsel,"$2,065.00",2021-03-17,north
-621,pink morsel,"$2,325.00",2021-03-17,south
-622,pink morsel,"$2,480.00",2021-03-17,east
-623,pink morsel,"$2,265.00",2021-03-17,west
-624,pink morsel,"$2,440.00",2021-03-18,north
-625,pink morsel,"$2,020.00",2021-03-18,south
-626,pink morsel,"$2,115.00",2021-03-18,east
-627,pink morsel,"$2,075.00",2021-03-18,west
-628,pink morsel,"$2,035.00",2021-03-19,north
-629,pink morsel,"$2,495.00",2021-03-19,south
-630,pink morsel,"$2,340.00",2021-03-19,east
-631,pink morsel,"$2,220.00",2021-03-19,west
-632,pink morsel,"$2,380.00",2021-03-20,north
-633,pink morsel,"$2,360.00",2021-03-20,south
-634,pink morsel,"$2,325.00",2021-03-20,east
-635,pink morsel,"$2,340.00",2021-03-20,west
-636,pink morsel,"$2,300.00",2021-03-21,north
-637,pink morsel,"$2,030.00",2021-03-21,south
-638,pink morsel,"$2,110.00",2021-03-21,east
-639,pink morsel,"$2,490.00",2021-03-21,west
-640,pink morsel,"$2,420.00",2021-03-22,north
-641,pink morsel,"$2,030.00",2021-03-22,south
-642,pink morsel,"$2,450.00",2021-03-22,east
-643,pink morsel,"$2,315.00",2021-03-22,west
-644,pink morsel,"$2,470.00",2021-03-23,north
-645,pink morsel,"$2,240.00",2021-03-23,south
-646,pink morsel,"$2,155.00",2021-03-23,east
-647,pink morsel,"$2,005.00",2021-03-23,west
-648,pink morsel,"$2,005.00",2021-03-24,north
-649,pink morsel,"$2,075.00",2021-03-24,south
-650,pink morsel,"$2,080.00",2021-03-24,east
-651,pink morsel,"$2,395.00",2021-03-24,west
-652,pink morsel,"$2,435.00",2021-03-25,north
-653,pink morsel,"$2,055.00",2021-03-25,south
-654,pink morsel,"$2,130.00",2021-03-25,east
-655,pink morsel,"$2,365.00",2021-03-25,west
-656,pink morsel,"$2,320.00",2021-03-26,north
-657,pink morsel,"$2,325.00",2021-03-26,south
-658,pink morsel,"$2,210.00",2021-03-26,east
-659,pink morsel,"$2,225.00",2021-03-26,west
-660,pink morsel,"$2,465.00",2021-03-27,north
-661,pink morsel,"$2,175.00",2021-03-27,south
-662,pink morsel,"$2,145.00",2021-03-27,east
-663,pink morsel,"$2,085.00",2021-03-27,west
-664,pink morsel,"$2,310.00",2021-03-28,north
-665,pink morsel,"$2,070.00",2021-03-28,south
-666,pink morsel,"$2,355.00",2021-03-28,east
-667,pink morsel,"$2,410.00",2021-03-28,west
-668,pink morsel,"$2,475.00",2021-03-29,north
-669,pink morsel,"$2,005.00",2021-03-29,south
-670,pink morsel,"$2,025.00",2021-03-29,east
-671,pink morsel,"$2,265.00",2021-03-29,west
-672,pink morsel,"$2,090.00",2021-03-30,north
-673,pink morsel,"$2,390.00",2021-03-30,south
-674,pink morsel,"$2,410.00",2021-03-30,east
-675,pink morsel,"$2,035.00",2021-03-30,west
-676,pink morsel,"$2,475.00",2021-03-31,north
-677,pink morsel,"$2,135.00",2021-03-31,south
-678,pink morsel,"$2,440.00",2021-03-31,east
-679,pink morsel,"$2,105.00",2021-03-31,west
-680,pink morsel,"$2,405.00",2021-04-01,north
-681,pink morsel,"$2,000.00",2021-04-01,south
-682,pink morsel,"$2,480.00",2021-04-01,east
-683,pink morsel,"$2,495.00",2021-04-01,west
-684,pink morsel,"$2,260.00",2021-04-02,north
-685,pink morsel,"$2,100.00",2021-04-02,south
-686,pink morsel,"$2,480.00",2021-04-02,east
-687,pink morsel,"$2,325.00",2021-04-02,west
-688,pink morsel,"$2,345.00",2021-04-03,north
-689,pink morsel,"$2,005.00",2021-04-03,south
-690,pink morsel,"$2,175.00",2021-04-03,east
-691,pink morsel,"$2,330.00",2021-04-03,west
-692,pink morsel,"$2,480.00",2021-04-04,north
-693,pink morsel,"$2,455.00",2021-04-04,south
-694,pink morsel,"$2,165.00",2021-04-04,east
-695,pink morsel,"$2,355.00",2021-04-04,west
-696,pink morsel,"$2,270.00",2021-04-05,north
-697,pink morsel,"$2,415.00",2021-04-05,south
-698,pink morsel,"$2,150.00",2021-04-05,east
-699,pink morsel,"$2,215.00",2021-04-05,west
-700,pink morsel,"$2,440.00",2021-04-06,north
-701,pink morsel,"$2,435.00",2021-04-06,south
-702,pink morsel,"$2,255.00",2021-04-06,east
-703,pink morsel,"$2,260.00",2021-04-06,west
-704,pink morsel,"$2,020.00",2021-04-07,north
-705,pink morsel,"$2,125.00",2021-04-07,south
-706,pink morsel,"$2,120.00",2021-04-07,east
-707,pink morsel,"$2,070.00",2021-04-07,west
-708,pink morsel,"$2,135.00",2021-04-08,north
-709,pink morsel,"$2,050.00",2021-04-08,south
-710,pink morsel,"$2,400.00",2021-04-08,east
-711,pink morsel,"$2,040.00",2021-04-08,west
-712,pink morsel,"$2,265.00",2021-04-09,north
-713,pink morsel,"$2,340.00",2021-04-09,south
-714,pink morsel,"$2,245.00",2021-04-09,east
-715,pink morsel,"$2,450.00",2021-04-09,west
-716,pink morsel,"$2,385.00",2021-04-10,north
-717,pink morsel,"$2,255.00",2021-04-10,south
-718,pink morsel,"$2,065.00",2021-04-10,east
-719,pink morsel,"$2,295.00",2021-04-10,west
-720,pink morsel,"$2,415.00",2021-04-11,north
-721,pink morsel,"$2,355.00",2021-04-11,south
-722,pink morsel,"$2,425.00",2021-04-11,east
-723,pink morsel,"$2,150.00",2021-04-11,west
-724,pink morsel,"$2,285.00",2021-04-12,north
-725,pink morsel,"$2,315.00",2021-04-12,south
-726,pink morsel,"$2,080.00",2021-04-12,east
-727,pink morsel,"$2,305.00",2021-04-12,west
-728,pink morsel,"$2,115.00",2021-04-13,north
-729,pink morsel,"$2,380.00",2021-04-13,south
-730,pink morsel,"$2,195.00",2021-04-13,east
-731,pink morsel,"$2,325.00",2021-04-13,west
-732,pink morsel,"$2,045.00",2021-04-14,north
-733,pink morsel,"$2,370.00",2021-04-14,south
-734,pink morsel,"$2,485.00",2021-04-14,east
-735,pink morsel,"$2,085.00",2021-04-14,west
-736,pink morsel,"$2,185.00",2021-04-15,north
-737,pink morsel,"$2,275.00",2021-04-15,south
-738,pink morsel,"$2,050.00",2021-04-15,east
-739,pink morsel,"$2,320.00",2021-04-15,west
-740,pink morsel,"$2,335.00",2021-04-16,north
-741,pink morsel,"$2,415.00",2021-04-16,south
-742,pink morsel,"$2,115.00",2021-04-16,east
-743,pink morsel,"$2,380.00",2021-04-16,west
-744,pink morsel,"$2,375.00",2021-04-17,north
-745,pink morsel,"$2,250.00",2021-04-17,south
-746,pink morsel,"$2,415.00",2021-04-17,east
-747,pink morsel,"$2,395.00",2021-04-17,west
-748,pink morsel,"$2,005.00",2021-04-18,north
-749,pink morsel,"$2,215.00",2021-04-18,south
-750,pink morsel,"$2,405.00",2021-04-18,east
-751,pink morsel,"$2,265.00",2021-04-18,west
-752,pink morsel,"$2,160.00",2021-04-19,north
-753,pink morsel,"$2,115.00",2021-04-19,south
-754,pink morsel,"$2,175.00",2021-04-19,east
-755,pink morsel,"$2,420.00",2021-04-19,west
-756,pink morsel,"$2,290.00",2021-04-20,north
-757,pink morsel,"$2,115.00",2021-04-20,south
-758,pink morsel,"$2,110.00",2021-04-20,east
-759,pink morsel,"$2,395.00",2021-04-20,west
-760,pink morsel,"$2,400.00",2021-04-21,north
-761,pink morsel,"$2,195.00",2021-04-21,south
-762,pink morsel,"$2,095.00",2021-04-21,east
-763,pink morsel,"$2,330.00",2021-04-21,west
-764,pink morsel,"$2,235.00",2021-04-22,north
-765,pink morsel,"$2,195.00",2021-04-22,south
-766,pink morsel,"$2,480.00",2021-04-22,east
-767,pink morsel,"$2,270.00",2021-04-22,west
-768,pink morsel,"$2,280.00",2021-04-23,north
-769,pink morsel,"$2,065.00",2021-04-23,south
-770,pink morsel,"$2,065.00",2021-04-23,east
-771,pink morsel,"$2,260.00",2021-04-23,west
-772,pink morsel,"$2,440.00",2021-04-24,north
-773,pink morsel,"$2,130.00",2021-04-24,south
-774,pink morsel,"$2,345.00",2021-04-24,east
-775,pink morsel,"$2,020.00",2021-04-24,west
-776,pink morsel,"$2,275.00",2021-04-25,north
-777,pink morsel,"$2,375.00",2021-04-25,south
-778,pink morsel,"$2,340.00",2021-04-25,east
-779,pink morsel,"$2,300.00",2021-04-25,west
-780,pink morsel,"$2,260.00",2021-04-26,north
-781,pink morsel,"$2,295.00",2021-04-26,south
-782,pink morsel,"$2,295.00",2021-04-26,east
-783,pink morsel,"$2,115.00",2021-04-26,west
-784,pink morsel,"$2,095.00",2021-04-27,north
-785,pink morsel,"$2,010.00",2021-04-27,south
-786,pink morsel,"$2,245.00",2021-04-27,east
-787,pink morsel,"$2,245.00",2021-04-27,west
-788,pink morsel,"$2,385.00",2021-04-28,north
-789,pink morsel,"$2,230.00",2021-04-28,south
-790,pink morsel,"$2,285.00",2021-04-28,east
-791,pink morsel,"$2,115.00",2021-04-28,west
-792,pink morsel,"$2,150.00",2021-04-29,north
-793,pink morsel,"$2,065.00",2021-04-29,south
-794,pink morsel,"$2,110.00",2021-04-29,east
-795,pink morsel,"$2,175.00",2021-04-29,west
-796,pink morsel,"$2,320.00",2021-04-30,north
-797,pink morsel,"$2,435.00",2021-04-30,south
-798,pink morsel,"$2,050.00",2021-04-30,east
-799,pink morsel,"$2,165.00",2021-04-30,west
-800,pink morsel,"$2,460.00",2021-05-01,north
-801,pink morsel,"$2,165.00",2021-05-01,south
-802,pink morsel,"$2,110.00",2021-05-01,east
-803,pink morsel,"$2,320.00",2021-05-01,west
-804,pink morsel,"$2,305.00",2021-05-02,north
-805,pink morsel,"$2,145.00",2021-05-02,south
-806,pink morsel,"$2,460.00",2021-05-02,east
-807,pink morsel,"$2,260.00",2021-05-02,west
-808,pink morsel,"$2,355.00",2021-05-03,north
-809,pink morsel,"$2,070.00",2021-05-03,south
-810,pink morsel,"$2,455.00",2021-05-03,east
-811,pink morsel,"$2,090.00",2021-05-03,west
-812,pink morsel,"$2,270.00",2021-05-04,north
-813,pink morsel,"$2,425.00",2021-05-04,south
-814,pink morsel,"$2,415.00",2021-05-04,east
-815,pink morsel,"$2,065.00",2021-05-04,west
-816,pink morsel,"$2,315.00",2021-05-05,north
-817,pink morsel,"$2,120.00",2021-05-05,south
-818,pink morsel,"$2,330.00",2021-05-05,east
-819,pink morsel,"$2,295.00",2021-05-05,west
-820,pink morsel,"$2,120.00",2021-05-06,north
-821,pink morsel,"$2,050.00",2021-05-06,south
-822,pink morsel,"$2,140.00",2021-05-06,east
-823,pink morsel,"$2,230.00",2021-05-06,west
-824,pink morsel,"$2,090.00",2021-05-07,north
-825,pink morsel,"$2,335.00",2021-05-07,south
-826,pink morsel,"$2,125.00",2021-05-07,east
-827,pink morsel,"$2,380.00",2021-05-07,west
-828,pink morsel,"$2,090.00",2021-05-08,north
-829,pink morsel,"$2,490.00",2021-05-08,south
-830,pink morsel,"$2,200.00",2021-05-08,east
-831,pink morsel,"$2,045.00",2021-05-08,west
-832,pink morsel,"$2,140.00",2021-05-09,north
-833,pink morsel,"$2,115.00",2021-05-09,south
-834,pink morsel,"$2,045.00",2021-05-09,east
-835,pink morsel,"$2,385.00",2021-05-09,west
-836,pink morsel,"$2,250.00",2021-05-10,north
-837,pink morsel,"$2,325.00",2021-05-10,south
-838,pink morsel,"$2,325.00",2021-05-10,east
-839,pink morsel,"$2,400.00",2021-05-10,west
-840,pink morsel,"$2,120.00",2021-05-11,north
-841,pink morsel,"$2,165.00",2021-05-11,south
-842,pink morsel,"$2,175.00",2021-05-11,east
-843,pink morsel,"$2,190.00",2021-05-11,west
-844,pink morsel,"$2,155.00",2021-05-12,north
-845,pink morsel,"$2,325.00",2021-05-12,south
-846,pink morsel,"$2,025.00",2021-05-12,east
-847,pink morsel,"$2,455.00",2021-05-12,west
-848,pink morsel,"$2,330.00",2021-05-13,north
-849,pink morsel,"$2,210.00",2021-05-13,south
-850,pink morsel,"$2,010.00",2021-05-13,east
-851,pink morsel,"$2,320.00",2021-05-13,west
-852,pink morsel,"$2,135.00",2021-05-14,north
-853,pink morsel,"$2,500.00",2021-05-14,south
-854,pink morsel,"$2,140.00",2021-05-14,east
-855,pink morsel,"$2,190.00",2021-05-14,west
-856,pink morsel,"$2,240.00",2021-05-15,north
-857,pink morsel,"$2,180.00",2021-05-15,south
-858,pink morsel,"$2,020.00",2021-05-15,east
-859,pink morsel,"$2,390.00",2021-05-15,west
-860,pink morsel,"$2,375.00",2021-05-16,north
-861,pink morsel,"$2,050.00",2021-05-16,south
-862,pink morsel,"$2,080.00",2021-05-16,east
-863,pink morsel,"$2,055.00",2021-05-16,west
-864,pink morsel,"$2,020.00",2021-05-17,north
-865,pink morsel,"$2,470.00",2021-05-17,south
-866,pink morsel,"$2,220.00",2021-05-17,east
-867,pink morsel,"$2,255.00",2021-05-17,west
-868,pink morsel,"$2,185.00",2021-05-18,north
-869,pink morsel,"$2,455.00",2021-05-18,south
-870,pink morsel,"$2,270.00",2021-05-18,east
-871,pink morsel,"$2,415.00",2021-05-18,west
-872,pink morsel,"$2,400.00",2021-05-19,north
-873,pink morsel,"$2,300.00",2021-05-19,south
-874,pink morsel,"$2,175.00",2021-05-19,east
-875,pink morsel,"$2,020.00",2021-05-19,west
-876,pink morsel,"$2,195.00",2021-05-20,north
-877,pink morsel,"$2,050.00",2021-05-20,south
-878,pink morsel,"$2,055.00",2021-05-20,east
-879,pink morsel,"$2,300.00",2021-05-20,west
-880,pink morsel,"$2,480.00",2021-05-21,north
-881,pink morsel,"$2,240.00",2021-05-21,south
-882,pink morsel,"$2,025.00",2021-05-21,east
-883,pink morsel,"$2,480.00",2021-05-21,west
-884,pink morsel,"$2,430.00",2021-05-22,north
-885,pink morsel,"$2,100.00",2021-05-22,south
-886,pink morsel,"$2,420.00",2021-05-22,east
-887,pink morsel,"$2,410.00",2021-05-22,west
-888,pink morsel,"$2,155.00",2021-05-23,north
-889,pink morsel,"$2,345.00",2021-05-23,south
-890,pink morsel,"$2,045.00",2021-05-23,east
-891,pink morsel,"$2,240.00",2021-05-23,west
-892,pink morsel,"$2,390.00",2021-05-24,north
-893,pink morsel,"$2,210.00",2021-05-24,south
-894,pink morsel,"$2,105.00",2021-05-24,east
-895,pink morsel,"$2,075.00",2021-05-24,west
-896,pink morsel,"$2,020.00",2021-05-25,north
-897,pink morsel,"$2,105.00",2021-05-25,south
-898,pink morsel,"$2,295.00",2021-05-25,east
-899,pink morsel,"$2,005.00",2021-05-25,west
-900,pink morsel,"$2,475.00",2021-05-26,north
-901,pink morsel,"$2,210.00",2021-05-26,south
-902,pink morsel,"$2,040.00",2021-05-26,east
-903,pink morsel,"$2,085.00",2021-05-26,west
-904,pink morsel,"$2,080.00",2021-05-27,north
-905,pink morsel,"$2,260.00",2021-05-27,south
-906,pink morsel,"$2,345.00",2021-05-27,east
-907,pink morsel,"$2,160.00",2021-05-27,west
-908,pink morsel,"$2,205.00",2021-05-28,north
-909,pink morsel,"$2,055.00",2021-05-28,south
-910,pink morsel,"$2,280.00",2021-05-28,east
-911,pink morsel,"$2,205.00",2021-05-28,west
-912,pink morsel,"$2,150.00",2021-05-29,north
-913,pink morsel,"$2,450.00",2021-05-29,south
-914,pink morsel,"$2,005.00",2021-05-29,east
-915,pink morsel,"$2,115.00",2021-05-29,west
-916,pink morsel,"$2,380.00",2021-05-30,north
-917,pink morsel,"$2,225.00",2021-05-30,south
-918,pink morsel,"$2,485.00",2021-05-30,east
-919,pink morsel,"$2,310.00",2021-05-30,west
-920,pink morsel,"$2,395.00",2021-05-31,north
-921,pink morsel,"$2,095.00",2021-05-31,south
-922,pink morsel,"$2,220.00",2021-05-31,east
-923,pink morsel,"$2,130.00",2021-05-31,west
-924,pink morsel,"$2,140.00",2021-06-01,north
-925,pink morsel,"$2,450.00",2021-06-01,south
-926,pink morsel,"$2,055.00",2021-06-01,east
-927,pink morsel,"$2,215.00",2021-06-01,west
-928,pink morsel,"$2,015.00",2021-06-02,north
-929,pink morsel,"$2,350.00",2021-06-02,south
-930,pink morsel,"$2,005.00",2021-06-02,east
-931,pink morsel,"$2,015.00",2021-06-02,west
-932,pink morsel,"$2,375.00",2021-06-03,north
-933,pink morsel,"$2,025.00",2021-06-03,south
-934,pink morsel,"$2,375.00",2021-06-03,east
-935,pink morsel,"$2,300.00",2021-06-03,west
-936,pink morsel,"$2,405.00",2021-06-04,north
-937,pink morsel,"$2,135.00",2021-06-04,south
-938,pink morsel,"$2,315.00",2021-06-04,east
-939,pink morsel,"$2,300.00",2021-06-04,west
-940,pink morsel,"$2,425.00",2021-06-05,north
-941,pink morsel,"$2,400.00",2021-06-05,south
-942,pink morsel,"$2,245.00",2021-06-05,east
-943,pink morsel,"$2,085.00",2021-06-05,west
-944,pink morsel,"$2,020.00",2021-06-06,north
-945,pink morsel,"$2,190.00",2021-06-06,south
-946,pink morsel,"$2,450.00",2021-06-06,east
-947,pink morsel,"$2,245.00",2021-06-06,west
-948,pink morsel,"$2,390.00",2021-06-07,north
-949,pink morsel,"$2,020.00",2021-06-07,south
-950,pink morsel,"$2,360.00",2021-06-07,east
-951,pink morsel,"$2,070.00",2021-06-07,west
-952,pink morsel,"$2,290.00",2021-06-08,north
-953,pink morsel,"$2,035.00",2021-06-08,south
-954,pink morsel,"$2,450.00",2021-06-08,east
-955,pink morsel,"$2,120.00",2021-06-08,west
-956,pink morsel,"$2,480.00",2021-06-09,north
-957,pink morsel,"$2,500.00",2021-06-09,south
-958,pink morsel,"$2,365.00",2021-06-09,east
-959,pink morsel,"$2,330.00",2021-06-09,west
-960,pink morsel,"$2,280.00",2021-06-10,north
-961,pink morsel,"$2,015.00",2021-06-10,south
-962,pink morsel,"$2,500.00",2021-06-10,east
-963,pink morsel,"$2,405.00",2021-06-10,west
-964,pink morsel,"$2,385.00",2021-06-11,north
-965,pink morsel,"$2,090.00",2021-06-11,south
-966,pink morsel,"$2,300.00",2021-06-11,east
-967,pink morsel,"$2,350.00",2021-06-11,west
-968,pink morsel,"$2,095.00",2021-06-12,north
-969,pink morsel,"$2,375.00",2021-06-12,south
-970,pink morsel,"$2,270.00",2021-06-12,east
-971,pink morsel,"$2,365.00",2021-06-12,west
-972,pink morsel,"$2,205.00",2021-06-13,north
-973,pink morsel,"$2,260.00",2021-06-13,south
-974,pink morsel,"$2,135.00",2021-06-13,east
-975,pink morsel,"$2,280.00",2021-06-13,west
-976,pink morsel,"$2,485.00",2021-06-14,north
-977,pink morsel,"$2,025.00",2021-06-14,south
-978,pink morsel,"$2,460.00",2021-06-14,east
-979,pink morsel,"$2,285.00",2021-06-14,west
-980,pink morsel,"$2,090.00",2021-06-15,north
-981,pink morsel,"$2,075.00",2021-06-15,south
-982,pink morsel,"$2,125.00",2021-06-15,east
-983,pink morsel,"$2,085.00",2021-06-15,west
-984,pink morsel,"$2,410.00",2021-06-16,north
-985,pink morsel,"$2,265.00",2021-06-16,south
-986,pink morsel,"$2,145.00",2021-06-16,east
-987,pink morsel,"$2,320.00",2021-06-16,west
-988,pink morsel,"$2,260.00",2021-06-17,north
-989,pink morsel,"$2,460.00",2021-06-17,south
-990,pink morsel,"$2,060.00",2021-06-17,east
-991,pink morsel,"$2,120.00",2021-06-17,west
-992,pink morsel,"$2,325.00",2021-06-18,north
-993,pink morsel,"$2,275.00",2021-06-18,south
-994,pink morsel,"$2,285.00",2021-06-18,east
-995,pink morsel,"$2,150.00",2021-06-18,west
-996,pink morsel,"$2,160.00",2021-06-19,north
-997,pink morsel,"$2,020.00",2021-06-19,south
-998,pink morsel,"$2,430.00",2021-06-19,east
-999,pink morsel,"$2,025.00",2021-06-19,west
-1000,pink morsel,"$2,280.00",2021-06-20,north
-1001,pink morsel,"$2,425.00",2021-06-20,south
-1002,pink morsel,"$2,230.00",2021-06-20,east
-1003,pink morsel,"$2,160.00",2021-06-20,west
-1004,pink morsel,"$2,360.00",2021-06-21,north
-1005,pink morsel,"$2,305.00",2021-06-21,south
-1006,pink morsel,"$2,105.00",2021-06-21,east
-1007,pink morsel,"$2,290.00",2021-06-21,west
-1008,pink morsel,"$2,280.00",2021-06-22,north
-1009,pink morsel,"$2,010.00",2021-06-22,south
-1010,pink morsel,"$2,095.00",2021-06-22,east
-1011,pink morsel,"$2,270.00",2021-06-22,west
-1012,pink morsel,"$2,080.00",2021-06-23,north
-1013,pink morsel,"$2,345.00",2021-06-23,south
-1014,pink morsel,"$2,240.00",2021-06-23,east
-1015,pink morsel,"$2,425.00",2021-06-23,west
-1016,pink morsel,"$2,390.00",2021-06-24,north
-1017,pink morsel,"$2,155.00",2021-06-24,south
-1018,pink morsel,"$2,060.00",2021-06-24,east
-1019,pink morsel,"$2,055.00",2021-06-24,west
-1020,pink morsel,"$2,140.00",2021-06-25,north
-1021,pink morsel,"$2,340.00",2021-06-25,south
-1022,pink morsel,"$2,030.00",2021-06-25,east
-1023,pink morsel,"$2,310.00",2021-06-25,west
-1024,pink morsel,"$2,065.00",2021-06-26,north
-1025,pink morsel,"$2,330.00",2021-06-26,south
-1026,pink morsel,"$2,145.00",2021-06-26,east
-1027,pink morsel,"$2,050.00",2021-06-26,west
-1028,pink morsel,"$2,095.00",2021-06-27,north
-1029,pink morsel,"$2,460.00",2021-06-27,south
-1030,pink morsel,"$2,195.00",2021-06-27,east
-1031,pink morsel,"$2,020.00",2021-06-27,west
-1032,pink morsel,"$2,185.00",2021-06-28,north
-1033,pink morsel,"$2,190.00",2021-06-28,south
-1034,pink morsel,"$2,050.00",2021-06-28,east
-1035,pink morsel,"$2,045.00",2021-06-28,west
-1036,pink morsel,"$2,155.00",2021-06-29,north
-1037,pink morsel,"$2,135.00",2021-06-29,south
-1038,pink morsel,"$2,280.00",2021-06-29,east
-1039,pink morsel,"$2,485.00",2021-06-29,west
-1040,pink morsel,"$2,040.00",2021-06-30,north
-1041,pink morsel,"$2,130.00",2021-06-30,south
-1042,pink morsel,"$2,490.00",2021-06-30,east
-1043,pink morsel,"$2,160.00",2021-06-30,west
-1044,pink morsel,"$2,065.00",2021-07-01,north
-1045,pink morsel,"$2,355.00",2021-07-01,south
-1046,pink morsel,"$2,205.00",2021-07-01,east
-1047,pink morsel,"$2,265.00",2021-07-01,west
-1048,pink morsel,"$2,005.00",2021-07-02,north
-1049,pink morsel,"$2,450.00",2021-07-02,south
-1050,pink morsel,"$2,500.00",2021-07-02,east
-1051,pink morsel,"$2,445.00",2021-07-02,west
-1052,pink morsel,"$2,460.00",2021-07-03,north
-1053,pink morsel,"$2,060.00",2021-07-03,south
-1054,pink morsel,"$2,090.00",2021-07-03,east
-1055,pink morsel,"$2,415.00",2021-07-03,west
-1056,pink morsel,"$2,395.00",2021-07-04,north
-1057,pink morsel,"$2,370.00",2021-07-04,south
-1058,pink morsel,"$2,110.00",2021-07-04,east
-1059,pink morsel,"$2,395.00",2021-07-04,west
-1060,pink morsel,"$2,205.00",2021-07-05,north
-1061,pink morsel,"$2,245.00",2021-07-05,south
-1062,pink morsel,"$2,330.00",2021-07-05,east
-1063,pink morsel,"$2,010.00",2021-07-05,west
-1064,pink morsel,"$2,430.00",2021-07-06,north
-1065,pink morsel,"$2,125.00",2021-07-06,south
-1066,pink morsel,"$2,235.00",2021-07-06,east
-1067,pink morsel,"$2,175.00",2021-07-06,west
-1068,pink morsel,"$2,460.00",2021-07-07,north
-1069,pink morsel,"$2,500.00",2021-07-07,south
-1070,pink morsel,"$2,315.00",2021-07-07,east
-1071,pink morsel,"$2,120.00",2021-07-07,west
-1072,pink morsel,"$2,040.00",2021-07-08,north
-1073,pink morsel,"$2,425.00",2021-07-08,south
-1074,pink morsel,"$2,375.00",2021-07-08,east
-1075,pink morsel,"$2,080.00",2021-07-08,west
-1076,pink morsel,"$2,105.00",2021-07-09,north
-1077,pink morsel,"$2,240.00",2021-07-09,south
-1078,pink morsel,"$2,015.00",2021-07-09,east
-1079,pink morsel,"$2,170.00",2021-07-09,west
-1080,pink morsel,"$2,195.00",2021-07-10,north
-1081,pink morsel,"$2,440.00",2021-07-10,south
-1082,pink morsel,"$2,040.00",2021-07-10,east
-1083,pink morsel,"$2,260.00",2021-07-10,west
-1084,pink morsel,"$2,170.00",2021-07-11,north
-1085,pink morsel,"$2,200.00",2021-07-11,south
-1086,pink morsel,"$2,260.00",2021-07-11,east
-1087,pink morsel,"$2,395.00",2021-07-11,west
-1088,pink morsel,"$2,010.00",2021-07-12,north
-1089,pink morsel,"$2,005.00",2021-07-12,south
-1090,pink morsel,"$2,250.00",2021-07-12,east
-1091,pink morsel,"$2,010.00",2021-07-12,west
-1092,pink morsel,"$2,145.00",2021-07-13,north
-1093,pink morsel,"$2,105.00",2021-07-13,south
-1094,pink morsel,"$2,265.00",2021-07-13,east
-1095,pink morsel,"$2,020.00",2021-07-13,west
-1096,pink morsel,"$2,295.00",2021-07-14,north
-1097,pink morsel,"$2,330.00",2021-07-14,south
-1098,pink morsel,"$2,280.00",2021-07-14,east
-1099,pink morsel,"$2,045.00",2021-07-14,west
-1100,pink morsel,"$2,375.00",2021-07-15,north
-1101,pink morsel,"$2,370.00",2021-07-15,south
-1102,pink morsel,"$2,255.00",2021-07-15,east
-1103,pink morsel,"$2,305.00",2021-07-15,west
-1104,pink morsel,"$2,440.00",2021-07-16,north
-1105,pink morsel,"$2,020.00",2021-07-16,south
-1106,pink morsel,"$2,035.00",2021-07-16,east
-1107,pink morsel,"$2,155.00",2021-07-16,west
-1108,pink morsel,"$2,145.00",2021-07-17,north
-1109,pink morsel,"$2,080.00",2021-07-17,south
-1110,pink morsel,"$2,345.00",2021-07-17,east
-1111,pink morsel,"$2,230.00",2021-07-17,west
-1112,pink morsel,"$2,375.00",2021-07-18,north
-1113,pink morsel,"$2,165.00",2021-07-18,south
-1114,pink morsel,"$2,175.00",2021-07-18,east
-1115,pink morsel,"$2,385.00",2021-07-18,west
-1116,pink morsel,"$2,295.00",2021-07-19,north
-1117,pink morsel,"$2,170.00",2021-07-19,south
-1118,pink morsel,"$2,040.00",2021-07-19,east
-1119,pink morsel,"$2,205.00",2021-07-19,west
-1120,pink morsel,"$2,435.00",2021-07-20,north
-1121,pink morsel,"$2,380.00",2021-07-20,south
-1122,pink morsel,"$2,445.00",2021-07-20,east
-1123,pink morsel,"$2,390.00",2021-07-20,west
-1124,pink morsel,"$2,115.00",2021-07-21,north
-1125,pink morsel,"$2,275.00",2021-07-21,south
-1126,pink morsel,"$2,200.00",2021-07-21,east
-1127,pink morsel,"$2,305.00",2021-07-21,west
-1128,pink morsel,"$2,280.00",2021-07-22,north
-1129,pink morsel,"$2,140.00",2021-07-22,south
-1130,pink morsel,"$2,205.00",2021-07-22,east
-1131,pink morsel,"$2,450.00",2021-07-22,west
-1132,pink morsel,"$2,060.00",2021-07-23,north
-1133,pink morsel,"$2,200.00",2021-07-23,south
-1134,pink morsel,"$2,390.00",2021-07-23,east
-1135,pink morsel,"$2,075.00",2021-07-23,west
-1136,pink morsel,"$2,015.00",2021-07-24,north
-1137,pink morsel,"$2,235.00",2021-07-24,south
-1138,pink morsel,"$2,360.00",2021-07-24,east
-1139,pink morsel,"$2,125.00",2021-07-24,west
-1140,pink morsel,"$2,235.00",2021-07-25,north
-1141,pink morsel,"$2,450.00",2021-07-25,south
-1142,pink morsel,"$2,155.00",2021-07-25,east
-1143,pink morsel,"$2,280.00",2021-07-25,west
-1144,pink morsel,"$2,285.00",2021-07-26,north
-1145,pink morsel,"$2,395.00",2021-07-26,south
-1146,pink morsel,"$2,360.00",2021-07-26,east
-1147,pink morsel,"$2,290.00",2021-07-26,west
-1148,pink morsel,"$2,440.00",2021-07-27,north
-1149,pink morsel,"$2,315.00",2021-07-27,south
-1150,pink morsel,"$2,080.00",2021-07-27,east
-1151,pink morsel,"$2,450.00",2021-07-27,west
-1152,pink morsel,"$2,165.00",2021-07-28,north
-1153,pink morsel,"$2,385.00",2021-07-28,south
-1154,pink morsel,"$2,010.00",2021-07-28,east
-1155,pink morsel,"$2,425.00",2021-07-28,west
-1156,pink morsel,"$2,125.00",2021-07-29,north
-1157,pink morsel,"$2,125.00",2021-07-29,south
-1158,pink morsel,"$2,235.00",2021-07-29,east
-1159,pink morsel,"$2,360.00",2021-07-29,west
-1160,pink morsel,"$2,005.00",2021-07-30,north
-1161,pink morsel,"$2,200.00",2021-07-30,south
-1162,pink morsel,"$2,155.00",2021-07-30,east
-1163,pink morsel,"$2,245.00",2021-07-30,west
-1164,pink morsel,"$2,220.00",2021-07-31,north
-1165,pink morsel,"$2,225.00",2021-07-31,south
-1166,pink morsel,"$2,150.00",2021-07-31,east
-1167,pink morsel,"$2,145.00",2021-07-31,west
-1168,pink morsel,"$2,070.00",2021-08-01,north
-1169,pink morsel,"$2,265.00",2021-08-01,south
-1170,pink morsel,"$2,055.00",2021-08-01,east
-1171,pink morsel,"$2,165.00",2021-08-01,west
-1172,pink morsel,"$2,280.00",2021-08-02,north
-1173,pink morsel,"$2,275.00",2021-08-02,south
-1174,pink morsel,"$2,200.00",2021-08-02,east
-1175,pink morsel,"$2,490.00",2021-08-02,west
-1176,pink morsel,"$2,350.00",2021-08-03,north
-1177,pink morsel,"$2,075.00",2021-08-03,south
-1178,pink morsel,"$2,250.00",2021-08-03,east
-1179,pink morsel,"$2,315.00",2021-08-03,west
-1180,pink morsel,"$2,480.00",2021-08-04,north
-1181,pink morsel,"$2,070.00",2021-08-04,south
-1182,pink morsel,"$2,450.00",2021-08-04,east
-1183,pink morsel,"$2,010.00",2021-08-04,west
-1184,pink morsel,"$2,420.00",2021-08-05,north
-1185,pink morsel,"$2,215.00",2021-08-05,south
-1186,pink morsel,"$2,130.00",2021-08-05,east
-1187,pink morsel,"$2,065.00",2021-08-05,west
-1188,pink morsel,"$2,060.00",2021-08-06,north
-1189,pink morsel,"$2,050.00",2021-08-06,south
-1190,pink morsel,"$2,470.00",2021-08-06,east
-1191,pink morsel,"$2,295.00",2021-08-06,west
-1192,pink morsel,"$2,230.00",2021-08-07,north
-1193,pink morsel,"$2,030.00",2021-08-07,south
-1194,pink morsel,"$2,310.00",2021-08-07,east
-1195,pink morsel,"$2,415.00",2021-08-07,west
-1196,pink morsel,"$2,480.00",2021-08-08,north
-1197,pink morsel,"$2,230.00",2021-08-08,south
-1198,pink morsel,"$2,360.00",2021-08-08,east
-1199,pink morsel,"$2,400.00",2021-08-08,west
-1200,pink morsel,"$2,165.00",2021-08-09,north
-1201,pink morsel,"$2,385.00",2021-08-09,south
-1202,pink morsel,"$2,240.00",2021-08-09,east
-1203,pink morsel,"$2,060.00",2021-08-09,west
-1204,pink morsel,"$2,295.00",2021-08-10,north
-1205,pink morsel,"$2,180.00",2021-08-10,south
-1206,pink morsel,"$2,075.00",2021-08-10,east
-1207,pink morsel,"$2,375.00",2021-08-10,west
-1208,pink morsel,"$2,250.00",2021-08-11,north
-1209,pink morsel,"$2,250.00",2021-08-11,south
-1210,pink morsel,"$2,345.00",2021-08-11,east
-1211,pink morsel,"$2,080.00",2021-08-11,west
-1212,pink morsel,"$2,495.00",2021-08-12,north
-1213,pink morsel,"$2,100.00",2021-08-12,south
-1214,pink morsel,"$2,430.00",2021-08-12,east
-1215,pink morsel,"$2,070.00",2021-08-12,west
-1216,pink morsel,"$2,285.00",2021-08-13,north
-1217,pink morsel,"$2,235.00",2021-08-13,south
-1218,pink morsel,"$2,480.00",2021-08-13,east
-1219,pink morsel,"$2,425.00",2021-08-13,west
-1220,pink morsel,"$2,095.00",2021-08-14,north
-1221,pink morsel,"$2,135.00",2021-08-14,south
-1222,pink morsel,"$2,330.00",2021-08-14,east
-1223,pink morsel,"$2,020.00",2021-08-14,west
-1224,pink morsel,"$2,060.00",2021-08-15,north
-1225,pink morsel,"$2,140.00",2021-08-15,south
-1226,pink morsel,"$2,470.00",2021-08-15,east
-1227,pink morsel,"$2,485.00",2021-08-15,west
-1228,pink morsel,"$2,040.00",2021-08-16,north
-1229,pink morsel,"$2,155.00",2021-08-16,south
-1230,pink morsel,"$2,120.00",2021-08-16,east
-1231,pink morsel,"$2,135.00",2021-08-16,west
-1232,pink morsel,"$2,395.00",2021-08-17,north
-1233,pink morsel,"$2,475.00",2021-08-17,south
-1234,pink morsel,"$2,360.00",2021-08-17,east
-1235,pink morsel,"$2,175.00",2021-08-17,west
-1236,pink morsel,"$2,490.00",2021-08-18,north
-1237,pink morsel,"$2,075.00",2021-08-18,south
-1238,pink morsel,"$2,325.00",2021-08-18,east
-1239,pink morsel,"$2,445.00",2021-08-18,west
-1240,pink morsel,"$2,080.00",2021-08-19,north
-1241,pink morsel,"$2,370.00",2021-08-19,south
-1242,pink morsel,"$2,225.00",2021-08-19,east
-1243,pink morsel,"$2,495.00",2021-08-19,west
-1244,pink morsel,"$2,160.00",2021-08-20,north
-1245,pink morsel,"$2,195.00",2021-08-20,south
-1246,pink morsel,"$2,315.00",2021-08-20,east
-1247,pink morsel,"$2,170.00",2021-08-20,west
-1248,pink morsel,"$2,230.00",2021-08-21,north
-1249,pink morsel,"$2,095.00",2021-08-21,south
-1250,pink morsel,"$2,050.00",2021-08-21,east
-1251,pink morsel,"$2,490.00",2021-08-21,west
-1252,pink morsel,"$2,095.00",2021-08-22,north
-1253,pink morsel,"$2,180.00",2021-08-22,south
-1254,pink morsel,"$2,075.00",2021-08-22,east
-1255,pink morsel,"$2,475.00",2021-08-22,west
-1256,pink morsel,"$2,020.00",2021-08-23,north
-1257,pink morsel,"$2,000.00",2021-08-23,south
-1258,pink morsel,"$2,210.00",2021-08-23,east
-1259,pink morsel,"$2,155.00",2021-08-23,west
-1260,pink morsel,"$2,215.00",2021-08-24,north
-1261,pink morsel,"$2,475.00",2021-08-24,south
-1262,pink morsel,"$2,265.00",2021-08-24,east
-1263,pink morsel,"$2,030.00",2021-08-24,west
-1264,pink morsel,"$2,020.00",2021-08-25,north
-1265,pink morsel,"$2,240.00",2021-08-25,south
-1266,pink morsel,"$2,000.00",2021-08-25,east
-1267,pink morsel,"$2,150.00",2021-08-25,west
-1268,pink morsel,"$2,370.00",2021-08-26,north
-1269,pink morsel,"$2,180.00",2021-08-26,south
-1270,pink morsel,"$2,470.00",2021-08-26,east
-1271,pink morsel,"$2,150.00",2021-08-26,west
-1272,pink morsel,"$2,170.00",2021-08-27,north
-1273,pink morsel,"$2,260.00",2021-08-27,south
-1274,pink morsel,"$2,140.00",2021-08-27,east
-1275,pink morsel,"$2,045.00",2021-08-27,west
-1276,pink morsel,"$2,490.00",2021-08-28,north
-1277,pink morsel,"$2,320.00",2021-08-28,south
-1278,pink morsel,"$2,230.00",2021-08-28,east
-1279,pink morsel,"$2,440.00",2021-08-28,west
-1280,pink morsel,"$2,185.00",2021-08-29,north
-1281,pink morsel,"$2,350.00",2021-08-29,south
-1282,pink morsel,"$2,445.00",2021-08-29,east
-1283,pink morsel,"$2,365.00",2021-08-29,west
-1284,pink morsel,"$2,065.00",2021-08-30,north
-1285,pink morsel,"$2,015.00",2021-08-30,south
-1286,pink morsel,"$2,160.00",2021-08-30,east
-1287,pink morsel,"$2,300.00",2021-08-30,west
-1288,pink morsel,"$2,045.00",2021-08-31,north
-1289,pink morsel,"$2,440.00",2021-08-31,south
-1290,pink morsel,"$2,165.00",2021-08-31,east
-1291,pink morsel,"$2,180.00",2021-08-31,west
-1292,pink morsel,"$2,330.00",2021-09-01,north
-1293,pink morsel,"$2,240.00",2021-09-01,south
-1294,pink morsel,"$2,120.00",2021-09-01,east
-1295,pink morsel,"$2,495.00",2021-09-01,west
-1296,pink morsel,"$2,080.00",2021-09-02,north
-1297,pink morsel,"$2,415.00",2021-09-02,south
-1298,pink morsel,"$2,085.00",2021-09-02,east
-1299,pink morsel,"$2,400.00",2021-09-02,west
-1300,pink morsel,"$2,255.00",2021-09-03,north
-1301,pink morsel,"$2,245.00",2021-09-03,south
-1302,pink morsel,"$2,020.00",2021-09-03,east
-1303,pink morsel,"$2,270.00",2021-09-03,west
-1304,pink morsel,"$2,395.00",2021-09-04,north
-1305,pink morsel,"$2,165.00",2021-09-04,south
-1306,pink morsel,"$2,020.00",2021-09-04,east
-1307,pink morsel,"$2,135.00",2021-09-04,west
-1308,pink morsel,"$2,330.00",2021-09-05,north
-1309,pink morsel,"$2,290.00",2021-09-05,south
-1310,pink morsel,"$2,045.00",2021-09-05,east
-1311,pink morsel,"$2,255.00",2021-09-05,west
-1312,pink morsel,"$2,345.00",2021-09-06,north
-1313,pink morsel,"$2,185.00",2021-09-06,south
-1314,pink morsel,"$2,335.00",2021-09-06,east
-1315,pink morsel,"$2,300.00",2021-09-06,west
-1316,pink morsel,"$2,040.00",2021-09-07,north
-1317,pink morsel,"$2,055.00",2021-09-07,south
-1318,pink morsel,"$2,270.00",2021-09-07,east
-1319,pink morsel,"$2,335.00",2021-09-07,west
-1320,pink morsel,"$2,425.00",2021-09-08,north
-1321,pink morsel,"$2,445.00",2021-09-08,south
-1322,pink morsel,"$2,480.00",2021-09-08,east
-1323,pink morsel,"$2,480.00",2021-09-08,west
-1324,pink morsel,"$2,000.00",2021-09-09,north
-1325,pink morsel,"$2,075.00",2021-09-09,south
-1326,pink morsel,"$2,345.00",2021-09-09,east
-1327,pink morsel,"$2,245.00",2021-09-09,west
-1328,pink morsel,"$2,070.00",2021-09-10,north
-1329,pink morsel,"$2,365.00",2021-09-10,south
-1330,pink morsel,"$2,015.00",2021-09-10,east
-1331,pink morsel,"$2,375.00",2021-09-10,west
-1332,pink morsel,"$2,270.00",2021-09-11,north
-1333,pink morsel,"$2,015.00",2021-09-11,south
-1334,pink morsel,"$2,000.00",2021-09-11,east
-1335,pink morsel,"$2,295.00",2021-09-11,west
-1336,pink morsel,"$2,435.00",2021-09-12,north
-1337,pink morsel,"$2,485.00",2021-09-12,south
-1338,pink morsel,"$2,450.00",2021-09-12,east
-1339,pink morsel,"$2,205.00",2021-09-12,west
-1340,pink morsel,"$2,415.00",2021-09-13,north
-1341,pink morsel,"$2,440.00",2021-09-13,south
-1342,pink morsel,"$2,490.00",2021-09-13,east
-1343,pink morsel,"$2,415.00",2021-09-13,west
-1344,pink morsel,"$2,260.00",2021-09-14,north
-1345,pink morsel,"$2,385.00",2021-09-14,south
-1346,pink morsel,"$2,280.00",2021-09-14,east
-1347,pink morsel,"$2,210.00",2021-09-14,west
-1348,pink morsel,"$2,070.00",2021-09-15,north
-1349,pink morsel,"$2,105.00",2021-09-15,south
-1350,pink morsel,"$2,425.00",2021-09-15,east
-1351,pink morsel,"$2,265.00",2021-09-15,west
-1352,pink morsel,"$2,190.00",2021-09-16,north
-1353,pink morsel,"$2,110.00",2021-09-16,south
-1354,pink morsel,"$2,115.00",2021-09-16,east
-1355,pink morsel,"$2,455.00",2021-09-16,west
-1356,pink morsel,"$2,270.00",2021-09-17,north
-1357,pink morsel,"$2,350.00",2021-09-17,south
-1358,pink morsel,"$2,365.00",2021-09-17,east
-1359,pink morsel,"$2,270.00",2021-09-17,west
-1360,pink morsel,"$2,200.00",2021-09-18,north
-1361,pink morsel,"$2,500.00",2021-09-18,south
-1362,pink morsel,"$2,425.00",2021-09-18,east
-1363,pink morsel,"$2,290.00",2021-09-18,west
-1364,pink morsel,"$2,460.00",2021-09-19,north
-1365,pink morsel,"$2,185.00",2021-09-19,south
-1366,pink morsel,"$2,390.00",2021-09-19,east
-1367,pink morsel,"$2,175.00",2021-09-19,west
-1368,pink morsel,"$2,480.00",2021-09-20,north
-1369,pink morsel,"$2,385.00",2021-09-20,south
-1370,pink morsel,"$2,150.00",2021-09-20,east
-1371,pink morsel,"$2,225.00",2021-09-20,west
-1372,pink morsel,"$2,395.00",2021-09-21,north
-1373,pink morsel,"$2,395.00",2021-09-21,south
-1374,pink morsel,"$2,445.00",2021-09-21,east
-1375,pink morsel,"$2,295.00",2021-09-21,west
-1376,pink morsel,"$2,285.00",2021-09-22,north
-1377,pink morsel,"$2,095.00",2021-09-22,south
-1378,pink morsel,"$2,310.00",2021-09-22,east
-1379,pink morsel,"$2,120.00",2021-09-22,west
-1380,pink morsel,"$2,075.00",2021-09-23,north
-1381,pink morsel,"$2,390.00",2021-09-23,south
-1382,pink morsel,"$2,485.00",2021-09-23,east
-1383,pink morsel,"$2,475.00",2021-09-23,west
-1384,pink morsel,"$2,225.00",2021-09-24,north
-1385,pink morsel,"$2,325.00",2021-09-24,south
-1386,pink morsel,"$2,195.00",2021-09-24,east
-1387,pink morsel,"$2,410.00",2021-09-24,west
-1388,pink morsel,"$2,285.00",2021-09-25,north
-1389,pink morsel,"$2,000.00",2021-09-25,south
-1390,pink morsel,"$2,345.00",2021-09-25,east
-1391,pink morsel,"$2,400.00",2021-09-25,west
-1392,pink morsel,"$2,260.00",2021-09-26,north
-1393,pink morsel,"$2,300.00",2021-09-26,south
-1394,pink morsel,"$2,150.00",2021-09-26,east
-1395,pink morsel,"$2,200.00",2021-09-26,west
-1396,pink morsel,"$2,140.00",2021-09-27,north
-1397,pink morsel,"$2,365.00",2021-09-27,south
-1398,pink morsel,"$2,090.00",2021-09-27,east
-1399,pink morsel,"$2,115.00",2021-09-27,west
-1400,pink morsel,"$2,070.00",2021-09-28,north
-1401,pink morsel,"$2,085.00",2021-09-28,south
-1402,pink morsel,"$2,435.00",2021-09-28,east
-1403,pink morsel,"$2,115.00",2021-09-28,west
-1404,pink morsel,"$2,340.00",2021-09-29,north
-1405,pink morsel,"$2,225.00",2021-09-29,south
-1406,pink morsel,"$2,140.00",2021-09-29,east
-1407,pink morsel,"$2,240.00",2021-09-29,west
-1408,pink morsel,"$2,000.00",2021-09-30,north
-1409,pink morsel,"$2,175.00",2021-09-30,south
-1410,pink morsel,"$2,020.00",2021-09-30,east
-1411,pink morsel,"$2,425.00",2021-09-30,west
-1412,pink morsel,"$2,350.00",2021-10-01,north
-1413,pink morsel,"$2,215.00",2021-10-01,south
-1414,pink morsel,"$2,345.00",2021-10-01,east
-1415,pink morsel,"$2,360.00",2021-10-01,west
-1416,pink morsel,"$2,370.00",2021-10-02,north
-1417,pink morsel,"$2,180.00",2021-10-02,south
-1418,pink morsel,"$2,000.00",2021-10-02,east
-1419,pink morsel,"$2,235.00",2021-10-02,west
-1420,pink morsel,"$2,055.00",2021-10-03,north
-1421,pink morsel,"$2,265.00",2021-10-03,south
-1422,pink morsel,"$2,165.00",2021-10-03,east
-1423,pink morsel,"$2,165.00",2021-10-03,west
-1424,pink morsel,"$2,135.00",2021-10-04,north
-1425,pink morsel,"$2,395.00",2021-10-04,south
-1426,pink morsel,"$2,240.00",2021-10-04,east
-1427,pink morsel,"$2,295.00",2021-10-04,west
-1428,pink morsel,"$2,425.00",2021-10-05,north
-1429,pink morsel,"$2,255.00",2021-10-05,south
-1430,pink morsel,"$2,145.00",2021-10-05,east
-1431,pink morsel,"$2,000.00",2021-10-05,west
-1432,pink morsel,"$2,090.00",2021-10-06,north
-1433,pink morsel,"$2,390.00",2021-10-06,south
-1434,pink morsel,"$2,120.00",2021-10-06,east
-1435,pink morsel,"$2,405.00",2021-10-06,west
-1436,pink morsel,"$2,370.00",2021-10-07,north
-1437,pink morsel,"$2,080.00",2021-10-07,south
-1438,pink morsel,"$2,160.00",2021-10-07,east
-1439,pink morsel,"$2,270.00",2021-10-07,west
-1440,pink morsel,"$2,455.00",2021-10-08,north
-1441,pink morsel,"$2,360.00",2021-10-08,south
-1442,pink morsel,"$2,085.00",2021-10-08,east
-1443,pink morsel,"$2,045.00",2021-10-08,west
-1444,pink morsel,"$2,260.00",2021-10-09,north
-1445,pink morsel,"$2,300.00",2021-10-09,south
-1446,pink morsel,"$2,065.00",2021-10-09,east
-1447,pink morsel,"$2,025.00",2021-10-09,west
-1448,pink morsel,"$2,400.00",2021-10-10,north
-1449,pink morsel,"$2,255.00",2021-10-10,south
-1450,pink morsel,"$2,335.00",2021-10-10,east
-1451,pink morsel,"$2,460.00",2021-10-10,west
-1452,pink morsel,"$2,120.00",2021-10-11,north
-1453,pink morsel,"$2,230.00",2021-10-11,south
-1454,pink morsel,"$2,195.00",2021-10-11,east
-1455,pink morsel,"$2,205.00",2021-10-11,west
-1456,pink morsel,"$2,105.00",2021-10-12,north
-1457,pink morsel,"$2,105.00",2021-10-12,south
-1458,pink morsel,"$2,065.00",2021-10-12,east
-1459,pink morsel,"$2,005.00",2021-10-12,west
-1460,pink morsel,"$2,205.00",2021-10-13,north
-1461,pink morsel,"$2,495.00",2021-10-13,south
-1462,pink morsel,"$2,125.00",2021-10-13,east
-1463,pink morsel,"$2,410.00",2021-10-13,west
-1464,pink morsel,"$2,320.00",2021-10-14,north
-1465,pink morsel,"$2,010.00",2021-10-14,south
-1466,pink morsel,"$2,330.00",2021-10-14,east
-1467,pink morsel,"$2,275.00",2021-10-14,west
-1468,pink morsel,"$2,305.00",2021-10-15,north
-1469,pink morsel,"$2,425.00",2021-10-15,south
-1470,pink morsel,"$2,310.00",2021-10-15,east
-1471,pink morsel,"$2,090.00",2021-10-15,west
-1472,pink morsel,"$2,485.00",2021-10-16,north
-1473,pink morsel,"$2,415.00",2021-10-16,south
-1474,pink morsel,"$2,395.00",2021-10-16,east
-1475,pink morsel,"$2,090.00",2021-10-16,west
-1476,pink morsel,"$2,010.00",2021-10-17,north
-1477,pink morsel,"$2,085.00",2021-10-17,south
-1478,pink morsel,"$2,250.00",2021-10-17,east
-1479,pink morsel,"$2,450.00",2021-10-17,west
-1480,pink morsel,"$2,230.00",2021-10-18,north
-1481,pink morsel,"$2,310.00",2021-10-18,south
-1482,pink morsel,"$2,005.00",2021-10-18,east
-1483,pink morsel,"$2,025.00",2021-10-18,west
-1484,pink morsel,"$2,085.00",2021-10-19,north
-1485,pink morsel,"$2,275.00",2021-10-19,south
-1486,pink morsel,"$2,220.00",2021-10-19,east
-1487,pink morsel,"$2,395.00",2021-10-19,west
-1488,pink morsel,"$2,070.00",2021-10-20,north
-1489,pink morsel,"$2,210.00",2021-10-20,south
-1490,pink morsel,"$2,290.00",2021-10-20,east
-1491,pink morsel,"$2,380.00",2021-10-20,west
-1492,pink morsel,"$2,475.00",2021-10-21,north
-1493,pink morsel,"$2,175.00",2021-10-21,south
-1494,pink morsel,"$2,015.00",2021-10-21,east
-1495,pink morsel,"$2,115.00",2021-10-21,west
-1496,pink morsel,"$2,030.00",2021-10-22,north
-1497,pink morsel,"$2,400.00",2021-10-22,south
-1498,pink morsel,"$2,180.00",2021-10-22,east
-1499,pink morsel,"$2,345.00",2021-10-22,west
-1500,pink morsel,"$2,485.00",2021-10-23,north
-1501,pink morsel,"$2,225.00",2021-10-23,south
-1502,pink morsel,"$2,095.00",2021-10-23,east
-1503,pink morsel,"$2,350.00",2021-10-23,west
-1504,pink morsel,"$2,315.00",2021-10-24,north
-1505,pink morsel,"$2,155.00",2021-10-24,south
-1506,pink morsel,"$2,305.00",2021-10-24,east
-1507,pink morsel,"$2,250.00",2021-10-24,west
-1508,pink morsel,"$2,470.00",2021-10-25,north
-1509,pink morsel,"$2,135.00",2021-10-25,south
-1510,pink morsel,"$2,255.00",2021-10-25,east
-1511,pink morsel,"$2,270.00",2021-10-25,west
-1512,pink morsel,"$2,410.00",2021-10-26,north
-1513,pink morsel,"$2,490.00",2021-10-26,south
-1514,pink morsel,"$2,250.00",2021-10-26,east
-1515,pink morsel,"$2,220.00",2021-10-26,west
-1516,pink morsel,"$2,145.00",2021-10-27,north
-1517,pink morsel,"$2,145.00",2021-10-27,south
-1518,pink morsel,"$2,450.00",2021-10-27,east
-1519,pink morsel,"$2,090.00",2021-10-27,west
-1520,pink morsel,"$2,165.00",2021-10-28,north
-1521,pink morsel,"$2,355.00",2021-10-28,south
-1522,pink morsel,"$2,315.00",2021-10-28,east
-1523,pink morsel,"$2,300.00",2021-10-28,west
-1524,pink morsel,"$2,225.00",2021-10-29,north
-1525,pink morsel,"$2,175.00",2021-10-29,south
-1526,pink morsel,"$2,435.00",2021-10-29,east
-1527,pink morsel,"$2,035.00",2021-10-29,west
-1528,pink morsel,"$2,430.00",2021-10-30,north
-1529,pink morsel,"$2,180.00",2021-10-30,south
-1530,pink morsel,"$2,060.00",2021-10-30,east
-1531,pink morsel,"$2,470.00",2021-10-30,west
-1532,pink morsel,"$2,400.00",2021-10-31,north
-1533,pink morsel,"$2,220.00",2021-10-31,south
-1534,pink morsel,"$2,395.00",2021-10-31,east
-1535,pink morsel,"$2,120.00",2021-10-31,west
-1536,pink morsel,"$2,080.00",2021-11-01,north
-1537,pink morsel,"$2,445.00",2021-11-01,south
-1538,pink morsel,"$2,415.00",2021-11-01,east
-1539,pink morsel,"$2,355.00",2021-11-01,west
-1540,pink morsel,"$2,405.00",2021-11-02,north
-1541,pink morsel,"$2,120.00",2021-11-02,south
-1542,pink morsel,"$2,195.00",2021-11-02,east
-1543,pink morsel,"$2,025.00",2021-11-02,west
-1544,pink morsel,"$2,305.00",2021-11-03,north
-1545,pink morsel,"$2,035.00",2021-11-03,south
-1546,pink morsel,"$2,085.00",2021-11-03,east
-1547,pink morsel,"$2,285.00",2021-11-03,west
-1548,pink morsel,"$2,205.00",2021-11-04,north
-1549,pink morsel,"$2,155.00",2021-11-04,south
-1550,pink morsel,"$2,105.00",2021-11-04,east
-1551,pink morsel,"$2,085.00",2021-11-04,west
-1552,pink morsel,"$2,475.00",2021-11-05,north
-1553,pink morsel,"$2,425.00",2021-11-05,south
-1554,pink morsel,"$2,330.00",2021-11-05,east
-1555,pink morsel,"$2,205.00",2021-11-05,west
-1556,pink morsel,"$2,235.00",2021-11-06,north
-1557,pink morsel,"$2,050.00",2021-11-06,south
-1558,pink morsel,"$2,455.00",2021-11-06,east
-1559,pink morsel,"$2,065.00",2021-11-06,west
-1560,pink morsel,"$2,210.00",2021-11-07,north
-1561,pink morsel,"$2,065.00",2021-11-07,south
-1562,pink morsel,"$2,215.00",2021-11-07,east
-1563,pink morsel,"$2,275.00",2021-11-07,west
-1564,pink morsel,"$2,005.00",2021-11-08,north
-1565,pink morsel,"$2,120.00",2021-11-08,south
-1566,pink morsel,"$2,140.00",2021-11-08,east
-1567,pink morsel,"$2,260.00",2021-11-08,west
-1568,pink morsel,"$2,165.00",2021-11-09,north
-1569,pink morsel,"$2,000.00",2021-11-09,south
-1570,pink morsel,"$2,435.00",2021-11-09,east
-1571,pink morsel,"$2,250.00",2021-11-09,west
-1572,pink morsel,"$2,485.00",2021-11-10,north
-1573,pink morsel,"$2,090.00",2021-11-10,south
-1574,pink morsel,"$2,025.00",2021-11-10,east
-1575,pink morsel,"$2,365.00",2021-11-10,west
-1576,pink morsel,"$2,150.00",2021-11-11,north
-1577,pink morsel,"$2,160.00",2021-11-11,south
-1578,pink morsel,"$2,035.00",2021-11-11,east
-1579,pink morsel,"$2,445.00",2021-11-11,west
-1580,pink morsel,"$2,350.00",2021-11-12,north
-1581,pink morsel,"$2,130.00",2021-11-12,south
-1582,pink morsel,"$2,045.00",2021-11-12,east
-1583,pink morsel,"$2,490.00",2021-11-12,west
-1584,pink morsel,"$2,315.00",2021-11-13,north
-1585,pink morsel,"$2,210.00",2021-11-13,south
-1586,pink morsel,"$2,345.00",2021-11-13,east
-1587,pink morsel,"$2,285.00",2021-11-13,west
-1588,pink morsel,"$2,225.00",2021-11-14,north
-1589,pink morsel,"$2,190.00",2021-11-14,south
-1590,pink morsel,"$2,495.00",2021-11-14,east
-1591,pink morsel,"$2,485.00",2021-11-14,west
-1592,pink morsel,"$2,105.00",2021-11-15,north
-1593,pink morsel,"$2,425.00",2021-11-15,south
-1594,pink morsel,"$2,155.00",2021-11-15,east
-1595,pink morsel,"$2,495.00",2021-11-15,west
-1596,pink morsel,"$2,485.00",2021-11-16,north
-1597,pink morsel,"$2,225.00",2021-11-16,south
-1598,pink morsel,"$2,315.00",2021-11-16,east
-1599,pink morsel,"$2,300.00",2021-11-16,west
-1600,pink morsel,"$2,165.00",2021-11-17,north
-1601,pink morsel,"$2,240.00",2021-11-17,south
-1602,pink morsel,"$2,290.00",2021-11-17,east
-1603,pink morsel,"$2,025.00",2021-11-17,west
-1604,pink morsel,"$2,080.00",2021-11-18,north
-1605,pink morsel,"$2,325.00",2021-11-18,south
-1606,pink morsel,"$2,105.00",2021-11-18,east
-1607,pink morsel,"$2,245.00",2021-11-18,west
-1608,pink morsel,"$2,180.00",2021-11-19,north
-1609,pink morsel,"$2,180.00",2021-11-19,south
-1610,pink morsel,"$2,345.00",2021-11-19,east
-1611,pink morsel,"$2,435.00",2021-11-19,west
-1612,pink morsel,"$2,490.00",2021-11-20,north
-1613,pink morsel,"$2,160.00",2021-11-20,south
-1614,pink morsel,"$2,460.00",2021-11-20,east
-1615,pink morsel,"$2,040.00",2021-11-20,west
-1616,pink morsel,"$2,010.00",2021-11-21,north
-1617,pink morsel,"$2,440.00",2021-11-21,south
-1618,pink morsel,"$2,190.00",2021-11-21,east
-1619,pink morsel,"$2,365.00",2021-11-21,west
-1620,pink morsel,"$2,145.00",2021-11-22,north
-1621,pink morsel,"$2,420.00",2021-11-22,south
-1622,pink morsel,"$2,200.00",2021-11-22,east
-1623,pink morsel,"$2,075.00",2021-11-22,west
-1624,pink morsel,"$2,075.00",2021-11-23,north
-1625,pink morsel,"$2,450.00",2021-11-23,south
-1626,pink morsel,"$2,280.00",2021-11-23,east
-1627,pink morsel,"$2,220.00",2021-11-23,west
-1628,pink morsel,"$2,410.00",2021-11-24,north
-1629,pink morsel,"$2,015.00",2021-11-24,south
-1630,pink morsel,"$2,020.00",2021-11-24,east
-1631,pink morsel,"$2,060.00",2021-11-24,west
-1632,pink morsel,"$2,410.00",2021-11-25,north
-1633,pink morsel,"$2,485.00",2021-11-25,south
-1634,pink morsel,"$2,445.00",2021-11-25,east
-1635,pink morsel,"$2,285.00",2021-11-25,west
-1636,pink morsel,"$2,490.00",2021-11-26,north
-1637,pink morsel,"$2,215.00",2021-11-26,south
-1638,pink morsel,"$2,015.00",2021-11-26,east
-1639,pink morsel,"$2,070.00",2021-11-26,west
-1640,pink morsel,"$2,170.00",2021-11-27,north
-1641,pink morsel,"$2,235.00",2021-11-27,south
-1642,pink morsel,"$2,145.00",2021-11-27,east
-1643,pink morsel,"$2,370.00",2021-11-27,west
-1644,pink morsel,"$2,035.00",2021-11-28,north
-1645,pink morsel,"$2,335.00",2021-11-28,south
-1646,pink morsel,"$2,390.00",2021-11-28,east
-1647,pink morsel,"$2,500.00",2021-11-28,west
-1648,pink morsel,"$2,180.00",2021-11-29,north
-1649,pink morsel,"$2,495.00",2021-11-29,south
-1650,pink morsel,"$2,170.00",2021-11-29,east
-1651,pink morsel,"$2,275.00",2021-11-29,west
-1652,pink morsel,"$2,265.00",2021-11-30,north
-1653,pink morsel,"$2,035.00",2021-11-30,south
-1654,pink morsel,"$2,480.00",2021-11-30,east
-1655,pink morsel,"$2,390.00",2021-11-30,west
-1656,pink morsel,"$2,415.00",2021-12-01,north
-1657,pink morsel,"$2,275.00",2021-12-01,south
-1658,pink morsel,"$2,100.00",2021-12-01,east
-1659,pink morsel,"$2,105.00",2021-12-01,west
-1660,pink morsel,"$2,330.00",2021-12-02,north
-1661,pink morsel,"$2,170.00",2021-12-02,south
-1662,pink morsel,"$2,460.00",2021-12-02,east
-1663,pink morsel,"$2,200.00",2021-12-02,west
-1664,pink morsel,"$2,225.00",2021-12-03,north
-1665,pink morsel,"$2,350.00",2021-12-03,south
-1666,pink morsel,"$2,125.00",2021-12-03,east
-1667,pink morsel,"$2,245.00",2021-12-03,west
-1668,pink morsel,"$2,025.00",2021-12-04,north
-1669,pink morsel,"$2,010.00",2021-12-04,south
-1670,pink morsel,"$2,005.00",2021-12-04,east
-1671,pink morsel,"$2,455.00",2021-12-04,west
-1672,pink morsel,"$2,130.00",2021-12-05,north
-1673,pink morsel,"$2,445.00",2021-12-05,south
-1674,pink morsel,"$2,190.00",2021-12-05,east
-1675,pink morsel,"$2,265.00",2021-12-05,west
-1676,pink morsel,"$2,380.00",2021-12-06,north
-1677,pink morsel,"$2,235.00",2021-12-06,south
-1678,pink morsel,"$2,200.00",2021-12-06,east
-1679,pink morsel,"$2,200.00",2021-12-06,west
-1680,pink morsel,"$2,090.00",2021-12-07,north
-1681,pink morsel,"$2,165.00",2021-12-07,south
-1682,pink morsel,"$2,300.00",2021-12-07,east
-1683,pink morsel,"$2,400.00",2021-12-07,west
-1684,pink morsel,"$2,135.00",2021-12-08,north
-1685,pink morsel,"$2,315.00",2021-12-08,south
-1686,pink morsel,"$2,375.00",2021-12-08,east
-1687,pink morsel,"$2,080.00",2021-12-08,west
-1688,pink morsel,"$2,270.00",2021-12-09,north
-1689,pink morsel,"$2,430.00",2021-12-09,south
-1690,pink morsel,"$2,335.00",2021-12-09,east
-1691,pink morsel,"$2,065.00",2021-12-09,west
-1692,pink morsel,"$2,235.00",2021-12-10,north
-1693,pink morsel,"$2,375.00",2021-12-10,south
-1694,pink morsel,"$2,400.00",2021-12-10,east
-1695,pink morsel,"$2,305.00",2021-12-10,west
-1696,pink morsel,"$2,310.00",2021-12-11,north
-1697,pink morsel,"$2,155.00",2021-12-11,south
-1698,pink morsel,"$2,435.00",2021-12-11,east
-1699,pink morsel,"$2,165.00",2021-12-11,west
-1700,pink morsel,"$2,225.00",2021-12-12,north
-1701,pink morsel,"$2,055.00",2021-12-12,south
-1702,pink morsel,"$2,235.00",2021-12-12,east
-1703,pink morsel,"$2,295.00",2021-12-12,west
-1704,pink morsel,"$2,040.00",2021-12-13,north
-1705,pink morsel,"$2,320.00",2021-12-13,south
-1706,pink morsel,"$2,110.00",2021-12-13,east
-1707,pink morsel,"$2,180.00",2021-12-13,west
-1708,pink morsel,"$2,360.00",2021-12-14,north
-1709,pink morsel,"$2,420.00",2021-12-14,south
-1710,pink morsel,"$2,370.00",2021-12-14,east
-1711,pink morsel,"$2,335.00",2021-12-14,west
-1712,pink morsel,"$2,485.00",2021-12-15,north
-1713,pink morsel,"$2,495.00",2021-12-15,south
-1714,pink morsel,"$2,365.00",2021-12-15,east
-1715,pink morsel,"$2,155.00",2021-12-15,west
-1716,pink morsel,"$2,385.00",2021-12-16,north
-1717,pink morsel,"$2,385.00",2021-12-16,south
-1718,pink morsel,"$2,435.00",2021-12-16,east
-1719,pink morsel,"$2,290.00",2021-12-16,west
-1720,pink morsel,"$2,210.00",2021-12-17,north
-1721,pink morsel,"$2,085.00",2021-12-17,south
-1722,pink morsel,"$2,090.00",2021-12-17,east
-1723,pink morsel,"$2,370.00",2021-12-17,west
-1724,pink morsel,"$2,145.00",2021-12-18,north
-1725,pink morsel,"$2,210.00",2021-12-18,south
-1726,pink morsel,"$2,380.00",2021-12-18,east
-1727,pink morsel,"$2,455.00",2021-12-18,west
-1728,pink morsel,"$2,270.00",2021-12-19,north
-1729,pink morsel,"$2,040.00",2021-12-19,south
-1730,pink morsel,"$2,180.00",2021-12-19,east
-1731,pink morsel,"$2,500.00",2021-12-19,west
-1732,pink morsel,"$2,115.00",2021-12-20,north
-1733,pink morsel,"$2,325.00",2021-12-20,south
-1734,pink morsel,"$2,250.00",2021-12-20,east
-1735,pink morsel,"$2,180.00",2021-12-20,west
-1736,pink morsel,"$2,330.00",2021-12-21,north
-1737,pink morsel,"$2,075.00",2021-12-21,south
-1738,pink morsel,"$2,355.00",2021-12-21,east
-1739,pink morsel,"$2,355.00",2021-12-21,west
-1740,pink morsel,"$2,205.00",2021-12-22,north
-1741,pink morsel,"$2,155.00",2021-12-22,south
-1742,pink morsel,"$2,010.00",2021-12-22,east
-1743,pink morsel,"$2,005.00",2021-12-22,west
-1744,pink morsel,"$2,410.00",2021-12-23,north
-1745,pink morsel,"$2,265.00",2021-12-23,south
-1746,pink morsel,"$2,205.00",2021-12-23,east
-1747,pink morsel,"$2,115.00",2021-12-23,west
-1748,pink morsel,"$2,050.00",2021-12-24,north
-1749,pink morsel,"$2,135.00",2021-12-24,south
-1750,pink morsel,"$2,440.00",2021-12-24,east
-1751,pink morsel,"$2,360.00",2021-12-24,west
-1752,pink morsel,"$2,405.00",2021-12-25,north
-1753,pink morsel,"$2,115.00",2021-12-25,south
-1754,pink morsel,"$2,085.00",2021-12-25,east
-1755,pink morsel,"$2,290.00",2021-12-25,west
-1756,pink morsel,"$2,245.00",2021-12-26,north
-1757,pink morsel,"$2,460.00",2021-12-26,south
-1758,pink morsel,"$2,450.00",2021-12-26,east
-1759,pink morsel,"$2,310.00",2021-12-26,west
-1760,pink morsel,"$2,370.00",2021-12-27,north
-1761,pink morsel,"$2,040.00",2021-12-27,south
-1762,pink morsel,"$2,415.00",2021-12-27,east
-1763,pink morsel,"$2,015.00",2021-12-27,west
-1764,pink morsel,"$2,245.00",2021-12-28,north
-1765,pink morsel,"$2,120.00",2021-12-28,south
-1766,pink morsel,"$2,415.00",2021-12-28,east
-1767,pink morsel,"$2,295.00",2021-12-28,west
-1768,pink morsel,"$2,445.00",2021-12-29,north
-1769,pink morsel,"$2,215.00",2021-12-29,south
-1770,pink morsel,"$2,285.00",2021-12-29,east
-1771,pink morsel,"$2,395.00",2021-12-29,west
-1772,pink morsel,"$2,435.00",2021-12-30,north
-1773,pink morsel,"$2,400.00",2021-12-30,south
-1774,pink morsel,"$2,260.00",2021-12-30,east
-1775,pink morsel,"$2,315.00",2021-12-30,west
-1776,pink morsel,"$2,315.00",2021-12-31,north
-1777,pink morsel,"$2,175.00",2021-12-31,south
-1778,pink morsel,"$2,295.00",2021-12-31,east
-1779,pink morsel,"$2,055.00",2021-12-31,west
-1780,pink morsel,"$2,130.00",2022-01-01,north
-1781,pink morsel,"$2,480.00",2022-01-01,south
-1782,pink morsel,"$2,190.00",2022-01-01,east
-1783,pink morsel,"$2,170.00",2022-01-01,west
-1784,pink morsel,"$2,160.00",2022-01-02,north
-1785,pink morsel,"$2,120.00",2022-01-02,south
-1786,pink morsel,"$2,110.00",2022-01-02,east
-1787,pink morsel,"$2,080.00",2022-01-02,west
-1788,pink morsel,"$2,050.00",2022-01-03,north
-1789,pink morsel,"$2,150.00",2022-01-03,south
-1790,pink morsel,"$2,440.00",2022-01-03,east
-1791,pink morsel,"$2,055.00",2022-01-03,west
-1792,pink morsel,"$2,405.00",2022-01-04,north
-1793,pink morsel,"$2,020.00",2022-01-04,south
-1794,pink morsel,"$2,010.00",2022-01-04,east
-1795,pink morsel,"$2,005.00",2022-01-04,west
-1796,pink morsel,"$2,480.00",2022-01-05,north
-1797,pink morsel,"$2,360.00",2022-01-05,south
-1798,pink morsel,"$2,025.00",2022-01-05,east
-1799,pink morsel,"$2,275.00",2022-01-05,west
-1800,pink morsel,"$2,245.00",2022-01-06,north
-1801,pink morsel,"$2,060.00",2022-01-06,south
-1802,pink morsel,"$2,290.00",2022-01-06,east
-1803,pink morsel,"$2,205.00",2022-01-06,west
-1804,pink morsel,"$2,065.00",2022-01-07,north
-1805,pink morsel,"$2,050.00",2022-01-07,south
-1806,pink morsel,"$2,180.00",2022-01-07,east
-1807,pink morsel,"$2,135.00",2022-01-07,west
-1808,pink morsel,"$2,370.00",2022-01-08,north
-1809,pink morsel,"$2,245.00",2022-01-08,south
-1810,pink morsel,"$2,070.00",2022-01-08,east
-1811,pink morsel,"$2,395.00",2022-01-08,west
-1812,pink morsel,"$2,490.00",2022-01-09,north
-1813,pink morsel,"$2,105.00",2022-01-09,south
-1814,pink morsel,"$2,335.00",2022-01-09,east
-1815,pink morsel,"$2,250.00",2022-01-09,west
-1816,pink morsel,"$2,240.00",2022-01-10,north
-1817,pink morsel,"$2,090.00",2022-01-10,south
-1818,pink morsel,"$2,370.00",2022-01-10,east
-1819,pink morsel,"$2,315.00",2022-01-10,west
-1820,pink morsel,"$2,000.00",2022-01-11,north
-1821,pink morsel,"$2,075.00",2022-01-11,south
-1822,pink morsel,"$2,305.00",2022-01-11,east
-1823,pink morsel,"$2,145.00",2022-01-11,west
-1824,pink morsel,"$2,050.00",2022-01-12,north
-1825,pink morsel,"$2,260.00",2022-01-12,south
-1826,pink morsel,"$2,095.00",2022-01-12,east
-1827,pink morsel,"$2,500.00",2022-01-12,west
-1828,pink morsel,"$2,260.00",2022-01-13,north
-1829,pink morsel,"$2,365.00",2022-01-13,south
-1830,pink morsel,"$2,485.00",2022-01-13,east
-1831,pink morsel,"$2,180.00",2022-01-13,west
-1832,pink morsel,"$2,245.00",2022-01-14,north
-1833,pink morsel,"$2,225.00",2022-01-14,south
-1834,pink morsel,"$2,080.00",2022-01-14,east
-1835,pink morsel,"$2,250.00",2022-01-14,west
-1836,pink morsel,"$2,115.00",2022-01-15,north
-1837,pink morsel,"$2,145.00",2022-01-15,south
-1838,pink morsel,"$2,130.00",2022-01-15,east
-1839,pink morsel,"$2,120.00",2022-01-15,west
-1840,pink morsel,"$2,315.00",2022-01-16,north
-1841,pink morsel,"$2,410.00",2022-01-16,south
-1842,pink morsel,"$2,290.00",2022-01-16,east
-1843,pink morsel,"$2,150.00",2022-01-16,west
-1844,pink morsel,"$2,295.00",2022-01-17,north
-1845,pink morsel,"$2,015.00",2022-01-17,south
-1846,pink morsel,"$2,070.00",2022-01-17,east
-1847,pink morsel,"$2,095.00",2022-01-17,west
-1848,pink morsel,"$2,045.00",2022-01-18,north
-1849,pink morsel,"$2,125.00",2022-01-18,south
-1850,pink morsel,"$2,085.00",2022-01-18,east
-1851,pink morsel,"$2,095.00",2022-01-18,west
-1852,pink morsel,"$2,295.00",2022-01-19,north
-1853,pink morsel,"$2,265.00",2022-01-19,south
-1854,pink morsel,"$2,040.00",2022-01-19,east
-1855,pink morsel,"$2,200.00",2022-01-19,west
-1856,pink morsel,"$2,415.00",2022-01-20,north
-1857,pink morsel,"$2,435.00",2022-01-20,south
-1858,pink morsel,"$2,160.00",2022-01-20,east
-1859,pink morsel,"$2,210.00",2022-01-20,west
-1860,pink morsel,"$2,295.00",2022-01-21,north
-1861,pink morsel,"$2,405.00",2022-01-21,south
-1862,pink morsel,"$2,380.00",2022-01-21,east
-1863,pink morsel,"$2,360.00",2022-01-21,west
-1864,pink morsel,"$2,080.00",2022-01-22,north
-1865,pink morsel,"$2,220.00",2022-01-22,south
-1866,pink morsel,"$2,495.00",2022-01-22,east
-1867,pink morsel,"$2,500.00",2022-01-22,west
-1868,pink morsel,"$2,170.00",2022-01-23,north
-1869,pink morsel,"$2,135.00",2022-01-23,south
-1870,pink morsel,"$2,205.00",2022-01-23,east
-1871,pink morsel,"$2,445.00",2022-01-23,west
-1872,pink morsel,"$2,195.00",2022-01-24,north
-1873,pink morsel,"$2,375.00",2022-01-24,south
-1874,pink morsel,"$2,370.00",2022-01-24,east
-1875,pink morsel,"$2,410.00",2022-01-24,west
-1876,pink morsel,"$2,470.00",2022-01-25,north
-1877,pink morsel,"$2,370.00",2022-01-25,south
-1878,pink morsel,"$2,110.00",2022-01-25,east
-1879,pink morsel,"$2,480.00",2022-01-25,west
-1880,pink morsel,"$2,085.00",2022-01-26,north
-1881,pink morsel,"$2,320.00",2022-01-26,south
-1882,pink morsel,"$2,075.00",2022-01-26,east
-1883,pink morsel,"$2,485.00",2022-01-26,west
-1884,pink morsel,"$2,165.00",2022-01-27,north
-1885,pink morsel,"$2,400.00",2022-01-27,south
-1886,pink morsel,"$2,055.00",2022-01-27,east
-1887,pink morsel,"$2,435.00",2022-01-27,west
-1888,pink morsel,"$2,380.00",2022-01-28,north
-1889,pink morsel,"$2,410.00",2022-01-28,south
-1890,pink morsel,"$2,240.00",2022-01-28,east
-1891,pink morsel,"$2,450.00",2022-01-28,west
-1892,pink morsel,"$2,190.00",2022-01-29,north
-1893,pink morsel,"$2,345.00",2022-01-29,south
-1894,pink morsel,"$2,290.00",2022-01-29,east
-1895,pink morsel,"$2,380.00",2022-01-29,west
-1896,pink morsel,"$2,145.00",2022-01-30,north
-1897,pink morsel,"$2,150.00",2022-01-30,south
-1898,pink morsel,"$2,500.00",2022-01-30,east
-1899,pink morsel,"$2,305.00",2022-01-30,west
-1900,pink morsel,"$2,045.00",2022-01-31,north
-1901,pink morsel,"$2,375.00",2022-01-31,south
-1902,pink morsel,"$2,040.00",2022-01-31,east
-1903,pink morsel,"$2,055.00",2022-01-31,west
-1904,pink morsel,"$2,405.00",2022-02-01,north
-1905,pink morsel,"$2,310.00",2022-02-01,south
-1906,pink morsel,"$2,405.00",2022-02-01,east
-1907,pink morsel,"$2,420.00",2022-02-01,west
-1908,pink morsel,"$2,160.00",2022-02-02,north
-1909,pink morsel,"$2,485.00",2022-02-02,south
-1910,pink morsel,"$2,375.00",2022-02-02,east
-1911,pink morsel,"$2,435.00",2022-02-02,west
-1912,pink morsel,"$2,125.00",2022-02-03,north
-1913,pink morsel,"$2,185.00",2022-02-03,south
-1914,pink morsel,"$2,090.00",2022-02-03,east
-1915,pink morsel,"$2,115.00",2022-02-03,west
-1916,pink morsel,"$2,035.00",2022-02-04,north
-1917,pink morsel,"$2,215.00",2022-02-04,south
-1918,pink morsel,"$2,010.00",2022-02-04,east
-1919,pink morsel,"$2,190.00",2022-02-04,west
-1920,pink morsel,"$2,070.00",2022-02-05,north
-1921,pink morsel,"$2,000.00",2022-02-05,south
-1922,pink morsel,"$2,130.00",2022-02-05,east
-1923,pink morsel,"$2,235.00",2022-02-05,west
-1924,pink morsel,"$2,250.00",2022-02-06,north
-1925,pink morsel,"$2,365.00",2022-02-06,south
-1926,pink morsel,"$2,020.00",2022-02-06,east
-1927,pink morsel,"$2,215.00",2022-02-06,west
-1928,pink morsel,"$2,290.00",2022-02-07,north
-1929,pink morsel,"$2,145.00",2022-02-07,south
-1930,pink morsel,"$2,255.00",2022-02-07,east
-1931,pink morsel,"$2,265.00",2022-02-07,west
-1932,pink morsel,"$2,375.00",2022-02-08,north
-1933,pink morsel,"$2,360.00",2022-02-08,south
-1934,pink morsel,"$2,430.00",2022-02-08,east
-1935,pink morsel,"$2,330.00",2022-02-08,west
-1936,pink morsel,"$2,290.00",2022-02-09,north
-1937,pink morsel,"$2,435.00",2022-02-09,south
-1938,pink morsel,"$2,225.00",2022-02-09,east
-1939,pink morsel,"$2,255.00",2022-02-09,west
-1940,pink morsel,"$2,275.00",2022-02-10,north
-1941,pink morsel,"$2,310.00",2022-02-10,south
-1942,pink morsel,"$2,070.00",2022-02-10,east
-1943,pink morsel,"$2,445.00",2022-02-10,west
-1944,pink morsel,"$2,405.00",2022-02-11,north
-1945,pink morsel,"$2,030.00",2022-02-11,south
-1946,pink morsel,"$2,470.00",2022-02-11,east
-1947,pink morsel,"$2,265.00",2022-02-11,west
-1948,pink morsel,"$2,245.00",2022-02-12,north
-1949,pink morsel,"$2,490.00",2022-02-12,south
-1950,pink morsel,"$2,110.00",2022-02-12,east
-1951,pink morsel,"$2,085.00",2022-02-12,west
-1952,pink morsel,"$2,425.00",2022-02-13,north
-1953,pink morsel,"$2,245.00",2022-02-13,south
-1954,pink morsel,"$2,500.00",2022-02-13,east
-1955,pink morsel,"$2,390.00",2022-02-13,west
-1956,pink morsel,"$2,035.00",2022-02-14,north
-1957,pink morsel,"$2,465.00",2022-02-14,south
-1958,pink morsel,"$2,500.00",2022-02-14,east
-1959,pink morsel,"$2,115.00",2022-02-14,west
+,sold,date,region
+0,"$1,578.00",2020-10-13,north
+1,"$1,638.00",2020-10-13,south
+2,"$1,515.00",2020-10-13,east
+3,"$1,683.00",2020-10-13,west
+4,"$1,680.00",2020-10-14,north
+5,"$1,755.00",2020-10-14,south
+6,"$1,584.00",2020-10-14,east
+7,"$1,590.00",2020-10-14,west
+8,"$1,518.00",2020-10-15,north
+9,"$1,701.00",2020-10-15,south
+10,"$1,716.00",2020-10-15,east
+11,"$1,563.00",2020-10-15,west
+12,"$1,638.00",2020-10-16,north
+13,"$1,689.00",2020-10-16,south
+14,"$1,515.00",2020-10-16,east
+15,"$1,632.00",2020-10-16,west
+16,"$1,509.00",2020-10-17,north
+17,"$1,791.00",2020-10-17,south
+18,"$1,509.00",2020-10-17,east
+19,"$1,776.00",2020-10-17,west
+20,"$1,524.00",2020-10-18,north
+21,"$1,716.00",2020-10-18,south
+22,"$1,578.00",2020-10-18,east
+23,"$1,713.00",2020-10-18,west
+24,"$1,656.00",2020-10-19,north
+25,"$1,725.00",2020-10-19,south
+26,"$1,554.00",2020-10-19,east
+27,"$1,524.00",2020-10-19,west
+28,"$1,569.00",2020-10-20,north
+29,"$1,758.00",2020-10-20,south
+30,"$1,758.00",2020-10-20,east
+31,"$1,614.00",2020-10-20,west
+32,"$1,740.00",2020-10-21,north
+33,"$1,521.00",2020-10-21,south
+34,"$1,722.00",2020-10-21,east
+35,"$1,605.00",2020-10-21,west
+36,"$1,749.00",2020-10-22,north
+37,"$1,638.00",2020-10-22,south
+38,"$1,710.00",2020-10-22,east
+39,"$1,668.00",2020-10-22,west
+40,"$1,635.00",2020-10-23,north
+41,"$1,533.00",2020-10-23,south
+42,"$1,635.00",2020-10-23,east
+43,"$1,575.00",2020-10-23,west
+44,"$1,737.00",2020-10-24,north
+45,"$1,593.00",2020-10-24,south
+46,"$1,707.00",2020-10-24,east
+47,"$1,536.00",2020-10-24,west
+48,"$1,689.00",2020-10-25,north
+49,"$1,680.00",2020-10-25,south
+50,"$1,605.00",2020-10-25,east
+51,"$1,617.00",2020-10-25,west
+52,"$1,746.00",2020-10-26,north
+53,"$1,518.00",2020-10-26,south
+54,"$1,656.00",2020-10-26,east
+55,"$1,542.00",2020-10-26,west
+56,"$1,581.00",2020-10-27,north
+57,"$1,716.00",2020-10-27,south
+58,"$1,683.00",2020-10-27,east
+59,"$1,518.00",2020-10-27,west
+60,"$1,746.00",2020-10-28,north
+61,"$1,587.00",2020-10-28,south
+62,"$1,644.00",2020-10-28,east
+63,"$1,731.00",2020-10-28,west
+64,"$1,770.00",2020-10-29,north
+65,"$1,692.00",2020-10-29,south
+66,"$1,557.00",2020-10-29,east
+67,"$1,524.00",2020-10-29,west
+68,"$1,773.00",2020-10-30,north
+69,"$1,689.00",2020-10-30,south
+70,"$1,776.00",2020-10-30,east
+71,"$1,686.00",2020-10-30,west
+72,"$1,581.00",2020-10-31,north
+73,"$1,758.00",2020-10-31,south
+74,"$1,755.00",2020-10-31,east
+75,"$1,668.00",2020-10-31,west
+76,"$1,665.00",2020-11-01,north
+77,"$1,551.00",2020-11-01,south
+78,"$1,770.00",2020-11-01,east
+79,"$1,593.00",2020-11-01,west
+80,"$1,734.00",2020-11-02,north
+81,"$1,500.00",2020-11-02,south
+82,"$1,740.00",2020-11-02,east
+83,"$1,686.00",2020-11-02,west
+84,"$1,551.00",2020-11-03,north
+85,"$1,752.00",2020-11-03,south
+86,"$1,746.00",2020-11-03,east
+87,"$1,581.00",2020-11-03,west
+88,"$1,773.00",2020-11-04,north
+89,"$1,788.00",2020-11-04,south
+90,"$1,545.00",2020-11-04,east
+91,"$1,506.00",2020-11-04,west
+92,"$1,644.00",2020-11-05,north
+93,"$1,605.00",2020-11-05,south
+94,"$1,686.00",2020-11-05,east
+95,"$1,539.00",2020-11-05,west
+96,"$1,725.00",2020-11-06,north
+97,"$1,599.00",2020-11-06,south
+98,"$1,659.00",2020-11-06,east
+99,"$1,575.00",2020-11-06,west
+100,"$1,653.00",2020-11-07,north
+101,"$1,641.00",2020-11-07,south
+102,"$1,587.00",2020-11-07,east
+103,"$1,758.00",2020-11-07,west
+104,"$1,785.00",2020-11-08,north
+105,"$1,695.00",2020-11-08,south
+106,"$1,581.00",2020-11-08,east
+107,"$1,734.00",2020-11-08,west
+108,"$1,788.00",2020-11-09,north
+109,"$1,593.00",2020-11-09,south
+110,"$1,593.00",2020-11-09,east
+111,"$1,512.00",2020-11-09,west
+112,"$1,638.00",2020-11-10,north
+113,"$1,734.00",2020-11-10,south
+114,"$1,695.00",2020-11-10,east
+115,"$1,638.00",2020-11-10,west
+116,"$1,695.00",2020-11-11,north
+117,"$1,533.00",2020-11-11,south
+118,"$1,731.00",2020-11-11,east
+119,"$1,689.00",2020-11-11,west
+120,"$1,713.00",2020-11-12,north
+121,"$1,596.00",2020-11-12,south
+122,"$1,686.00",2020-11-12,east
+123,"$1,515.00",2020-11-12,west
+124,"$1,581.00",2020-11-13,north
+125,"$1,521.00",2020-11-13,south
+126,"$1,677.00",2020-11-13,east
+127,"$1,635.00",2020-11-13,west
+128,"$1,749.00",2020-11-14,north
+129,"$1,542.00",2020-11-14,south
+130,"$1,602.00",2020-11-14,east
+131,"$1,557.00",2020-11-14,west
+132,"$1,686.00",2020-11-15,north
+133,"$1,638.00",2020-11-15,south
+134,"$1,794.00",2020-11-15,east
+135,"$1,659.00",2020-11-15,west
+136,"$1,773.00",2020-11-16,north
+137,"$1,671.00",2020-11-16,south
+138,"$1,626.00",2020-11-16,east
+139,"$1,725.00",2020-11-16,west
+140,"$1,686.00",2020-11-17,north
+141,"$1,521.00",2020-11-17,south
+142,"$1,734.00",2020-11-17,east
+143,"$1,530.00",2020-11-17,west
+144,"$1,698.00",2020-11-18,north
+145,"$1,770.00",2020-11-18,south
+146,"$1,752.00",2020-11-18,east
+147,"$1,662.00",2020-11-18,west
+148,"$1,566.00",2020-11-19,north
+149,"$1,590.00",2020-11-19,south
+150,"$1,635.00",2020-11-19,east
+151,"$1,698.00",2020-11-19,west
+152,"$1,683.00",2020-11-20,north
+153,"$1,653.00",2020-11-20,south
+154,"$1,527.00",2020-11-20,east
+155,"$1,524.00",2020-11-20,west
+156,"$1,593.00",2020-11-21,north
+157,"$1,656.00",2020-11-21,south
+158,"$1,623.00",2020-11-21,east
+159,"$1,638.00",2020-11-21,west
+160,"$1,596.00",2020-11-22,north
+161,"$1,575.00",2020-11-22,south
+162,"$1,656.00",2020-11-22,east
+163,"$1,725.00",2020-11-22,west
+164,"$1,767.00",2020-11-23,north
+165,"$1,650.00",2020-11-23,south
+166,"$1,641.00",2020-11-23,east
+167,"$1,632.00",2020-11-23,west
+168,"$1,602.00",2020-11-24,north
+169,"$1,632.00",2020-11-24,south
+170,"$1,743.00",2020-11-24,east
+171,"$1,617.00",2020-11-24,west
+172,"$1,725.00",2020-11-25,north
+173,"$1,761.00",2020-11-25,south
+174,"$1,791.00",2020-11-25,east
+175,"$1,620.00",2020-11-25,west
+176,"$1,770.00",2020-11-26,north
+177,"$1,791.00",2020-11-26,south
+178,"$1,665.00",2020-11-26,east
+179,"$1,743.00",2020-11-26,west
+180,"$1,632.00",2020-11-27,north
+181,"$1,587.00",2020-11-27,south
+182,"$1,680.00",2020-11-27,east
+183,"$1,656.00",2020-11-27,west
+184,"$1,746.00",2020-11-28,north
+185,"$1,599.00",2020-11-28,south
+186,"$1,719.00",2020-11-28,east
+187,"$1,794.00",2020-11-28,west
+188,"$1,758.00",2020-11-29,north
+189,"$1,557.00",2020-11-29,south
+190,"$1,647.00",2020-11-29,east
+191,"$1,740.00",2020-11-29,west
+192,"$1,635.00",2020-11-30,north
+193,"$1,584.00",2020-11-30,south
+194,"$1,614.00",2020-11-30,east
+195,"$1,749.00",2020-11-30,west
+196,"$1,587.00",2020-12-01,north
+197,"$1,719.00",2020-12-01,south
+198,"$1,620.00",2020-12-01,east
+199,"$1,656.00",2020-12-01,west
+200,"$1,554.00",2020-12-02,north
+201,"$1,755.00",2020-12-02,south
+202,"$1,737.00",2020-12-02,east
+203,"$1,548.00",2020-12-02,west
+204,"$1,572.00",2020-12-03,north
+205,"$1,560.00",2020-12-03,south
+206,"$1,746.00",2020-12-03,east
+207,"$1,788.00",2020-12-03,west
+208,"$1,638.00",2020-12-04,north
+209,"$1,626.00",2020-12-04,south
+210,"$1,518.00",2020-12-04,east
+211,"$1,773.00",2020-12-04,west
+212,"$1,707.00",2020-12-05,north
+213,"$1,614.00",2020-12-05,south
+214,"$1,722.00",2020-12-05,east
+215,"$1,524.00",2020-12-05,west
+216,"$1,560.00",2020-12-06,north
+217,"$1,617.00",2020-12-06,south
+218,"$1,566.00",2020-12-06,east
+219,"$1,515.00",2020-12-06,west
+220,"$1,509.00",2020-12-07,north
+221,"$1,545.00",2020-12-07,south
+222,"$1,596.00",2020-12-07,east
+223,"$1,671.00",2020-12-07,west
+224,"$1,686.00",2020-12-08,north
+225,"$1,785.00",2020-12-08,south
+226,"$1,800.00",2020-12-08,east
+227,"$1,590.00",2020-12-08,west
+228,"$1,788.00",2020-12-09,north
+229,"$1,788.00",2020-12-09,south
+230,"$1,584.00",2020-12-09,east
+231,"$1,665.00",2020-12-09,west
+232,"$1,620.00",2020-12-10,north
+233,"$1,725.00",2020-12-10,south
+234,"$1,569.00",2020-12-10,east
+235,"$1,533.00",2020-12-10,west
+236,"$1,503.00",2020-12-11,north
+237,"$1,713.00",2020-12-11,south
+238,"$1,650.00",2020-12-11,east
+239,"$1,776.00",2020-12-11,west
+240,"$1,629.00",2020-12-12,north
+241,"$1,662.00",2020-12-12,south
+242,"$1,623.00",2020-12-12,east
+243,"$1,590.00",2020-12-12,west
+244,"$1,650.00",2020-12-13,north
+245,"$1,647.00",2020-12-13,south
+246,"$1,683.00",2020-12-13,east
+247,"$1,530.00",2020-12-13,west
+248,"$1,746.00",2020-12-14,north
+249,"$1,551.00",2020-12-14,south
+250,"$1,548.00",2020-12-14,east
+251,"$1,767.00",2020-12-14,west
+252,"$1,785.00",2020-12-15,north
+253,"$1,734.00",2020-12-15,south
+254,"$1,578.00",2020-12-15,east
+255,"$1,596.00",2020-12-15,west
+256,"$1,779.00",2020-12-16,north
+257,"$1,770.00",2020-12-16,south
+258,"$1,581.00",2020-12-16,east
+259,"$1,614.00",2020-12-16,west
+260,"$1,506.00",2020-12-17,north
+261,"$1,533.00",2020-12-17,south
+262,"$1,677.00",2020-12-17,east
+263,"$1,737.00",2020-12-17,west
+264,"$1,635.00",2020-12-18,north
+265,"$1,800.00",2020-12-18,south
+266,"$1,794.00",2020-12-18,east
+267,"$1,653.00",2020-12-18,west
+268,"$1,719.00",2020-12-19,north
+269,"$1,674.00",2020-12-19,south
+270,"$1,575.00",2020-12-19,east
+271,"$1,650.00",2020-12-19,west
+272,"$1,707.00",2020-12-20,north
+273,"$1,692.00",2020-12-20,south
+274,"$1,614.00",2020-12-20,east
+275,"$1,563.00",2020-12-20,west
+276,"$1,575.00",2020-12-21,north
+277,"$1,506.00",2020-12-21,south
+278,"$1,599.00",2020-12-21,east
+279,"$1,686.00",2020-12-21,west
+280,"$1,518.00",2020-12-22,north
+281,"$1,677.00",2020-12-22,south
+282,"$1,722.00",2020-12-22,east
+283,"$1,566.00",2020-12-22,west
+284,"$1,677.00",2020-12-23,north
+285,"$1,542.00",2020-12-23,south
+286,"$1,785.00",2020-12-23,east
+287,"$1,671.00",2020-12-23,west
+288,"$1,725.00",2020-12-24,north
+289,"$1,506.00",2020-12-24,south
+290,"$1,563.00",2020-12-24,east
+291,"$1,668.00",2020-12-24,west
+292,"$1,782.00",2020-12-25,north
+293,"$1,557.00",2020-12-25,south
+294,"$1,797.00",2020-12-25,east
+295,"$1,563.00",2020-12-25,west
+296,"$1,554.00",2020-12-26,north
+297,"$1,650.00",2020-12-26,south
+298,"$1,698.00",2020-12-26,east
+299,"$1,737.00",2020-12-26,west
+300,"$1,770.00",2020-12-27,north
+301,"$1,734.00",2020-12-27,south
+302,"$1,770.00",2020-12-27,east
+303,"$1,524.00",2020-12-27,west
+304,"$1,725.00",2020-12-28,north
+305,"$1,536.00",2020-12-28,south
+306,"$1,758.00",2020-12-28,east
+307,"$1,683.00",2020-12-28,west
+308,"$1,518.00",2020-12-29,north
+309,"$1,677.00",2020-12-29,south
+310,"$1,614.00",2020-12-29,east
+311,"$1,767.00",2020-12-29,west
+312,"$1,524.00",2020-12-30,north
+313,"$1,530.00",2020-12-30,south
+314,"$1,584.00",2020-12-30,east
+315,"$1,791.00",2020-12-30,west
+316,"$1,740.00",2020-12-31,north
+317,"$1,698.00",2020-12-31,south
+318,"$1,770.00",2020-12-31,east
+319,"$1,650.00",2020-12-31,west
+320,"$1,536.00",2021-01-01,north
+321,"$1,542.00",2021-01-01,south
+322,"$1,671.00",2021-01-01,east
+323,"$1,752.00",2021-01-01,west
+324,"$1,794.00",2021-01-02,north
+325,"$1,620.00",2021-01-02,south
+326,"$1,584.00",2021-01-02,east
+327,"$1,503.00",2021-01-02,west
+328,"$1,758.00",2021-01-03,north
+329,"$1,578.00",2021-01-03,south
+330,"$1,677.00",2021-01-03,east
+331,"$1,722.00",2021-01-03,west
+332,"$1,590.00",2021-01-04,north
+333,"$1,785.00",2021-01-04,south
+334,"$1,731.00",2021-01-04,east
+335,"$1,686.00",2021-01-04,west
+336,"$1,536.00",2021-01-05,north
+337,"$1,578.00",2021-01-05,south
+338,"$1,683.00",2021-01-05,east
+339,"$1,608.00",2021-01-05,west
+340,"$1,743.00",2021-01-06,north
+341,"$1,743.00",2021-01-06,south
+342,"$1,638.00",2021-01-06,east
+343,"$1,788.00",2021-01-06,west
+344,"$1,716.00",2021-01-07,north
+345,"$1,602.00",2021-01-07,south
+346,"$1,596.00",2021-01-07,east
+347,"$1,797.00",2021-01-07,west
+348,"$1,662.00",2021-01-08,north
+349,"$1,668.00",2021-01-08,south
+350,"$1,662.00",2021-01-08,east
+351,"$1,521.00",2021-01-08,west
+352,"$1,563.00",2021-01-09,north
+353,"$1,647.00",2021-01-09,south
+354,"$1,743.00",2021-01-09,east
+355,"$1,653.00",2021-01-09,west
+356,"$1,731.00",2021-01-10,north
+357,"$1,608.00",2021-01-10,south
+358,"$1,512.00",2021-01-10,east
+359,"$1,545.00",2021-01-10,west
+360,"$1,740.00",2021-01-11,north
+361,"$1,611.00",2021-01-11,south
+362,"$1,536.00",2021-01-11,east
+363,"$1,626.00",2021-01-11,west
+364,"$1,614.00",2021-01-12,north
+365,"$1,572.00",2021-01-12,south
+366,"$1,539.00",2021-01-12,east
+367,"$1,605.00",2021-01-12,west
+368,"$1,545.00",2021-01-13,north
+369,"$1,542.00",2021-01-13,south
+370,"$1,779.00",2021-01-13,east
+371,"$1,680.00",2021-01-13,west
+372,"$1,701.00",2021-01-14,north
+373,"$1,677.00",2021-01-14,south
+374,"$1,614.00",2021-01-14,east
+375,"$1,590.00",2021-01-14,west
+376,"$2,025.00",2021-01-15,north
+377,"$2,195.00",2021-01-15,south
+378,"$2,180.00",2021-01-15,east
+379,"$2,395.00",2021-01-15,west
+380,"$2,110.00",2021-01-16,north
+381,"$2,145.00",2021-01-16,south
+382,"$2,340.00",2021-01-16,east
+383,"$2,390.00",2021-01-16,west
+384,"$2,475.00",2021-01-17,north
+385,"$2,320.00",2021-01-17,south
+386,"$2,105.00",2021-01-17,east
+387,"$2,090.00",2021-01-17,west
+388,"$2,050.00",2021-01-18,north
+389,"$2,410.00",2021-01-18,south
+390,"$2,125.00",2021-01-18,east
+391,"$2,325.00",2021-01-18,west
+392,"$2,335.00",2021-01-19,north
+393,"$2,105.00",2021-01-19,south
+394,"$2,340.00",2021-01-19,east
+395,"$2,420.00",2021-01-19,west
+396,"$2,415.00",2021-01-20,north
+397,"$2,495.00",2021-01-20,south
+398,"$2,070.00",2021-01-20,east
+399,"$2,405.00",2021-01-20,west
+400,"$2,090.00",2021-01-21,north
+401,"$2,145.00",2021-01-21,south
+402,"$2,245.00",2021-01-21,east
+403,"$2,330.00",2021-01-21,west
+404,"$2,460.00",2021-01-22,north
+405,"$2,230.00",2021-01-22,south
+406,"$2,010.00",2021-01-22,east
+407,"$2,380.00",2021-01-22,west
+408,"$2,025.00",2021-01-23,north
+409,"$2,085.00",2021-01-23,south
+410,"$2,420.00",2021-01-23,east
+411,"$2,175.00",2021-01-23,west
+412,"$2,015.00",2021-01-24,north
+413,"$2,445.00",2021-01-24,south
+414,"$2,255.00",2021-01-24,east
+415,"$2,085.00",2021-01-24,west
+416,"$2,210.00",2021-01-25,north
+417,"$2,145.00",2021-01-25,south
+418,"$2,200.00",2021-01-25,east
+419,"$2,160.00",2021-01-25,west
+420,"$2,050.00",2021-01-26,north
+421,"$2,280.00",2021-01-26,south
+422,"$2,165.00",2021-01-26,east
+423,"$2,345.00",2021-01-26,west
+424,"$2,000.00",2021-01-27,north
+425,"$2,010.00",2021-01-27,south
+426,"$2,060.00",2021-01-27,east
+427,"$2,020.00",2021-01-27,west
+428,"$2,140.00",2021-01-28,north
+429,"$2,310.00",2021-01-28,south
+430,"$2,285.00",2021-01-28,east
+431,"$2,005.00",2021-01-28,west
+432,"$2,295.00",2021-01-29,north
+433,"$2,195.00",2021-01-29,south
+434,"$2,465.00",2021-01-29,east
+435,"$2,095.00",2021-01-29,west
+436,"$2,400.00",2021-01-30,north
+437,"$2,290.00",2021-01-30,south
+438,"$2,370.00",2021-01-30,east
+439,"$2,165.00",2021-01-30,west
+440,"$2,430.00",2021-01-31,north
+441,"$2,260.00",2021-01-31,south
+442,"$2,215.00",2021-01-31,east
+443,"$2,145.00",2021-01-31,west
+444,"$2,350.00",2021-02-01,north
+445,"$2,180.00",2021-02-01,south
+446,"$2,290.00",2021-02-01,east
+447,"$2,115.00",2021-02-01,west
+448,"$2,315.00",2021-02-02,north
+449,"$2,100.00",2021-02-02,south
+450,"$2,430.00",2021-02-02,east
+451,"$2,215.00",2021-02-02,west
+452,"$2,000.00",2021-02-03,north
+453,"$2,355.00",2021-02-03,south
+454,"$2,110.00",2021-02-03,east
+455,"$2,240.00",2021-02-03,west
+456,"$2,380.00",2021-02-04,north
+457,"$2,305.00",2021-02-04,south
+458,"$2,300.00",2021-02-04,east
+459,"$2,120.00",2021-02-04,west
+460,"$2,185.00",2021-02-05,north
+461,"$2,295.00",2021-02-05,south
+462,"$2,215.00",2021-02-05,east
+463,"$2,050.00",2021-02-05,west
+464,"$2,225.00",2021-02-06,north
+465,"$2,405.00",2021-02-06,south
+466,"$2,095.00",2021-02-06,east
+467,"$2,200.00",2021-02-06,west
+468,"$2,070.00",2021-02-07,north
+469,"$2,065.00",2021-02-07,south
+470,"$2,080.00",2021-02-07,east
+471,"$2,010.00",2021-02-07,west
+472,"$2,395.00",2021-02-08,north
+473,"$2,345.00",2021-02-08,south
+474,"$2,085.00",2021-02-08,east
+475,"$2,250.00",2021-02-08,west
+476,"$2,045.00",2021-02-09,north
+477,"$2,345.00",2021-02-09,south
+478,"$2,455.00",2021-02-09,east
+479,"$2,260.00",2021-02-09,west
+480,"$2,130.00",2021-02-10,north
+481,"$2,035.00",2021-02-10,south
+482,"$2,045.00",2021-02-10,east
+483,"$2,145.00",2021-02-10,west
+484,"$2,320.00",2021-02-11,north
+485,"$2,350.00",2021-02-11,south
+486,"$2,085.00",2021-02-11,east
+487,"$2,160.00",2021-02-11,west
+488,"$2,375.00",2021-02-12,north
+489,"$2,230.00",2021-02-12,south
+490,"$2,230.00",2021-02-12,east
+491,"$2,130.00",2021-02-12,west
+492,"$2,425.00",2021-02-13,north
+493,"$2,465.00",2021-02-13,south
+494,"$2,105.00",2021-02-13,east
+495,"$2,485.00",2021-02-13,west
+496,"$2,340.00",2021-02-14,north
+497,"$2,240.00",2021-02-14,south
+498,"$2,285.00",2021-02-14,east
+499,"$2,375.00",2021-02-14,west
+500,"$2,110.00",2021-02-15,north
+501,"$2,325.00",2021-02-15,south
+502,"$2,265.00",2021-02-15,east
+503,"$2,175.00",2021-02-15,west
+504,"$2,295.00",2021-02-16,north
+505,"$2,250.00",2021-02-16,south
+506,"$2,180.00",2021-02-16,east
+507,"$2,465.00",2021-02-16,west
+508,"$2,380.00",2021-02-17,north
+509,"$2,130.00",2021-02-17,south
+510,"$2,350.00",2021-02-17,east
+511,"$2,470.00",2021-02-17,west
+512,"$2,005.00",2021-02-18,north
+513,"$2,125.00",2021-02-18,south
+514,"$2,480.00",2021-02-18,east
+515,"$2,240.00",2021-02-18,west
+516,"$2,125.00",2021-02-19,north
+517,"$2,425.00",2021-02-19,south
+518,"$2,050.00",2021-02-19,east
+519,"$2,045.00",2021-02-19,west
+520,"$2,260.00",2021-02-20,north
+521,"$2,105.00",2021-02-20,south
+522,"$2,420.00",2021-02-20,east
+523,"$2,400.00",2021-02-20,west
+524,"$2,345.00",2021-02-21,north
+525,"$2,040.00",2021-02-21,south
+526,"$2,170.00",2021-02-21,east
+527,"$2,445.00",2021-02-21,west
+528,"$2,145.00",2021-02-22,north
+529,"$2,050.00",2021-02-22,south
+530,"$2,200.00",2021-02-22,east
+531,"$2,140.00",2021-02-22,west
+532,"$2,490.00",2021-02-23,north
+533,"$2,370.00",2021-02-23,south
+534,"$2,055.00",2021-02-23,east
+535,"$2,380.00",2021-02-23,west
+536,"$2,330.00",2021-02-24,north
+537,"$2,420.00",2021-02-24,south
+538,"$2,235.00",2021-02-24,east
+539,"$2,045.00",2021-02-24,west
+540,"$2,205.00",2021-02-25,north
+541,"$2,065.00",2021-02-25,south
+542,"$2,300.00",2021-02-25,east
+543,"$2,035.00",2021-02-25,west
+544,"$2,455.00",2021-02-26,north
+545,"$2,350.00",2021-02-26,south
+546,"$2,270.00",2021-02-26,east
+547,"$2,315.00",2021-02-26,west
+548,"$2,000.00",2021-02-27,north
+549,"$2,305.00",2021-02-27,south
+550,"$2,150.00",2021-02-27,east
+551,"$2,305.00",2021-02-27,west
+552,"$2,145.00",2021-02-28,north
+553,"$2,155.00",2021-02-28,south
+554,"$2,290.00",2021-02-28,east
+555,"$2,155.00",2021-02-28,west
+556,"$2,360.00",2021-03-01,north
+557,"$2,430.00",2021-03-01,south
+558,"$2,185.00",2021-03-01,east
+559,"$2,245.00",2021-03-01,west
+560,"$2,370.00",2021-03-02,north
+561,"$2,300.00",2021-03-02,south
+562,"$2,215.00",2021-03-02,east
+563,"$2,225.00",2021-03-02,west
+564,"$2,405.00",2021-03-03,north
+565,"$2,000.00",2021-03-03,south
+566,"$2,025.00",2021-03-03,east
+567,"$2,380.00",2021-03-03,west
+568,"$2,390.00",2021-03-04,north
+569,"$2,335.00",2021-03-04,south
+570,"$2,205.00",2021-03-04,east
+571,"$2,035.00",2021-03-04,west
+572,"$2,080.00",2021-03-05,north
+573,"$2,340.00",2021-03-05,south
+574,"$2,045.00",2021-03-05,east
+575,"$2,005.00",2021-03-05,west
+576,"$2,075.00",2021-03-06,north
+577,"$2,190.00",2021-03-06,south
+578,"$2,305.00",2021-03-06,east
+579,"$2,190.00",2021-03-06,west
+580,"$2,220.00",2021-03-07,north
+581,"$2,025.00",2021-03-07,south
+582,"$2,350.00",2021-03-07,east
+583,"$2,425.00",2021-03-07,west
+584,"$2,170.00",2021-03-08,north
+585,"$2,095.00",2021-03-08,south
+586,"$2,475.00",2021-03-08,east
+587,"$2,395.00",2021-03-08,west
+588,"$2,380.00",2021-03-09,north
+589,"$2,000.00",2021-03-09,south
+590,"$2,180.00",2021-03-09,east
+591,"$2,365.00",2021-03-09,west
+592,"$2,380.00",2021-03-10,north
+593,"$2,320.00",2021-03-10,south
+594,"$2,005.00",2021-03-10,east
+595,"$2,270.00",2021-03-10,west
+596,"$2,005.00",2021-03-11,north
+597,"$2,410.00",2021-03-11,south
+598,"$2,065.00",2021-03-11,east
+599,"$2,170.00",2021-03-11,west
+600,"$2,175.00",2021-03-12,north
+601,"$2,310.00",2021-03-12,south
+602,"$2,490.00",2021-03-12,east
+603,"$2,400.00",2021-03-12,west
+604,"$2,065.00",2021-03-13,north
+605,"$2,165.00",2021-03-13,south
+606,"$2,305.00",2021-03-13,east
+607,"$2,100.00",2021-03-13,west
+608,"$2,245.00",2021-03-14,north
+609,"$2,365.00",2021-03-14,south
+610,"$2,300.00",2021-03-14,east
+611,"$2,340.00",2021-03-14,west
+612,"$2,330.00",2021-03-15,north
+613,"$2,445.00",2021-03-15,south
+614,"$2,390.00",2021-03-15,east
+615,"$2,210.00",2021-03-15,west
+616,"$2,365.00",2021-03-16,north
+617,"$2,500.00",2021-03-16,south
+618,"$2,235.00",2021-03-16,east
+619,"$2,480.00",2021-03-16,west
+620,"$2,065.00",2021-03-17,north
+621,"$2,325.00",2021-03-17,south
+622,"$2,480.00",2021-03-17,east
+623,"$2,265.00",2021-03-17,west
+624,"$2,440.00",2021-03-18,north
+625,"$2,020.00",2021-03-18,south
+626,"$2,115.00",2021-03-18,east
+627,"$2,075.00",2021-03-18,west
+628,"$2,035.00",2021-03-19,north
+629,"$2,495.00",2021-03-19,south
+630,"$2,340.00",2021-03-19,east
+631,"$2,220.00",2021-03-19,west
+632,"$2,380.00",2021-03-20,north
+633,"$2,360.00",2021-03-20,south
+634,"$2,325.00",2021-03-20,east
+635,"$2,340.00",2021-03-20,west
+636,"$2,300.00",2021-03-21,north
+637,"$2,030.00",2021-03-21,south
+638,"$2,110.00",2021-03-21,east
+639,"$2,490.00",2021-03-21,west
+640,"$2,420.00",2021-03-22,north
+641,"$2,030.00",2021-03-22,south
+642,"$2,450.00",2021-03-22,east
+643,"$2,315.00",2021-03-22,west
+644,"$2,470.00",2021-03-23,north
+645,"$2,240.00",2021-03-23,south
+646,"$2,155.00",2021-03-23,east
+647,"$2,005.00",2021-03-23,west
+648,"$2,005.00",2021-03-24,north
+649,"$2,075.00",2021-03-24,south
+650,"$2,080.00",2021-03-24,east
+651,"$2,395.00",2021-03-24,west
+652,"$2,435.00",2021-03-25,north
+653,"$2,055.00",2021-03-25,south
+654,"$2,130.00",2021-03-25,east
+655,"$2,365.00",2021-03-25,west
+656,"$2,320.00",2021-03-26,north
+657,"$2,325.00",2021-03-26,south
+658,"$2,210.00",2021-03-26,east
+659,"$2,225.00",2021-03-26,west
+660,"$2,465.00",2021-03-27,north
+661,"$2,175.00",2021-03-27,south
+662,"$2,145.00",2021-03-27,east
+663,"$2,085.00",2021-03-27,west
+664,"$2,310.00",2021-03-28,north
+665,"$2,070.00",2021-03-28,south
+666,"$2,355.00",2021-03-28,east
+667,"$2,410.00",2021-03-28,west
+668,"$2,475.00",2021-03-29,north
+669,"$2,005.00",2021-03-29,south
+670,"$2,025.00",2021-03-29,east
+671,"$2,265.00",2021-03-29,west
+672,"$2,090.00",2021-03-30,north
+673,"$2,390.00",2021-03-30,south
+674,"$2,410.00",2021-03-30,east
+675,"$2,035.00",2021-03-30,west
+676,"$2,475.00",2021-03-31,north
+677,"$2,135.00",2021-03-31,south
+678,"$2,440.00",2021-03-31,east
+679,"$2,105.00",2021-03-31,west
+680,"$2,405.00",2021-04-01,north
+681,"$2,000.00",2021-04-01,south
+682,"$2,480.00",2021-04-01,east
+683,"$2,495.00",2021-04-01,west
+684,"$2,260.00",2021-04-02,north
+685,"$2,100.00",2021-04-02,south
+686,"$2,480.00",2021-04-02,east
+687,"$2,325.00",2021-04-02,west
+688,"$2,345.00",2021-04-03,north
+689,"$2,005.00",2021-04-03,south
+690,"$2,175.00",2021-04-03,east
+691,"$2,330.00",2021-04-03,west
+692,"$2,480.00",2021-04-04,north
+693,"$2,455.00",2021-04-04,south
+694,"$2,165.00",2021-04-04,east
+695,"$2,355.00",2021-04-04,west
+696,"$2,270.00",2021-04-05,north
+697,"$2,415.00",2021-04-05,south
+698,"$2,150.00",2021-04-05,east
+699,"$2,215.00",2021-04-05,west
+700,"$2,440.00",2021-04-06,north
+701,"$2,435.00",2021-04-06,south
+702,"$2,255.00",2021-04-06,east
+703,"$2,260.00",2021-04-06,west
+704,"$2,020.00",2021-04-07,north
+705,"$2,125.00",2021-04-07,south
+706,"$2,120.00",2021-04-07,east
+707,"$2,070.00",2021-04-07,west
+708,"$2,135.00",2021-04-08,north
+709,"$2,050.00",2021-04-08,south
+710,"$2,400.00",2021-04-08,east
+711,"$2,040.00",2021-04-08,west
+712,"$2,265.00",2021-04-09,north
+713,"$2,340.00",2021-04-09,south
+714,"$2,245.00",2021-04-09,east
+715,"$2,450.00",2021-04-09,west
+716,"$2,385.00",2021-04-10,north
+717,"$2,255.00",2021-04-10,south
+718,"$2,065.00",2021-04-10,east
+719,"$2,295.00",2021-04-10,west
+720,"$2,415.00",2021-04-11,north
+721,"$2,355.00",2021-04-11,south
+722,"$2,425.00",2021-04-11,east
+723,"$2,150.00",2021-04-11,west
+724,"$2,285.00",2021-04-12,north
+725,"$2,315.00",2021-04-12,south
+726,"$2,080.00",2021-04-12,east
+727,"$2,305.00",2021-04-12,west
+728,"$2,115.00",2021-04-13,north
+729,"$2,380.00",2021-04-13,south
+730,"$2,195.00",2021-04-13,east
+731,"$2,325.00",2021-04-13,west
+732,"$2,045.00",2021-04-14,north
+733,"$2,370.00",2021-04-14,south
+734,"$2,485.00",2021-04-14,east
+735,"$2,085.00",2021-04-14,west
+736,"$2,185.00",2021-04-15,north
+737,"$2,275.00",2021-04-15,south
+738,"$2,050.00",2021-04-15,east
+739,"$2,320.00",2021-04-15,west
+740,"$2,335.00",2021-04-16,north
+741,"$2,415.00",2021-04-16,south
+742,"$2,115.00",2021-04-16,east
+743,"$2,380.00",2021-04-16,west
+744,"$2,375.00",2021-04-17,north
+745,"$2,250.00",2021-04-17,south
+746,"$2,415.00",2021-04-17,east
+747,"$2,395.00",2021-04-17,west
+748,"$2,005.00",2021-04-18,north
+749,"$2,215.00",2021-04-18,south
+750,"$2,405.00",2021-04-18,east
+751,"$2,265.00",2021-04-18,west
+752,"$2,160.00",2021-04-19,north
+753,"$2,115.00",2021-04-19,south
+754,"$2,175.00",2021-04-19,east
+755,"$2,420.00",2021-04-19,west
+756,"$2,290.00",2021-04-20,north
+757,"$2,115.00",2021-04-20,south
+758,"$2,110.00",2021-04-20,east
+759,"$2,395.00",2021-04-20,west
+760,"$2,400.00",2021-04-21,north
+761,"$2,195.00",2021-04-21,south
+762,"$2,095.00",2021-04-21,east
+763,"$2,330.00",2021-04-21,west
+764,"$2,235.00",2021-04-22,north
+765,"$2,195.00",2021-04-22,south
+766,"$2,480.00",2021-04-22,east
+767,"$2,270.00",2021-04-22,west
+768,"$2,280.00",2021-04-23,north
+769,"$2,065.00",2021-04-23,south
+770,"$2,065.00",2021-04-23,east
+771,"$2,260.00",2021-04-23,west
+772,"$2,440.00",2021-04-24,north
+773,"$2,130.00",2021-04-24,south
+774,"$2,345.00",2021-04-24,east
+775,"$2,020.00",2021-04-24,west
+776,"$2,275.00",2021-04-25,north
+777,"$2,375.00",2021-04-25,south
+778,"$2,340.00",2021-04-25,east
+779,"$2,300.00",2021-04-25,west
+780,"$2,260.00",2021-04-26,north
+781,"$2,295.00",2021-04-26,south
+782,"$2,295.00",2021-04-26,east
+783,"$2,115.00",2021-04-26,west
+784,"$2,095.00",2021-04-27,north
+785,"$2,010.00",2021-04-27,south
+786,"$2,245.00",2021-04-27,east
+787,"$2,245.00",2021-04-27,west
+788,"$2,385.00",2021-04-28,north
+789,"$2,230.00",2021-04-28,south
+790,"$2,285.00",2021-04-28,east
+791,"$2,115.00",2021-04-28,west
+792,"$2,150.00",2021-04-29,north
+793,"$2,065.00",2021-04-29,south
+794,"$2,110.00",2021-04-29,east
+795,"$2,175.00",2021-04-29,west
+796,"$2,320.00",2021-04-30,north
+797,"$2,435.00",2021-04-30,south
+798,"$2,050.00",2021-04-30,east
+799,"$2,165.00",2021-04-30,west
+800,"$2,460.00",2021-05-01,north
+801,"$2,165.00",2021-05-01,south
+802,"$2,110.00",2021-05-01,east
+803,"$2,320.00",2021-05-01,west
+804,"$2,305.00",2021-05-02,north
+805,"$2,145.00",2021-05-02,south
+806,"$2,460.00",2021-05-02,east
+807,"$2,260.00",2021-05-02,west
+808,"$2,355.00",2021-05-03,north
+809,"$2,070.00",2021-05-03,south
+810,"$2,455.00",2021-05-03,east
+811,"$2,090.00",2021-05-03,west
+812,"$2,270.00",2021-05-04,north
+813,"$2,425.00",2021-05-04,south
+814,"$2,415.00",2021-05-04,east
+815,"$2,065.00",2021-05-04,west
+816,"$2,315.00",2021-05-05,north
+817,"$2,120.00",2021-05-05,south
+818,"$2,330.00",2021-05-05,east
+819,"$2,295.00",2021-05-05,west
+820,"$2,120.00",2021-05-06,north
+821,"$2,050.00",2021-05-06,south
+822,"$2,140.00",2021-05-06,east
+823,"$2,230.00",2021-05-06,west
+824,"$2,090.00",2021-05-07,north
+825,"$2,335.00",2021-05-07,south
+826,"$2,125.00",2021-05-07,east
+827,"$2,380.00",2021-05-07,west
+828,"$2,090.00",2021-05-08,north
+829,"$2,490.00",2021-05-08,south
+830,"$2,200.00",2021-05-08,east
+831,"$2,045.00",2021-05-08,west
+832,"$2,140.00",2021-05-09,north
+833,"$2,115.00",2021-05-09,south
+834,"$2,045.00",2021-05-09,east
+835,"$2,385.00",2021-05-09,west
+836,"$2,250.00",2021-05-10,north
+837,"$2,325.00",2021-05-10,south
+838,"$2,325.00",2021-05-10,east
+839,"$2,400.00",2021-05-10,west
+840,"$2,120.00",2021-05-11,north
+841,"$2,165.00",2021-05-11,south
+842,"$2,175.00",2021-05-11,east
+843,"$2,190.00",2021-05-11,west
+844,"$2,155.00",2021-05-12,north
+845,"$2,325.00",2021-05-12,south
+846,"$2,025.00",2021-05-12,east
+847,"$2,455.00",2021-05-12,west
+848,"$2,330.00",2021-05-13,north
+849,"$2,210.00",2021-05-13,south
+850,"$2,010.00",2021-05-13,east
+851,"$2,320.00",2021-05-13,west
+852,"$2,135.00",2021-05-14,north
+853,"$2,500.00",2021-05-14,south
+854,"$2,140.00",2021-05-14,east
+855,"$2,190.00",2021-05-14,west
+856,"$2,240.00",2021-05-15,north
+857,"$2,180.00",2021-05-15,south
+858,"$2,020.00",2021-05-15,east
+859,"$2,390.00",2021-05-15,west
+860,"$2,375.00",2021-05-16,north
+861,"$2,050.00",2021-05-16,south
+862,"$2,080.00",2021-05-16,east
+863,"$2,055.00",2021-05-16,west
+864,"$2,020.00",2021-05-17,north
+865,"$2,470.00",2021-05-17,south
+866,"$2,220.00",2021-05-17,east
+867,"$2,255.00",2021-05-17,west
+868,"$2,185.00",2021-05-18,north
+869,"$2,455.00",2021-05-18,south
+870,"$2,270.00",2021-05-18,east
+871,"$2,415.00",2021-05-18,west
+872,"$2,400.00",2021-05-19,north
+873,"$2,300.00",2021-05-19,south
+874,"$2,175.00",2021-05-19,east
+875,"$2,020.00",2021-05-19,west
+876,"$2,195.00",2021-05-20,north
+877,"$2,050.00",2021-05-20,south
+878,"$2,055.00",2021-05-20,east
+879,"$2,300.00",2021-05-20,west
+880,"$2,480.00",2021-05-21,north
+881,"$2,240.00",2021-05-21,south
+882,"$2,025.00",2021-05-21,east
+883,"$2,480.00",2021-05-21,west
+884,"$2,430.00",2021-05-22,north
+885,"$2,100.00",2021-05-22,south
+886,"$2,420.00",2021-05-22,east
+887,"$2,410.00",2021-05-22,west
+888,"$2,155.00",2021-05-23,north
+889,"$2,345.00",2021-05-23,south
+890,"$2,045.00",2021-05-23,east
+891,"$2,240.00",2021-05-23,west
+892,"$2,390.00",2021-05-24,north
+893,"$2,210.00",2021-05-24,south
+894,"$2,105.00",2021-05-24,east
+895,"$2,075.00",2021-05-24,west
+896,"$2,020.00",2021-05-25,north
+897,"$2,105.00",2021-05-25,south
+898,"$2,295.00",2021-05-25,east
+899,"$2,005.00",2021-05-25,west
+900,"$2,475.00",2021-05-26,north
+901,"$2,210.00",2021-05-26,south
+902,"$2,040.00",2021-05-26,east
+903,"$2,085.00",2021-05-26,west
+904,"$2,080.00",2021-05-27,north
+905,"$2,260.00",2021-05-27,south
+906,"$2,345.00",2021-05-27,east
+907,"$2,160.00",2021-05-27,west
+908,"$2,205.00",2021-05-28,north
+909,"$2,055.00",2021-05-28,south
+910,"$2,280.00",2021-05-28,east
+911,"$2,205.00",2021-05-28,west
+912,"$2,150.00",2021-05-29,north
+913,"$2,450.00",2021-05-29,south
+914,"$2,005.00",2021-05-29,east
+915,"$2,115.00",2021-05-29,west
+916,"$2,380.00",2021-05-30,north
+917,"$2,225.00",2021-05-30,south
+918,"$2,485.00",2021-05-30,east
+919,"$2,310.00",2021-05-30,west
+920,"$2,395.00",2021-05-31,north
+921,"$2,095.00",2021-05-31,south
+922,"$2,220.00",2021-05-31,east
+923,"$2,130.00",2021-05-31,west
+924,"$2,140.00",2021-06-01,north
+925,"$2,450.00",2021-06-01,south
+926,"$2,055.00",2021-06-01,east
+927,"$2,215.00",2021-06-01,west
+928,"$2,015.00",2021-06-02,north
+929,"$2,350.00",2021-06-02,south
+930,"$2,005.00",2021-06-02,east
+931,"$2,015.00",2021-06-02,west
+932,"$2,375.00",2021-06-03,north
+933,"$2,025.00",2021-06-03,south
+934,"$2,375.00",2021-06-03,east
+935,"$2,300.00",2021-06-03,west
+936,"$2,405.00",2021-06-04,north
+937,"$2,135.00",2021-06-04,south
+938,"$2,315.00",2021-06-04,east
+939,"$2,300.00",2021-06-04,west
+940,"$2,425.00",2021-06-05,north
+941,"$2,400.00",2021-06-05,south
+942,"$2,245.00",2021-06-05,east
+943,"$2,085.00",2021-06-05,west
+944,"$2,020.00",2021-06-06,north
+945,"$2,190.00",2021-06-06,south
+946,"$2,450.00",2021-06-06,east
+947,"$2,245.00",2021-06-06,west
+948,"$2,390.00",2021-06-07,north
+949,"$2,020.00",2021-06-07,south
+950,"$2,360.00",2021-06-07,east
+951,"$2,070.00",2021-06-07,west
+952,"$2,290.00",2021-06-08,north
+953,"$2,035.00",2021-06-08,south
+954,"$2,450.00",2021-06-08,east
+955,"$2,120.00",2021-06-08,west
+956,"$2,480.00",2021-06-09,north
+957,"$2,500.00",2021-06-09,south
+958,"$2,365.00",2021-06-09,east
+959,"$2,330.00",2021-06-09,west
+960,"$2,280.00",2021-06-10,north
+961,"$2,015.00",2021-06-10,south
+962,"$2,500.00",2021-06-10,east
+963,"$2,405.00",2021-06-10,west
+964,"$2,385.00",2021-06-11,north
+965,"$2,090.00",2021-06-11,south
+966,"$2,300.00",2021-06-11,east
+967,"$2,350.00",2021-06-11,west
+968,"$2,095.00",2021-06-12,north
+969,"$2,375.00",2021-06-12,south
+970,"$2,270.00",2021-06-12,east
+971,"$2,365.00",2021-06-12,west
+972,"$2,205.00",2021-06-13,north
+973,"$2,260.00",2021-06-13,south
+974,"$2,135.00",2021-06-13,east
+975,"$2,280.00",2021-06-13,west
+976,"$2,485.00",2021-06-14,north
+977,"$2,025.00",2021-06-14,south
+978,"$2,460.00",2021-06-14,east
+979,"$2,285.00",2021-06-14,west
+980,"$2,090.00",2021-06-15,north
+981,"$2,075.00",2021-06-15,south
+982,"$2,125.00",2021-06-15,east
+983,"$2,085.00",2021-06-15,west
+984,"$2,410.00",2021-06-16,north
+985,"$2,265.00",2021-06-16,south
+986,"$2,145.00",2021-06-16,east
+987,"$2,320.00",2021-06-16,west
+988,"$2,260.00",2021-06-17,north
+989,"$2,460.00",2021-06-17,south
+990,"$2,060.00",2021-06-17,east
+991,"$2,120.00",2021-06-17,west
+992,"$2,325.00",2021-06-18,north
+993,"$2,275.00",2021-06-18,south
+994,"$2,285.00",2021-06-18,east
+995,"$2,150.00",2021-06-18,west
+996,"$2,160.00",2021-06-19,north
+997,"$2,020.00",2021-06-19,south
+998,"$2,430.00",2021-06-19,east
+999,"$2,025.00",2021-06-19,west
+1000,"$2,280.00",2021-06-20,north
+1001,"$2,425.00",2021-06-20,south
+1002,"$2,230.00",2021-06-20,east
+1003,"$2,160.00",2021-06-20,west
+1004,"$2,360.00",2021-06-21,north
+1005,"$2,305.00",2021-06-21,south
+1006,"$2,105.00",2021-06-21,east
+1007,"$2,290.00",2021-06-21,west
+1008,"$2,280.00",2021-06-22,north
+1009,"$2,010.00",2021-06-22,south
+1010,"$2,095.00",2021-06-22,east
+1011,"$2,270.00",2021-06-22,west
+1012,"$2,080.00",2021-06-23,north
+1013,"$2,345.00",2021-06-23,south
+1014,"$2,240.00",2021-06-23,east
+1015,"$2,425.00",2021-06-23,west
+1016,"$2,390.00",2021-06-24,north
+1017,"$2,155.00",2021-06-24,south
+1018,"$2,060.00",2021-06-24,east
+1019,"$2,055.00",2021-06-24,west
+1020,"$2,140.00",2021-06-25,north
+1021,"$2,340.00",2021-06-25,south
+1022,"$2,030.00",2021-06-25,east
+1023,"$2,310.00",2021-06-25,west
+1024,"$2,065.00",2021-06-26,north
+1025,"$2,330.00",2021-06-26,south
+1026,"$2,145.00",2021-06-26,east
+1027,"$2,050.00",2021-06-26,west
+1028,"$2,095.00",2021-06-27,north
+1029,"$2,460.00",2021-06-27,south
+1030,"$2,195.00",2021-06-27,east
+1031,"$2,020.00",2021-06-27,west
+1032,"$2,185.00",2021-06-28,north
+1033,"$2,190.00",2021-06-28,south
+1034,"$2,050.00",2021-06-28,east
+1035,"$2,045.00",2021-06-28,west
+1036,"$2,155.00",2021-06-29,north
+1037,"$2,135.00",2021-06-29,south
+1038,"$2,280.00",2021-06-29,east
+1039,"$2,485.00",2021-06-29,west
+1040,"$2,040.00",2021-06-30,north
+1041,"$2,130.00",2021-06-30,south
+1042,"$2,490.00",2021-06-30,east
+1043,"$2,160.00",2021-06-30,west
+1044,"$2,065.00",2021-07-01,north
+1045,"$2,355.00",2021-07-01,south
+1046,"$2,205.00",2021-07-01,east
+1047,"$2,265.00",2021-07-01,west
+1048,"$2,005.00",2021-07-02,north
+1049,"$2,450.00",2021-07-02,south
+1050,"$2,500.00",2021-07-02,east
+1051,"$2,445.00",2021-07-02,west
+1052,"$2,460.00",2021-07-03,north
+1053,"$2,060.00",2021-07-03,south
+1054,"$2,090.00",2021-07-03,east
+1055,"$2,415.00",2021-07-03,west
+1056,"$2,395.00",2021-07-04,north
+1057,"$2,370.00",2021-07-04,south
+1058,"$2,110.00",2021-07-04,east
+1059,"$2,395.00",2021-07-04,west
+1060,"$2,205.00",2021-07-05,north
+1061,"$2,245.00",2021-07-05,south
+1062,"$2,330.00",2021-07-05,east
+1063,"$2,010.00",2021-07-05,west
+1064,"$2,430.00",2021-07-06,north
+1065,"$2,125.00",2021-07-06,south
+1066,"$2,235.00",2021-07-06,east
+1067,"$2,175.00",2021-07-06,west
+1068,"$2,460.00",2021-07-07,north
+1069,"$2,500.00",2021-07-07,south
+1070,"$2,315.00",2021-07-07,east
+1071,"$2,120.00",2021-07-07,west
+1072,"$2,040.00",2021-07-08,north
+1073,"$2,425.00",2021-07-08,south
+1074,"$2,375.00",2021-07-08,east
+1075,"$2,080.00",2021-07-08,west
+1076,"$2,105.00",2021-07-09,north
+1077,"$2,240.00",2021-07-09,south
+1078,"$2,015.00",2021-07-09,east
+1079,"$2,170.00",2021-07-09,west
+1080,"$2,195.00",2021-07-10,north
+1081,"$2,440.00",2021-07-10,south
+1082,"$2,040.00",2021-07-10,east
+1083,"$2,260.00",2021-07-10,west
+1084,"$2,170.00",2021-07-11,north
+1085,"$2,200.00",2021-07-11,south
+1086,"$2,260.00",2021-07-11,east
+1087,"$2,395.00",2021-07-11,west
+1088,"$2,010.00",2021-07-12,north
+1089,"$2,005.00",2021-07-12,south
+1090,"$2,250.00",2021-07-12,east
+1091,"$2,010.00",2021-07-12,west
+1092,"$2,145.00",2021-07-13,north
+1093,"$2,105.00",2021-07-13,south
+1094,"$2,265.00",2021-07-13,east
+1095,"$2,020.00",2021-07-13,west
+1096,"$2,295.00",2021-07-14,north
+1097,"$2,330.00",2021-07-14,south
+1098,"$2,280.00",2021-07-14,east
+1099,"$2,045.00",2021-07-14,west
+1100,"$2,375.00",2021-07-15,north
+1101,"$2,370.00",2021-07-15,south
+1102,"$2,255.00",2021-07-15,east
+1103,"$2,305.00",2021-07-15,west
+1104,"$2,440.00",2021-07-16,north
+1105,"$2,020.00",2021-07-16,south
+1106,"$2,035.00",2021-07-16,east
+1107,"$2,155.00",2021-07-16,west
+1108,"$2,145.00",2021-07-17,north
+1109,"$2,080.00",2021-07-17,south
+1110,"$2,345.00",2021-07-17,east
+1111,"$2,230.00",2021-07-17,west
+1112,"$2,375.00",2021-07-18,north
+1113,"$2,165.00",2021-07-18,south
+1114,"$2,175.00",2021-07-18,east
+1115,"$2,385.00",2021-07-18,west
+1116,"$2,295.00",2021-07-19,north
+1117,"$2,170.00",2021-07-19,south
+1118,"$2,040.00",2021-07-19,east
+1119,"$2,205.00",2021-07-19,west
+1120,"$2,435.00",2021-07-20,north
+1121,"$2,380.00",2021-07-20,south
+1122,"$2,445.00",2021-07-20,east
+1123,"$2,390.00",2021-07-20,west
+1124,"$2,115.00",2021-07-21,north
+1125,"$2,275.00",2021-07-21,south
+1126,"$2,200.00",2021-07-21,east
+1127,"$2,305.00",2021-07-21,west
+1128,"$2,280.00",2021-07-22,north
+1129,"$2,140.00",2021-07-22,south
+1130,"$2,205.00",2021-07-22,east
+1131,"$2,450.00",2021-07-22,west
+1132,"$2,060.00",2021-07-23,north
+1133,"$2,200.00",2021-07-23,south
+1134,"$2,390.00",2021-07-23,east
+1135,"$2,075.00",2021-07-23,west
+1136,"$2,015.00",2021-07-24,north
+1137,"$2,235.00",2021-07-24,south
+1138,"$2,360.00",2021-07-24,east
+1139,"$2,125.00",2021-07-24,west
+1140,"$2,235.00",2021-07-25,north
+1141,"$2,450.00",2021-07-25,south
+1142,"$2,155.00",2021-07-25,east
+1143,"$2,280.00",2021-07-25,west
+1144,"$2,285.00",2021-07-26,north
+1145,"$2,395.00",2021-07-26,south
+1146,"$2,360.00",2021-07-26,east
+1147,"$2,290.00",2021-07-26,west
+1148,"$2,440.00",2021-07-27,north
+1149,"$2,315.00",2021-07-27,south
+1150,"$2,080.00",2021-07-27,east
+1151,"$2,450.00",2021-07-27,west
+1152,"$2,165.00",2021-07-28,north
+1153,"$2,385.00",2021-07-28,south
+1154,"$2,010.00",2021-07-28,east
+1155,"$2,425.00",2021-07-28,west
+1156,"$2,125.00",2021-07-29,north
+1157,"$2,125.00",2021-07-29,south
+1158,"$2,235.00",2021-07-29,east
+1159,"$2,360.00",2021-07-29,west
+1160,"$2,005.00",2021-07-30,north
+1161,"$2,200.00",2021-07-30,south
+1162,"$2,155.00",2021-07-30,east
+1163,"$2,245.00",2021-07-30,west
+1164,"$2,220.00",2021-07-31,north
+1165,"$2,225.00",2021-07-31,south
+1166,"$2,150.00",2021-07-31,east
+1167,"$2,145.00",2021-07-31,west
+1168,"$2,070.00",2021-08-01,north
+1169,"$2,265.00",2021-08-01,south
+1170,"$2,055.00",2021-08-01,east
+1171,"$2,165.00",2021-08-01,west
+1172,"$2,280.00",2021-08-02,north
+1173,"$2,275.00",2021-08-02,south
+1174,"$2,200.00",2021-08-02,east
+1175,"$2,490.00",2021-08-02,west
+1176,"$2,350.00",2021-08-03,north
+1177,"$2,075.00",2021-08-03,south
+1178,"$2,250.00",2021-08-03,east
+1179,"$2,315.00",2021-08-03,west
+1180,"$2,480.00",2021-08-04,north
+1181,"$2,070.00",2021-08-04,south
+1182,"$2,450.00",2021-08-04,east
+1183,"$2,010.00",2021-08-04,west
+1184,"$2,420.00",2021-08-05,north
+1185,"$2,215.00",2021-08-05,south
+1186,"$2,130.00",2021-08-05,east
+1187,"$2,065.00",2021-08-05,west
+1188,"$2,060.00",2021-08-06,north
+1189,"$2,050.00",2021-08-06,south
+1190,"$2,470.00",2021-08-06,east
+1191,"$2,295.00",2021-08-06,west
+1192,"$2,230.00",2021-08-07,north
+1193,"$2,030.00",2021-08-07,south
+1194,"$2,310.00",2021-08-07,east
+1195,"$2,415.00",2021-08-07,west
+1196,"$2,480.00",2021-08-08,north
+1197,"$2,230.00",2021-08-08,south
+1198,"$2,360.00",2021-08-08,east
+1199,"$2,400.00",2021-08-08,west
+1200,"$2,165.00",2021-08-09,north
+1201,"$2,385.00",2021-08-09,south
+1202,"$2,240.00",2021-08-09,east
+1203,"$2,060.00",2021-08-09,west
+1204,"$2,295.00",2021-08-10,north
+1205,"$2,180.00",2021-08-10,south
+1206,"$2,075.00",2021-08-10,east
+1207,"$2,375.00",2021-08-10,west
+1208,"$2,250.00",2021-08-11,north
+1209,"$2,250.00",2021-08-11,south
+1210,"$2,345.00",2021-08-11,east
+1211,"$2,080.00",2021-08-11,west
+1212,"$2,495.00",2021-08-12,north
+1213,"$2,100.00",2021-08-12,south
+1214,"$2,430.00",2021-08-12,east
+1215,"$2,070.00",2021-08-12,west
+1216,"$2,285.00",2021-08-13,north
+1217,"$2,235.00",2021-08-13,south
+1218,"$2,480.00",2021-08-13,east
+1219,"$2,425.00",2021-08-13,west
+1220,"$2,095.00",2021-08-14,north
+1221,"$2,135.00",2021-08-14,south
+1222,"$2,330.00",2021-08-14,east
+1223,"$2,020.00",2021-08-14,west
+1224,"$2,060.00",2021-08-15,north
+1225,"$2,140.00",2021-08-15,south
+1226,"$2,470.00",2021-08-15,east
+1227,"$2,485.00",2021-08-15,west
+1228,"$2,040.00",2021-08-16,north
+1229,"$2,155.00",2021-08-16,south
+1230,"$2,120.00",2021-08-16,east
+1231,"$2,135.00",2021-08-16,west
+1232,"$2,395.00",2021-08-17,north
+1233,"$2,475.00",2021-08-17,south
+1234,"$2,360.00",2021-08-17,east
+1235,"$2,175.00",2021-08-17,west
+1236,"$2,490.00",2021-08-18,north
+1237,"$2,075.00",2021-08-18,south
+1238,"$2,325.00",2021-08-18,east
+1239,"$2,445.00",2021-08-18,west
+1240,"$2,080.00",2021-08-19,north
+1241,"$2,370.00",2021-08-19,south
+1242,"$2,225.00",2021-08-19,east
+1243,"$2,495.00",2021-08-19,west
+1244,"$2,160.00",2021-08-20,north
+1245,"$2,195.00",2021-08-20,south
+1246,"$2,315.00",2021-08-20,east
+1247,"$2,170.00",2021-08-20,west
+1248,"$2,230.00",2021-08-21,north
+1249,"$2,095.00",2021-08-21,south
+1250,"$2,050.00",2021-08-21,east
+1251,"$2,490.00",2021-08-21,west
+1252,"$2,095.00",2021-08-22,north
+1253,"$2,180.00",2021-08-22,south
+1254,"$2,075.00",2021-08-22,east
+1255,"$2,475.00",2021-08-22,west
+1256,"$2,020.00",2021-08-23,north
+1257,"$2,000.00",2021-08-23,south
+1258,"$2,210.00",2021-08-23,east
+1259,"$2,155.00",2021-08-23,west
+1260,"$2,215.00",2021-08-24,north
+1261,"$2,475.00",2021-08-24,south
+1262,"$2,265.00",2021-08-24,east
+1263,"$2,030.00",2021-08-24,west
+1264,"$2,020.00",2021-08-25,north
+1265,"$2,240.00",2021-08-25,south
+1266,"$2,000.00",2021-08-25,east
+1267,"$2,150.00",2021-08-25,west
+1268,"$2,370.00",2021-08-26,north
+1269,"$2,180.00",2021-08-26,south
+1270,"$2,470.00",2021-08-26,east
+1271,"$2,150.00",2021-08-26,west
+1272,"$2,170.00",2021-08-27,north
+1273,"$2,260.00",2021-08-27,south
+1274,"$2,140.00",2021-08-27,east
+1275,"$2,045.00",2021-08-27,west
+1276,"$2,490.00",2021-08-28,north
+1277,"$2,320.00",2021-08-28,south
+1278,"$2,230.00",2021-08-28,east
+1279,"$2,440.00",2021-08-28,west
+1280,"$2,185.00",2021-08-29,north
+1281,"$2,350.00",2021-08-29,south
+1282,"$2,445.00",2021-08-29,east
+1283,"$2,365.00",2021-08-29,west
+1284,"$2,065.00",2021-08-30,north
+1285,"$2,015.00",2021-08-30,south
+1286,"$2,160.00",2021-08-30,east
+1287,"$2,300.00",2021-08-30,west
+1288,"$2,045.00",2021-08-31,north
+1289,"$2,440.00",2021-08-31,south
+1290,"$2,165.00",2021-08-31,east
+1291,"$2,180.00",2021-08-31,west
+1292,"$2,330.00",2021-09-01,north
+1293,"$2,240.00",2021-09-01,south
+1294,"$2,120.00",2021-09-01,east
+1295,"$2,495.00",2021-09-01,west
+1296,"$2,080.00",2021-09-02,north
+1297,"$2,415.00",2021-09-02,south
+1298,"$2,085.00",2021-09-02,east
+1299,"$2,400.00",2021-09-02,west
+1300,"$2,255.00",2021-09-03,north
+1301,"$2,245.00",2021-09-03,south
+1302,"$2,020.00",2021-09-03,east
+1303,"$2,270.00",2021-09-03,west
+1304,"$2,395.00",2021-09-04,north
+1305,"$2,165.00",2021-09-04,south
+1306,"$2,020.00",2021-09-04,east
+1307,"$2,135.00",2021-09-04,west
+1308,"$2,330.00",2021-09-05,north
+1309,"$2,290.00",2021-09-05,south
+1310,"$2,045.00",2021-09-05,east
+1311,"$2,255.00",2021-09-05,west
+1312,"$2,345.00",2021-09-06,north
+1313,"$2,185.00",2021-09-06,south
+1314,"$2,335.00",2021-09-06,east
+1315,"$2,300.00",2021-09-06,west
+1316,"$2,040.00",2021-09-07,north
+1317,"$2,055.00",2021-09-07,south
+1318,"$2,270.00",2021-09-07,east
+1319,"$2,335.00",2021-09-07,west
+1320,"$2,425.00",2021-09-08,north
+1321,"$2,445.00",2021-09-08,south
+1322,"$2,480.00",2021-09-08,east
+1323,"$2,480.00",2021-09-08,west
+1324,"$2,000.00",2021-09-09,north
+1325,"$2,075.00",2021-09-09,south
+1326,"$2,345.00",2021-09-09,east
+1327,"$2,245.00",2021-09-09,west
+1328,"$2,070.00",2021-09-10,north
+1329,"$2,365.00",2021-09-10,south
+1330,"$2,015.00",2021-09-10,east
+1331,"$2,375.00",2021-09-10,west
+1332,"$2,270.00",2021-09-11,north
+1333,"$2,015.00",2021-09-11,south
+1334,"$2,000.00",2021-09-11,east
+1335,"$2,295.00",2021-09-11,west
+1336,"$2,435.00",2021-09-12,north
+1337,"$2,485.00",2021-09-12,south
+1338,"$2,450.00",2021-09-12,east
+1339,"$2,205.00",2021-09-12,west
+1340,"$2,415.00",2021-09-13,north
+1341,"$2,440.00",2021-09-13,south
+1342,"$2,490.00",2021-09-13,east
+1343,"$2,415.00",2021-09-13,west
+1344,"$2,260.00",2021-09-14,north
+1345,"$2,385.00",2021-09-14,south
+1346,"$2,280.00",2021-09-14,east
+1347,"$2,210.00",2021-09-14,west
+1348,"$2,070.00",2021-09-15,north
+1349,"$2,105.00",2021-09-15,south
+1350,"$2,425.00",2021-09-15,east
+1351,"$2,265.00",2021-09-15,west
+1352,"$2,190.00",2021-09-16,north
+1353,"$2,110.00",2021-09-16,south
+1354,"$2,115.00",2021-09-16,east
+1355,"$2,455.00",2021-09-16,west
+1356,"$2,270.00",2021-09-17,north
+1357,"$2,350.00",2021-09-17,south
+1358,"$2,365.00",2021-09-17,east
+1359,"$2,270.00",2021-09-17,west
+1360,"$2,200.00",2021-09-18,north
+1361,"$2,500.00",2021-09-18,south
+1362,"$2,425.00",2021-09-18,east
+1363,"$2,290.00",2021-09-18,west
+1364,"$2,460.00",2021-09-19,north
+1365,"$2,185.00",2021-09-19,south
+1366,"$2,390.00",2021-09-19,east
+1367,"$2,175.00",2021-09-19,west
+1368,"$2,480.00",2021-09-20,north
+1369,"$2,385.00",2021-09-20,south
+1370,"$2,150.00",2021-09-20,east
+1371,"$2,225.00",2021-09-20,west
+1372,"$2,395.00",2021-09-21,north
+1373,"$2,395.00",2021-09-21,south
+1374,"$2,445.00",2021-09-21,east
+1375,"$2,295.00",2021-09-21,west
+1376,"$2,285.00",2021-09-22,north
+1377,"$2,095.00",2021-09-22,south
+1378,"$2,310.00",2021-09-22,east
+1379,"$2,120.00",2021-09-22,west
+1380,"$2,075.00",2021-09-23,north
+1381,"$2,390.00",2021-09-23,south
+1382,"$2,485.00",2021-09-23,east
+1383,"$2,475.00",2021-09-23,west
+1384,"$2,225.00",2021-09-24,north
+1385,"$2,325.00",2021-09-24,south
+1386,"$2,195.00",2021-09-24,east
+1387,"$2,410.00",2021-09-24,west
+1388,"$2,285.00",2021-09-25,north
+1389,"$2,000.00",2021-09-25,south
+1390,"$2,345.00",2021-09-25,east
+1391,"$2,400.00",2021-09-25,west
+1392,"$2,260.00",2021-09-26,north
+1393,"$2,300.00",2021-09-26,south
+1394,"$2,150.00",2021-09-26,east
+1395,"$2,200.00",2021-09-26,west
+1396,"$2,140.00",2021-09-27,north
+1397,"$2,365.00",2021-09-27,south
+1398,"$2,090.00",2021-09-27,east
+1399,"$2,115.00",2021-09-27,west
+1400,"$2,070.00",2021-09-28,north
+1401,"$2,085.00",2021-09-28,south
+1402,"$2,435.00",2021-09-28,east
+1403,"$2,115.00",2021-09-28,west
+1404,"$2,340.00",2021-09-29,north
+1405,"$2,225.00",2021-09-29,south
+1406,"$2,140.00",2021-09-29,east
+1407,"$2,240.00",2021-09-29,west
+1408,"$2,000.00",2021-09-30,north
+1409,"$2,175.00",2021-09-30,south
+1410,"$2,020.00",2021-09-30,east
+1411,"$2,425.00",2021-09-30,west
+1412,"$2,350.00",2021-10-01,north
+1413,"$2,215.00",2021-10-01,south
+1414,"$2,345.00",2021-10-01,east
+1415,"$2,360.00",2021-10-01,west
+1416,"$2,370.00",2021-10-02,north
+1417,"$2,180.00",2021-10-02,south
+1418,"$2,000.00",2021-10-02,east
+1419,"$2,235.00",2021-10-02,west
+1420,"$2,055.00",2021-10-03,north
+1421,"$2,265.00",2021-10-03,south
+1422,"$2,165.00",2021-10-03,east
+1423,"$2,165.00",2021-10-03,west
+1424,"$2,135.00",2021-10-04,north
+1425,"$2,395.00",2021-10-04,south
+1426,"$2,240.00",2021-10-04,east
+1427,"$2,295.00",2021-10-04,west
+1428,"$2,425.00",2021-10-05,north
+1429,"$2,255.00",2021-10-05,south
+1430,"$2,145.00",2021-10-05,east
+1431,"$2,000.00",2021-10-05,west
+1432,"$2,090.00",2021-10-06,north
+1433,"$2,390.00",2021-10-06,south
+1434,"$2,120.00",2021-10-06,east
+1435,"$2,405.00",2021-10-06,west
+1436,"$2,370.00",2021-10-07,north
+1437,"$2,080.00",2021-10-07,south
+1438,"$2,160.00",2021-10-07,east
+1439,"$2,270.00",2021-10-07,west
+1440,"$2,455.00",2021-10-08,north
+1441,"$2,360.00",2021-10-08,south
+1442,"$2,085.00",2021-10-08,east
+1443,"$2,045.00",2021-10-08,west
+1444,"$2,260.00",2021-10-09,north
+1445,"$2,300.00",2021-10-09,south
+1446,"$2,065.00",2021-10-09,east
+1447,"$2,025.00",2021-10-09,west
+1448,"$2,400.00",2021-10-10,north
+1449,"$2,255.00",2021-10-10,south
+1450,"$2,335.00",2021-10-10,east
+1451,"$2,460.00",2021-10-10,west
+1452,"$2,120.00",2021-10-11,north
+1453,"$2,230.00",2021-10-11,south
+1454,"$2,195.00",2021-10-11,east
+1455,"$2,205.00",2021-10-11,west
+1456,"$2,105.00",2021-10-12,north
+1457,"$2,105.00",2021-10-12,south
+1458,"$2,065.00",2021-10-12,east
+1459,"$2,005.00",2021-10-12,west
+1460,"$2,205.00",2021-10-13,north
+1461,"$2,495.00",2021-10-13,south
+1462,"$2,125.00",2021-10-13,east
+1463,"$2,410.00",2021-10-13,west
+1464,"$2,320.00",2021-10-14,north
+1465,"$2,010.00",2021-10-14,south
+1466,"$2,330.00",2021-10-14,east
+1467,"$2,275.00",2021-10-14,west
+1468,"$2,305.00",2021-10-15,north
+1469,"$2,425.00",2021-10-15,south
+1470,"$2,310.00",2021-10-15,east
+1471,"$2,090.00",2021-10-15,west
+1472,"$2,485.00",2021-10-16,north
+1473,"$2,415.00",2021-10-16,south
+1474,"$2,395.00",2021-10-16,east
+1475,"$2,090.00",2021-10-16,west
+1476,"$2,010.00",2021-10-17,north
+1477,"$2,085.00",2021-10-17,south
+1478,"$2,250.00",2021-10-17,east
+1479,"$2,450.00",2021-10-17,west
+1480,"$2,230.00",2021-10-18,north
+1481,"$2,310.00",2021-10-18,south
+1482,"$2,005.00",2021-10-18,east
+1483,"$2,025.00",2021-10-18,west
+1484,"$2,085.00",2021-10-19,north
+1485,"$2,275.00",2021-10-19,south
+1486,"$2,220.00",2021-10-19,east
+1487,"$2,395.00",2021-10-19,west
+1488,"$2,070.00",2021-10-20,north
+1489,"$2,210.00",2021-10-20,south
+1490,"$2,290.00",2021-10-20,east
+1491,"$2,380.00",2021-10-20,west
+1492,"$2,475.00",2021-10-21,north
+1493,"$2,175.00",2021-10-21,south
+1494,"$2,015.00",2021-10-21,east
+1495,"$2,115.00",2021-10-21,west
+1496,"$2,030.00",2021-10-22,north
+1497,"$2,400.00",2021-10-22,south
+1498,"$2,180.00",2021-10-22,east
+1499,"$2,345.00",2021-10-22,west
+1500,"$2,485.00",2021-10-23,north
+1501,"$2,225.00",2021-10-23,south
+1502,"$2,095.00",2021-10-23,east
+1503,"$2,350.00",2021-10-23,west
+1504,"$2,315.00",2021-10-24,north
+1505,"$2,155.00",2021-10-24,south
+1506,"$2,305.00",2021-10-24,east
+1507,"$2,250.00",2021-10-24,west
+1508,"$2,470.00",2021-10-25,north
+1509,"$2,135.00",2021-10-25,south
+1510,"$2,255.00",2021-10-25,east
+1511,"$2,270.00",2021-10-25,west
+1512,"$2,410.00",2021-10-26,north
+1513,"$2,490.00",2021-10-26,south
+1514,"$2,250.00",2021-10-26,east
+1515,"$2,220.00",2021-10-26,west
+1516,"$2,145.00",2021-10-27,north
+1517,"$2,145.00",2021-10-27,south
+1518,"$2,450.00",2021-10-27,east
+1519,"$2,090.00",2021-10-27,west
+1520,"$2,165.00",2021-10-28,north
+1521,"$2,355.00",2021-10-28,south
+1522,"$2,315.00",2021-10-28,east
+1523,"$2,300.00",2021-10-28,west
+1524,"$2,225.00",2021-10-29,north
+1525,"$2,175.00",2021-10-29,south
+1526,"$2,435.00",2021-10-29,east
+1527,"$2,035.00",2021-10-29,west
+1528,"$2,430.00",2021-10-30,north
+1529,"$2,180.00",2021-10-30,south
+1530,"$2,060.00",2021-10-30,east
+1531,"$2,470.00",2021-10-30,west
+1532,"$2,400.00",2021-10-31,north
+1533,"$2,220.00",2021-10-31,south
+1534,"$2,395.00",2021-10-31,east
+1535,"$2,120.00",2021-10-31,west
+1536,"$2,080.00",2021-11-01,north
+1537,"$2,445.00",2021-11-01,south
+1538,"$2,415.00",2021-11-01,east
+1539,"$2,355.00",2021-11-01,west
+1540,"$2,405.00",2021-11-02,north
+1541,"$2,120.00",2021-11-02,south
+1542,"$2,195.00",2021-11-02,east
+1543,"$2,025.00",2021-11-02,west
+1544,"$2,305.00",2021-11-03,north
+1545,"$2,035.00",2021-11-03,south
+1546,"$2,085.00",2021-11-03,east
+1547,"$2,285.00",2021-11-03,west
+1548,"$2,205.00",2021-11-04,north
+1549,"$2,155.00",2021-11-04,south
+1550,"$2,105.00",2021-11-04,east
+1551,"$2,085.00",2021-11-04,west
+1552,"$2,475.00",2021-11-05,north
+1553,"$2,425.00",2021-11-05,south
+1554,"$2,330.00",2021-11-05,east
+1555,"$2,205.00",2021-11-05,west
+1556,"$2,235.00",2021-11-06,north
+1557,"$2,050.00",2021-11-06,south
+1558,"$2,455.00",2021-11-06,east
+1559,"$2,065.00",2021-11-06,west
+1560,"$2,210.00",2021-11-07,north
+1561,"$2,065.00",2021-11-07,south
+1562,"$2,215.00",2021-11-07,east
+1563,"$2,275.00",2021-11-07,west
+1564,"$2,005.00",2021-11-08,north
+1565,"$2,120.00",2021-11-08,south
+1566,"$2,140.00",2021-11-08,east
+1567,"$2,260.00",2021-11-08,west
+1568,"$2,165.00",2021-11-09,north
+1569,"$2,000.00",2021-11-09,south
+1570,"$2,435.00",2021-11-09,east
+1571,"$2,250.00",2021-11-09,west
+1572,"$2,485.00",2021-11-10,north
+1573,"$2,090.00",2021-11-10,south
+1574,"$2,025.00",2021-11-10,east
+1575,"$2,365.00",2021-11-10,west
+1576,"$2,150.00",2021-11-11,north
+1577,"$2,160.00",2021-11-11,south
+1578,"$2,035.00",2021-11-11,east
+1579,"$2,445.00",2021-11-11,west
+1580,"$2,350.00",2021-11-12,north
+1581,"$2,130.00",2021-11-12,south
+1582,"$2,045.00",2021-11-12,east
+1583,"$2,490.00",2021-11-12,west
+1584,"$2,315.00",2021-11-13,north
+1585,"$2,210.00",2021-11-13,south
+1586,"$2,345.00",2021-11-13,east
+1587,"$2,285.00",2021-11-13,west
+1588,"$2,225.00",2021-11-14,north
+1589,"$2,190.00",2021-11-14,south
+1590,"$2,495.00",2021-11-14,east
+1591,"$2,485.00",2021-11-14,west
+1592,"$2,105.00",2021-11-15,north
+1593,"$2,425.00",2021-11-15,south
+1594,"$2,155.00",2021-11-15,east
+1595,"$2,495.00",2021-11-15,west
+1596,"$2,485.00",2021-11-16,north
+1597,"$2,225.00",2021-11-16,south
+1598,"$2,315.00",2021-11-16,east
+1599,"$2,300.00",2021-11-16,west
+1600,"$2,165.00",2021-11-17,north
+1601,"$2,240.00",2021-11-17,south
+1602,"$2,290.00",2021-11-17,east
+1603,"$2,025.00",2021-11-17,west
+1604,"$2,080.00",2021-11-18,north
+1605,"$2,325.00",2021-11-18,south
+1606,"$2,105.00",2021-11-18,east
+1607,"$2,245.00",2021-11-18,west
+1608,"$2,180.00",2021-11-19,north
+1609,"$2,180.00",2021-11-19,south
+1610,"$2,345.00",2021-11-19,east
+1611,"$2,435.00",2021-11-19,west
+1612,"$2,490.00",2021-11-20,north
+1613,"$2,160.00",2021-11-20,south
+1614,"$2,460.00",2021-11-20,east
+1615,"$2,040.00",2021-11-20,west
+1616,"$2,010.00",2021-11-21,north
+1617,"$2,440.00",2021-11-21,south
+1618,"$2,190.00",2021-11-21,east
+1619,"$2,365.00",2021-11-21,west
+1620,"$2,145.00",2021-11-22,north
+1621,"$2,420.00",2021-11-22,south
+1622,"$2,200.00",2021-11-22,east
+1623,"$2,075.00",2021-11-22,west
+1624,"$2,075.00",2021-11-23,north
+1625,"$2,450.00",2021-11-23,south
+1626,"$2,280.00",2021-11-23,east
+1627,"$2,220.00",2021-11-23,west
+1628,"$2,410.00",2021-11-24,north
+1629,"$2,015.00",2021-11-24,south
+1630,"$2,020.00",2021-11-24,east
+1631,"$2,060.00",2021-11-24,west
+1632,"$2,410.00",2021-11-25,north
+1633,"$2,485.00",2021-11-25,south
+1634,"$2,445.00",2021-11-25,east
+1635,"$2,285.00",2021-11-25,west
+1636,"$2,490.00",2021-11-26,north
+1637,"$2,215.00",2021-11-26,south
+1638,"$2,015.00",2021-11-26,east
+1639,"$2,070.00",2021-11-26,west
+1640,"$2,170.00",2021-11-27,north
+1641,"$2,235.00",2021-11-27,south
+1642,"$2,145.00",2021-11-27,east
+1643,"$2,370.00",2021-11-27,west
+1644,"$2,035.00",2021-11-28,north
+1645,"$2,335.00",2021-11-28,south
+1646,"$2,390.00",2021-11-28,east
+1647,"$2,500.00",2021-11-28,west
+1648,"$2,180.00",2021-11-29,north
+1649,"$2,495.00",2021-11-29,south
+1650,"$2,170.00",2021-11-29,east
+1651,"$2,275.00",2021-11-29,west
+1652,"$2,265.00",2021-11-30,north
+1653,"$2,035.00",2021-11-30,south
+1654,"$2,480.00",2021-11-30,east
+1655,"$2,390.00",2021-11-30,west
+1656,"$2,415.00",2021-12-01,north
+1657,"$2,275.00",2021-12-01,south
+1658,"$2,100.00",2021-12-01,east
+1659,"$2,105.00",2021-12-01,west
+1660,"$2,330.00",2021-12-02,north
+1661,"$2,170.00",2021-12-02,south
+1662,"$2,460.00",2021-12-02,east
+1663,"$2,200.00",2021-12-02,west
+1664,"$2,225.00",2021-12-03,north
+1665,"$2,350.00",2021-12-03,south
+1666,"$2,125.00",2021-12-03,east
+1667,"$2,245.00",2021-12-03,west
+1668,"$2,025.00",2021-12-04,north
+1669,"$2,010.00",2021-12-04,south
+1670,"$2,005.00",2021-12-04,east
+1671,"$2,455.00",2021-12-04,west
+1672,"$2,130.00",2021-12-05,north
+1673,"$2,445.00",2021-12-05,south
+1674,"$2,190.00",2021-12-05,east
+1675,"$2,265.00",2021-12-05,west
+1676,"$2,380.00",2021-12-06,north
+1677,"$2,235.00",2021-12-06,south
+1678,"$2,200.00",2021-12-06,east
+1679,"$2,200.00",2021-12-06,west
+1680,"$2,090.00",2021-12-07,north
+1681,"$2,165.00",2021-12-07,south
+1682,"$2,300.00",2021-12-07,east
+1683,"$2,400.00",2021-12-07,west
+1684,"$2,135.00",2021-12-08,north
+1685,"$2,315.00",2021-12-08,south
+1686,"$2,375.00",2021-12-08,east
+1687,"$2,080.00",2021-12-08,west
+1688,"$2,270.00",2021-12-09,north
+1689,"$2,430.00",2021-12-09,south
+1690,"$2,335.00",2021-12-09,east
+1691,"$2,065.00",2021-12-09,west
+1692,"$2,235.00",2021-12-10,north
+1693,"$2,375.00",2021-12-10,south
+1694,"$2,400.00",2021-12-10,east
+1695,"$2,305.00",2021-12-10,west
+1696,"$2,310.00",2021-12-11,north
+1697,"$2,155.00",2021-12-11,south
+1698,"$2,435.00",2021-12-11,east
+1699,"$2,165.00",2021-12-11,west
+1700,"$2,225.00",2021-12-12,north
+1701,"$2,055.00",2021-12-12,south
+1702,"$2,235.00",2021-12-12,east
+1703,"$2,295.00",2021-12-12,west
+1704,"$2,040.00",2021-12-13,north
+1705,"$2,320.00",2021-12-13,south
+1706,"$2,110.00",2021-12-13,east
+1707,"$2,180.00",2021-12-13,west
+1708,"$2,360.00",2021-12-14,north
+1709,"$2,420.00",2021-12-14,south
+1710,"$2,370.00",2021-12-14,east
+1711,"$2,335.00",2021-12-14,west
+1712,"$2,485.00",2021-12-15,north
+1713,"$2,495.00",2021-12-15,south
+1714,"$2,365.00",2021-12-15,east
+1715,"$2,155.00",2021-12-15,west
+1716,"$2,385.00",2021-12-16,north
+1717,"$2,385.00",2021-12-16,south
+1718,"$2,435.00",2021-12-16,east
+1719,"$2,290.00",2021-12-16,west
+1720,"$2,210.00",2021-12-17,north
+1721,"$2,085.00",2021-12-17,south
+1722,"$2,090.00",2021-12-17,east
+1723,"$2,370.00",2021-12-17,west
+1724,"$2,145.00",2021-12-18,north
+1725,"$2,210.00",2021-12-18,south
+1726,"$2,380.00",2021-12-18,east
+1727,"$2,455.00",2021-12-18,west
+1728,"$2,270.00",2021-12-19,north
+1729,"$2,040.00",2021-12-19,south
+1730,"$2,180.00",2021-12-19,east
+1731,"$2,500.00",2021-12-19,west
+1732,"$2,115.00",2021-12-20,north
+1733,"$2,325.00",2021-12-20,south
+1734,"$2,250.00",2021-12-20,east
+1735,"$2,180.00",2021-12-20,west
+1736,"$2,330.00",2021-12-21,north
+1737,"$2,075.00",2021-12-21,south
+1738,"$2,355.00",2021-12-21,east
+1739,"$2,355.00",2021-12-21,west
+1740,"$2,205.00",2021-12-22,north
+1741,"$2,155.00",2021-12-22,south
+1742,"$2,010.00",2021-12-22,east
+1743,"$2,005.00",2021-12-22,west
+1744,"$2,410.00",2021-12-23,north
+1745,"$2,265.00",2021-12-23,south
+1746,"$2,205.00",2021-12-23,east
+1747,"$2,115.00",2021-12-23,west
+1748,"$2,050.00",2021-12-24,north
+1749,"$2,135.00",2021-12-24,south
+1750,"$2,440.00",2021-12-24,east
+1751,"$2,360.00",2021-12-24,west
+1752,"$2,405.00",2021-12-25,north
+1753,"$2,115.00",2021-12-25,south
+1754,"$2,085.00",2021-12-25,east
+1755,"$2,290.00",2021-12-25,west
+1756,"$2,245.00",2021-12-26,north
+1757,"$2,460.00",2021-12-26,south
+1758,"$2,450.00",2021-12-26,east
+1759,"$2,310.00",2021-12-26,west
+1760,"$2,370.00",2021-12-27,north
+1761,"$2,040.00",2021-12-27,south
+1762,"$2,415.00",2021-12-27,east
+1763,"$2,015.00",2021-12-27,west
+1764,"$2,245.00",2021-12-28,north
+1765,"$2,120.00",2021-12-28,south
+1766,"$2,415.00",2021-12-28,east
+1767,"$2,295.00",2021-12-28,west
+1768,"$2,445.00",2021-12-29,north
+1769,"$2,215.00",2021-12-29,south
+1770,"$2,285.00",2021-12-29,east
+1771,"$2,395.00",2021-12-29,west
+1772,"$2,435.00",2021-12-30,north
+1773,"$2,400.00",2021-12-30,south
+1774,"$2,260.00",2021-12-30,east
+1775,"$2,315.00",2021-12-30,west
+1776,"$2,315.00",2021-12-31,north
+1777,"$2,175.00",2021-12-31,south
+1778,"$2,295.00",2021-12-31,east
+1779,"$2,055.00",2021-12-31,west
+1780,"$2,130.00",2022-01-01,north
+1781,"$2,480.00",2022-01-01,south
+1782,"$2,190.00",2022-01-01,east
+1783,"$2,170.00",2022-01-01,west
+1784,"$2,160.00",2022-01-02,north
+1785,"$2,120.00",2022-01-02,south
+1786,"$2,110.00",2022-01-02,east
+1787,"$2,080.00",2022-01-02,west
+1788,"$2,050.00",2022-01-03,north
+1789,"$2,150.00",2022-01-03,south
+1790,"$2,440.00",2022-01-03,east
+1791,"$2,055.00",2022-01-03,west
+1792,"$2,405.00",2022-01-04,north
+1793,"$2,020.00",2022-01-04,south
+1794,"$2,010.00",2022-01-04,east
+1795,"$2,005.00",2022-01-04,west
+1796,"$2,480.00",2022-01-05,north
+1797,"$2,360.00",2022-01-05,south
+1798,"$2,025.00",2022-01-05,east
+1799,"$2,275.00",2022-01-05,west
+1800,"$2,245.00",2022-01-06,north
+1801,"$2,060.00",2022-01-06,south
+1802,"$2,290.00",2022-01-06,east
+1803,"$2,205.00",2022-01-06,west
+1804,"$2,065.00",2022-01-07,north
+1805,"$2,050.00",2022-01-07,south
+1806,"$2,180.00",2022-01-07,east
+1807,"$2,135.00",2022-01-07,west
+1808,"$2,370.00",2022-01-08,north
+1809,"$2,245.00",2022-01-08,south
+1810,"$2,070.00",2022-01-08,east
+1811,"$2,395.00",2022-01-08,west
+1812,"$2,490.00",2022-01-09,north
+1813,"$2,105.00",2022-01-09,south
+1814,"$2,335.00",2022-01-09,east
+1815,"$2,250.00",2022-01-09,west
+1816,"$2,240.00",2022-01-10,north
+1817,"$2,090.00",2022-01-10,south
+1818,"$2,370.00",2022-01-10,east
+1819,"$2,315.00",2022-01-10,west
+1820,"$2,000.00",2022-01-11,north
+1821,"$2,075.00",2022-01-11,south
+1822,"$2,305.00",2022-01-11,east
+1823,"$2,145.00",2022-01-11,west
+1824,"$2,050.00",2022-01-12,north
+1825,"$2,260.00",2022-01-12,south
+1826,"$2,095.00",2022-01-12,east
+1827,"$2,500.00",2022-01-12,west
+1828,"$2,260.00",2022-01-13,north
+1829,"$2,365.00",2022-01-13,south
+1830,"$2,485.00",2022-01-13,east
+1831,"$2,180.00",2022-01-13,west
+1832,"$2,245.00",2022-01-14,north
+1833,"$2,225.00",2022-01-14,south
+1834,"$2,080.00",2022-01-14,east
+1835,"$2,250.00",2022-01-14,west
+1836,"$2,115.00",2022-01-15,north
+1837,"$2,145.00",2022-01-15,south
+1838,"$2,130.00",2022-01-15,east
+1839,"$2,120.00",2022-01-15,west
+1840,"$2,315.00",2022-01-16,north
+1841,"$2,410.00",2022-01-16,south
+1842,"$2,290.00",2022-01-16,east
+1843,"$2,150.00",2022-01-16,west
+1844,"$2,295.00",2022-01-17,north
+1845,"$2,015.00",2022-01-17,south
+1846,"$2,070.00",2022-01-17,east
+1847,"$2,095.00",2022-01-17,west
+1848,"$2,045.00",2022-01-18,north
+1849,"$2,125.00",2022-01-18,south
+1850,"$2,085.00",2022-01-18,east
+1851,"$2,095.00",2022-01-18,west
+1852,"$2,295.00",2022-01-19,north
+1853,"$2,265.00",2022-01-19,south
+1854,"$2,040.00",2022-01-19,east
+1855,"$2,200.00",2022-01-19,west
+1856,"$2,415.00",2022-01-20,north
+1857,"$2,435.00",2022-01-20,south
+1858,"$2,160.00",2022-01-20,east
+1859,"$2,210.00",2022-01-20,west
+1860,"$2,295.00",2022-01-21,north
+1861,"$2,405.00",2022-01-21,south
+1862,"$2,380.00",2022-01-21,east
+1863,"$2,360.00",2022-01-21,west
+1864,"$2,080.00",2022-01-22,north
+1865,"$2,220.00",2022-01-22,south
+1866,"$2,495.00",2022-01-22,east
+1867,"$2,500.00",2022-01-22,west
+1868,"$2,170.00",2022-01-23,north
+1869,"$2,135.00",2022-01-23,south
+1870,"$2,205.00",2022-01-23,east
+1871,"$2,445.00",2022-01-23,west
+1872,"$2,195.00",2022-01-24,north
+1873,"$2,375.00",2022-01-24,south
+1874,"$2,370.00",2022-01-24,east
+1875,"$2,410.00",2022-01-24,west
+1876,"$2,470.00",2022-01-25,north
+1877,"$2,370.00",2022-01-25,south
+1878,"$2,110.00",2022-01-25,east
+1879,"$2,480.00",2022-01-25,west
+1880,"$2,085.00",2022-01-26,north
+1881,"$2,320.00",2022-01-26,south
+1882,"$2,075.00",2022-01-26,east
+1883,"$2,485.00",2022-01-26,west
+1884,"$2,165.00",2022-01-27,north
+1885,"$2,400.00",2022-01-27,south
+1886,"$2,055.00",2022-01-27,east
+1887,"$2,435.00",2022-01-27,west
+1888,"$2,380.00",2022-01-28,north
+1889,"$2,410.00",2022-01-28,south
+1890,"$2,240.00",2022-01-28,east
+1891,"$2,450.00",2022-01-28,west
+1892,"$2,190.00",2022-01-29,north
+1893,"$2,345.00",2022-01-29,south
+1894,"$2,290.00",2022-01-29,east
+1895,"$2,380.00",2022-01-29,west
+1896,"$2,145.00",2022-01-30,north
+1897,"$2,150.00",2022-01-30,south
+1898,"$2,500.00",2022-01-30,east
+1899,"$2,305.00",2022-01-30,west
+1900,"$2,045.00",2022-01-31,north
+1901,"$2,375.00",2022-01-31,south
+1902,"$2,040.00",2022-01-31,east
+1903,"$2,055.00",2022-01-31,west
+1904,"$2,405.00",2022-02-01,north
+1905,"$2,310.00",2022-02-01,south
+1906,"$2,405.00",2022-02-01,east
+1907,"$2,420.00",2022-02-01,west
+1908,"$2,160.00",2022-02-02,north
+1909,"$2,485.00",2022-02-02,south
+1910,"$2,375.00",2022-02-02,east
+1911,"$2,435.00",2022-02-02,west
+1912,"$2,125.00",2022-02-03,north
+1913,"$2,185.00",2022-02-03,south
+1914,"$2,090.00",2022-02-03,east
+1915,"$2,115.00",2022-02-03,west
+1916,"$2,035.00",2022-02-04,north
+1917,"$2,215.00",2022-02-04,south
+1918,"$2,010.00",2022-02-04,east
+1919,"$2,190.00",2022-02-04,west
+1920,"$2,070.00",2022-02-05,north
+1921,"$2,000.00",2022-02-05,south
+1922,"$2,130.00",2022-02-05,east
+1923,"$2,235.00",2022-02-05,west
+1924,"$2,250.00",2022-02-06,north
+1925,"$2,365.00",2022-02-06,south
+1926,"$2,020.00",2022-02-06,east
+1927,"$2,215.00",2022-02-06,west
+1928,"$2,290.00",2022-02-07,north
+1929,"$2,145.00",2022-02-07,south
+1930,"$2,255.00",2022-02-07,east
+1931,"$2,265.00",2022-02-07,west
+1932,"$2,375.00",2022-02-08,north
+1933,"$2,360.00",2022-02-08,south
+1934,"$2,430.00",2022-02-08,east
+1935,"$2,330.00",2022-02-08,west
+1936,"$2,290.00",2022-02-09,north
+1937,"$2,435.00",2022-02-09,south
+1938,"$2,225.00",2022-02-09,east
+1939,"$2,255.00",2022-02-09,west
+1940,"$2,275.00",2022-02-10,north
+1941,"$2,310.00",2022-02-10,south
+1942,"$2,070.00",2022-02-10,east
+1943,"$2,445.00",2022-02-10,west
+1944,"$2,405.00",2022-02-11,north
+1945,"$2,030.00",2022-02-11,south
+1946,"$2,470.00",2022-02-11,east
+1947,"$2,265.00",2022-02-11,west
+1948,"$2,245.00",2022-02-12,north
+1949,"$2,490.00",2022-02-12,south
+1950,"$2,110.00",2022-02-12,east
+1951,"$2,085.00",2022-02-12,west
+1952,"$2,425.00",2022-02-13,north
+1953,"$2,245.00",2022-02-13,south
+1954,"$2,500.00",2022-02-13,east
+1955,"$2,390.00",2022-02-13,west
+1956,"$2,035.00",2022-02-14,north
+1957,"$2,465.00",2022-02-14,south
+1958,"$2,500.00",2022-02-14,east
+1959,"$2,115.00",2022-02-14,west
