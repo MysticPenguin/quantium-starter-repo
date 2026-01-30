@@ -16,17 +16,13 @@ def clean(sr):
 
 
 
-df = pd.read_csv('C:\\Users\\Benja\\Documents\\CSE 495 Project\\quantium-starter-repo\\data\\daily_sales_data_2.csv')
-
-
-df.apply(clean, axis=1, raw = False)
-
-
+df0 = pd.read_csv('C:\\Users\\Benja\\Documents\\CSE 495 Project\\quantium-starter-repo\\data\\daily_sales_data_0.csv')
+df1 = pd.read_csv('C:\\Users\\Benja\\Documents\\CSE 495 Project\\quantium-starter-repo\\data\\daily_sales_data_1.csv')
+df2 = pd.read_csv('C:\\Users\\Benja\\Documents\\CSE 495 Project\\quantium-starter-repo\\data\\daily_sales_data_2.csv')
+df0.apply(clean, axis=1, raw = False)
+df1.apply(clean,axis=1,raw = False)
+df2.apply(clean,axis=1, raw = False)
 clean_data = pd.DataFrame(columns=["sold","date","region"],data=data_list)
 print(clean_data)
-clean_data.to_csv("daily_sales_data_clean_2.csv")
-# for i in df.index:
-#         test = df.loc[i]
-#         print(test)
-#
-# print(df)
+clean_data.to_csv("daily_sales_data_clean.csv")
+
